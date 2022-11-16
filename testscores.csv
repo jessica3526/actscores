@@ -1,0 +1,2493 @@
+"Title:","ACT Composite 25th Percentile Score from the Test Scores - Postsecondary Education Database"
+"SubTitle:",""
+"Time:","2006 - 2020"
+"Unit of Measure:","#","#","#","#","#","#","#","#","#","#","#","#","#","#"
+"Citation:","National Center for Education Statistics (2022-09-30). Test Scores - Postsecondary Education: ACT Composite 25th Percentile Score, 2006 - 2020. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  017-022-007 doi:https://doi.org/10.6068/DP18482C00B9825"
+"ColumnCount:",18
+"RowCount:",2479
+
+"Institutions by State","2020","2019","2018","2017","2016","2015","2014","2013","2012","2011","2009","2008","2007","2006"
+"California Institute of Technology - California",35,35,35,34,34,34,34,33,33,33,33,33,32,
+"University of Chicago - Illinois",34,33,33,32,32,32,32,32,31,31,28,28,28,29
+"Johns Hopkins University - Maryland",34,33,33,33,32,32,31,30,30,29,29,29,28,28
+"Duke University - North Carolina",34,33,33,31,31,31,31,30,30,30,,29,29,29
+"Franklin W Olin College of Engineering - Massachusetts",34,34,34,33,32,32,32,31,33,32,32,32,33,33
+"Rice University - Texas",34,33,33,33,32,32,31,31,30,30,30,30,29,29
+"Massachusetts Institute of Technology - Massachusetts",34,34,34,33,33,33,33,33,32,32,32,31,31,30
+"Harvey Mudd College - California",34,33,34,33,32,32,33,32,33,32,32,,,
+"Harvard University - Massachusetts",33,33,33,32,32,32,32,32,32,31,31,31,31,31
+"University of Pennsylvania - Pennsylvania",33,33,32,32,32,31,31,30,30,30,30,30,29,29
+"Columbia University in the City of New York - New York",33,33,33,31,32,31,31,31,32,31,29,28,28,28
+"Brown University - Rhode Island",33,33,32,31,31,31,30,29,29,29,29,28,28,27
+"Northeastern University - Massachusetts",33,32,32,32,31,31,31,30,29,28,27,26,25,
+"Webb Institute - New York",33,31,32,30,34,30,31,,,,,,,
+"Vanderbilt University - Tennessee",33,33,33,32,32,32,32,32,32,31,30,30,29,28
+"Yale University - Connecticut",33,33,33,32,32,31,31,32,31,32,30,30,29,29
+"Carnegie Mellon University - Pennsylvania",33,33,33,32,31,31,30,30,29,29,29,29,28,28
+"Washington University in St Louis - Missouri",33,33,32,32,32,32,32,32,32,32,32,31,30,30
+"Northwestern University - Illinois",33,33,33,32,32,31,31,31,31,31,30,30,29,29
+"Jewish Theological Seminary of America - New York",32,30,30,29,28,28,27,30,29,29,30,27,29,29
+"University of Notre Dame - Indiana",32,32,33,32,32,32,32,32,31,32,31,31,31,31
+"Haverford College - Pennsylvania",32,32,32,31,31,31,31,30,29,30,,,,
+"Vassar College - New York",32,31,31,30,30,30,30,30,29,30,29,29,29,29
+"Princeton University - New Jersey",32,33,32,31,32,32,31,31,31,31,31,31,30,30
+"Amherst College - Massachusetts",32,30,31,32,31,31,30,30,30,30,30,29,29,28
+"Hamilton College - New York",32,32,31,31,31,,30,29,29,28,29,26,,
+"Cornell University - New York",32,32,32,31,31,30,30,30,30,29,29,29,28,28
+"Dartmouth College - New Hampshire",32,32,31,30,30,30,30,30,30,30,29,29,28,28
+"Washington and Lee University - Virginia",32,32,31,31,30,30,30,30,29,29,29,28,28,28
+"Tufts University - Massachusetts",32,32,31,31,31,30,30,30,30,30,,,30,29
+"Barnard College - New York",31,31,30,30,29,29,28,28,28,28,28,28,28,29
+"Swarthmore College - Pennsylvania",31,31,31,31,30,30,29,31,30,30,30,28,27,28
+"New York University - New York",31,30,29,29,29,29,28,28,28,29,27,28,28,27
+"Brandeis University - Massachusetts",31,30,29,29,29,29,29,28,28,28,29,28,27,28
+"Boston College - Massachusetts",31,31,31,31,30,30,30,30,29,29,29,28,28,27
+"Middlebury College - Vermont",31,32,31,30,30,29,30,31,30,30,30,29,29,28
+"Wellesley College - Massachusetts",31,31,30,30,30,27,30,29,29,29,29,28,28,29
+"Stevens Institute of Technology - New Jersey",31,31,30,29,29,29,29,27,,,24,24,24,24
+"Case Western Reserve University - Ohio",31,30,30,30,30,30,29,29,29,28,28,26,26,26
+"University of Michigan-Ann Arbor - Michigan",31,31,30,30,29,29,29,28,28,29,27,27,27,27
+"Emory University - Georgia",31,31,31,30,30,29,29,29,29,30,30,29,29,29
+"Claremont McKenna College - California",31,31,31,30,31,29,30,29,29,29,29,,27,29
+"Stanford University - California",31,32,32,32,31,31,31,31,31,30,30,30,29,28
+"Colby College - Maine",31,31,31,31,30,29,28,28,29,28,28,28,28,27
+"Georgetown University - Washington DC",31,31,31,30,30,30,30,29,29,30,26,28,29,27
+"Georgia Institute of Technology-Main Campus - Georgia",31,29,31,30,30,30,30,28,28,27,27,27,27,25
+"Tulane University of Louisiana - Louisiana",30,31,30,30,29,29,29,29,29,29,28,28,27,27
+"Emory University-Oxford College - Georgia",30,30,30,29,28,27,,,,,,,,
+"University of Maryland-College Park - Maryland",30,29,29,29,29,,,,,,,,,
+"Davidson College - North Carolina",30,30,29,30,28,29,28,29,29,29,28,28,28,27
+"George Washington University - Washington DC",30,30,29,29,27,27,27,27,27,27,26,26,,
+"Boston University - Massachusetts",30,30,30,29,28,27,27,26,26,26,25,25,25,25
+"Cooper Union for the Advancement of Science and Art - New York",30,30,31,28,,,30,29,29,29,29,27,29,29
+"Kenyon College - Ohio",30,29,29,29,29,28,28,28,28,28,28,28,28,27
+"Connecticut College - Connecticut",30,30,30,,,,,,,,,25,25,26
+"University of Richmond - Virginia",30,30,30,29,29,29,29,28,28,28,26,26,27,26
+"Colgate University - New York",30,31,31,31,30,30,29,30,30,30,29,29,29,28
+"Villanova University - Pennsylvania",30,31,30,30,30,29,28,29,28,28,28,27,27,26
+"University of Rochester - New York",30,30,30,29,,,,29,28,28,28,27,27,27
+"University of Southern California - California",30,31,30,30,30,30,29,29,29,29,29,28,28,28
+"University of Virginia-Main Campus - Virginia",30,30,30,29,29,29,28,29,28,28,27,27,,26
+"Grinnell College - Iowa",30,31,30,30,30,30,30,28,29,28,28,28,29,29
+"University of California-Berkeley - California",30,31,31,30,31,30,29,27,27,27,25,25,23,24
+"Carleton College - Minnesota",30,31,31,31,30,29,30,29,29,29,29,29,29,28
+"William & Mary - Virginia",30,30,30,29,28,28,29,28,28,28,27,27,27,27
+"University of Florida - Florida",29,28,27,28,27,27,26,26,26,24,25,25,25,24
+"Rensselaer Polytechnic Institute - New York",29,28,29,28,28,28,27,27,26,26,25,24,25,25
+"Hillsdale College - Michigan",29,29,29,28,28,27,,,,,,,,
+"University of Georgia - Georgia",29,27,27,26,26,26,26,26,25,25,24,25,24,24
+"Furman University - South Carolina",29,28,28,26,,,,25,25,26,26,25,25,25
+"Macalester College - Minnesota",29,29,29,29,29,29,28,29,28,28,29,28,28,27
+"Lehigh University - Pennsylvania",29,29,29,29,29,29,28,28,28,28,,,,
+"Whitman College - Washington",29,28,27,28,28,27,28,28,29,29,28,27,27,
+"United States Air Force Academy - Colorado",29,28,28,28,27,29,28,29,29,28,26,28,28,27
+"Southern Methodist University - Texas",29,29,29,28,28,28,28,27,27,27,25,25,25,24
+"Binghamton University - New York",29,29,28,28,28,27,27,27,27,26,26,25,25,23
+"College of the Holy Cross - Massachusetts",29,28,,,,,,,,,,,,
+"Scripps College - California",29,30,30,29,28,29,28,29,28,29,27,28,28,27
+"Colorado School of Mines - Colorado",28,27,28,28,29,28,28,27,27,27,26,26,25,24
+"University of California-San Diego - California",28,26,27,27,27,28,27,25,23,25,24,23,23,23
+"Bucknell University - Pennsylvania",28,28,28,28,28,28,28,27,27,27,27,27,27,27
+"Santa Clara University - California",28,28,28,28,28,27,27,27,27,26,25,24,24,24
+"University of California-Santa Barbara - California",28,27,27,28,27,26,26,24,24,24,23,23,22,22
+"University of Pittsburgh-Pittsburgh Campus - Pennsylvania",28,28,28,27,27,26,26,26,25,25,25,24,24,24
+"United States Naval Academy - Maryland",28,26,26,,,,,,,,,,,
+"United States Military Academy - New York",28,25,27,23,26,26,26,27,25,25,25,26,25,25
+"University of North Carolina at Chapel Hill - North Carolina",28,28,29,28,28,28,28,28,27,27,28,26,25,25
+"Union College - New York",28,27,,,,,,28,,,,,,24
+"Denison University - Ohio",28,27,28,28,28,,,27,27,27,27,25,28,26
+"Wheaton College (Massachusetts) - Massachusetts",28,,27,26,,,,,,,,,,
+"Trinity University - Texas",28,29,27,27,27,27,27,26,26,26,27,27,27,26
+"Lafayette College - Pennsylvania",28,28,27,28,27,27,27,27,27,26,26,26,25,24
+"St Lawrence University - New York",28,26,27,26,,,,,,,,,,
+"Occidental College - California",28,28,28,27,28,28,27,27,28,27,28,27,,26
+"Rochester Institute of Technology - New York",28,27,27,26,26,26,26,25,25,25,25,24,24,
+"Oberlin College - Ohio",28,29,29,28,29,29,28,28,28,28,28,27,26,27
+"University of Miami - Florida",28,29,29,28,28,28,28,28,28,28,27,27,27,26
+"Skidmore College - New York",27,28,27,27,26,26,25,26,26,26,26,26,25,25
+"University of Washington-Seattle Campus - Washington",27,27,27,27,26,26,25,25,24,24,24,23,23,23
+"United States Coast Guard Academy - Connecticut",27,25,25,26,26,26,26,25,25,25,24,27,27,25
+"Clark University - Massachusetts",27,,,,,,,,,,24,24,24,23
+"Holy Cross College - Indiana",27,25,23,22,19,19,18,19,19,19,18,20,20,
+"Sarah Lawrence College - New York",27,28,27,27,27,,,,,,,,,
+"American University - Washington DC",27,27,27,26,26,26,26,26,26,26,26,25,25,25
+"Providence College - Rhode Island",27,27,26,26,23,,,23,23,23,23,23,23,23
+"University of Connecticut - Connecticut",27,26,26,26,26,26,26,25,26,25,24,24,23,23
+"Rhode Island School of Design - Rhode Island",27,26,26,25,24,25,27,24,,24,22,22,,
+"Rhodes College - Tennessee",27,27,28,27,27,27,27,27,26,26,26,26,25,25
+"University of Illinois Urbana-Champaign - Illinois",27,26,26,26,26,26,26,26,26,26,26,26,26,26
+"Fordham University - New York",27,28,28,27,27,27,26,26,26,26,26,25,25,24
+"Florida State University - Florida",27,26,26,26,25,25,26,25,25,25,24,24,23,23
+"Florida Polytechnic University - Florida",27,27,27,25,23,23,23,,,,,,,
+"Fairfield University - Connecticut",27,26,,,,,,,,,23,23,23,
+"University of Massachusetts-Amherst - Massachusetts",27,26,26,26,25,25,24,24,24,24,23,22,22,22
+"Emerson College - Massachusetts",27,27,26,26,25,25,26,26,26,25,24,25,25,24
+"Clemson University - South Carolina",27,27,27,27,26,27,26,26,25,26,25,25,24,24
+"Lewis & Clark College - Oregon",27,27,,27,27,,,26,,27,27,27,26,26
+"Rose-Hulman Institute of Technology - Indiana",27,27,28,27,27,28,27,27,27,27,26,26,27,27
+"Southern California Institute of Architecture - California",27,,,,,24,20,19,21,,,,,22
+"Babson College - Massachusetts",27,27,28,27,27,27,26,26,26,27,25,25,25,25
+"North Carolina State University at Raleigh - North Carolina",27,27,27,26,26,26,26,25,23,23,22,22,21,23
+"Mount Holyoke College - Massachusetts",27,,29,29,,,,,,,,,,
+"University of Wisconsin-Madison - Wisconsin",27,27,27,27,27,27,26,26,26,26,26,26,26,26
+"Loyola Marymount University - California",27,27,27,26,26,25,25,25,24,24,24,23,22,23
+"Texas A & M University-College Station - Texas",26,26,25,25,24,25,24,23,24,24,24,23,23,23
+"Hobart William Smith Colleges - New York",26,26,25,25,26,,,,,,,,,23
+"Pepperdine University - California",26,27,26,26,26,25,25,,,,,,,
+"Illinois Institute of Technology - Illinois",26,26,26,25,26,25,25,25,24,24,25,25,25,25
+"Wheaton College - Illinois",26,26,27,27,27,27,27,27,27,27,27,27,27,27
+"Bentley University - Massachusetts",26,27,28,27,25,26,26,26,25,25,25,25,24,23
+"University of Denver - Colorado",26,26,26,25,26,26,25,25,25,25,24,24,23,22
+"CUNY Bernard M Baruch College - New York",26,,,,,,,,,,,,,
+"University of Florida-Online - Florida",26,24,23,24,23,24,24,,,,,,,
+"University of California-Irvine - California",26,24,25,25,24,24,23,21,21,23,23,22,22,22
+"Soka University of America - California",26,26,25,27,26,24,24,25,24,23,24,,18,
+"California Polytechnic State University-San Luis Obispo - California",26,26,26,26,26,26,25,25,25,25,24,23,23,23
+"Brigham Young University - Utah",26,26,26,27,27,27,27,26,26,26,25,25,25,25
+"Centre College - Kentucky",26,26,27,26,26,26,26,26,26,26,26,26,26,25
+"The University of Texas at Dallas - Texas",26,26,25,26,25,25,25,25,26,25,24,24,24,24
+"Lawrence University - Wisconsin",26,25,27,25,26,,,,,,,,,
+"Muhlenberg College - Pennsylvania",26,26,26,25,26,,,25,23,25,26,26,24,26
+"Stony Brook University - New York",26,26,26,26,26,26,26,26,25,25,24,24,,
+"Missouri University of Science and Technology - Missouri",26,26,25,25,25,25,26,25,26,25,25,25,25,24
+"The University of Texas at Austin - Texas",26,27,27,26,26,26,26,25,25,25,24,24,21,23
+"University of Vermont - Vermont",26,26,26,25,25,25,24,24,24,24,24,23,23,22
+"Ohio State University-Main Campus - Ohio",26,28,27,27,27,27,27,27,26,26,25,25,25,24
+"The New School - New York",26,25,24,24,23,,22,22,22,22,21,22,21,21
+"St Olaf College - Minnesota",25,26,25,25,26,26,26,26,26,27,26,27,26,25
+"University of California-Santa Cruz - California",25,26,26,26,25,25,23,20,21,21,22,21,21,21
+"Conception Seminary College - Missouri",25,13,21,18,20,21,19,22,21,21,19,20,20,19
+"Rutgers University-New Brunswick - New Jersey",25,25,25,,,,,,,,,,,
+"Albany College of Pharmacy and Health Sciences - New York",25,23,24,23,23,24,23,24,24,24,25,22,24,22
+"Texas Christian University - Texas",25,25,26,25,25,25,24,25,25,24,23,23,23,23
+"Elon University - North Carolina",25,25,25,25,25,25,25,23,25,25,25,24,24,23
+"Bryant University - Rhode Island",25,25,,,,,,23,22,22,23,22,23,21
+"University of Minnesota-Twin Cities - Minnesota",25,26,26,26,26,26,26,26,25,25,24,24,24,23
+"University of Central Florida - Florida",25,25,25,24,24,24,24,23,24,24,23,23,23,22
+"Pratt Institute-Main - New York",25,24,25,24,24,23,24,23,23,23,22,22,22,20
+"New College of Florida - Florida",25,25,26,25,26,27,26,27,26,27,27,27,26,26
+"University of Colorado Boulder - Colorado",25,25,25,25,25,24,24,24,23,24,24,24,23,23
+"Saint Louis University - Missouri",25,25,25,25,25,25,25,25,25,25,25,24,24,22
+"Purdue University-Main Campus - Indiana",25,25,25,25,25,25,24,24,24,24,23,23,23,22
+"University of Delaware - Delaware",25,24,25,25,22,24,24,24,24,24,24,24,,23
+"Drexel University - Pennsylvania",25,25,25,24,25,25,23,24,24,24,,23,23,20
+"Gonzaga University - Washington",25,25,25,26,25,25,25,25,24,24,24,24,23,23
+"CUNY Hunter College - New York",25,,,,,,,,,,,,,
+"New Jersey Institute of Technology - New Jersey",25,24,25,24,23,23,23,22,22,,,,,
+"Michigan Technological University - Michigan",25,25,24,25,25,24,25,24,24,23,23,23,23,22
+"Milwaukee School of Engineering - Wisconsin",25,25,25,25,25,25,25,25,24,24,24,23,23,23
+"Saint Anselm College - New Hampshire",25,23,24,24,23,,,23,,,20,21,22,20
+"Virginia Polytechnic Institute and State University - Virginia",25,25,25,25,,,,,,,,,,
+"The University of Tennessee-Knoxville - Tennessee",25,24,25,24,24,24,24,24,24,24,24,23,24,23
+"Mercer University - Georgia",25,25,25,25,25,24,25,23,23,24,24,23,23,22
+"Marquette University - Wisconsin",25,24,24,24,24,24,25,25,24,24,24,24,24,24
+"Kettering University - Michigan",25,24,25,24,25,24,25,24,24,24,24,24,24,24
+"The King's College - New York",25,23,24,24,24,24,23,24,22,24,24,25,,
+"Loyola University Chicago - Illinois",25,25,25,24,24,24,25,24,25,25,24,24,23,23
+"Ursinus College - Pennsylvania",25,24,23,24,,,,24,24,,24,25,22,22
+"University of California-Davis - California",25,24,24,25,25,25,25,23,23,23,22,21,21,21
+"United States Merchant Marine Academy - New York",25,27,27,26,26,,,,,,,,,
+"Chapman University - California",25,25,25,25,25,25,25,24,25,24,25,25,25,24
+"University of South Florida - Florida",25,25,25,24,24,24,23,23,23,23,22,23,22,22
+"University of South Carolina-Columbia - South Carolina",25,25,25,25,25,25,25,24,24,24,24,23,23,22
+"Auburn University - Alabama",25,25,25,24,24,24,24,24,24,24,23,23,22,22
+"The University of the South - Tennessee",25,25,,,,,,26,26,26,26,26,25,25
+"Thomas Aquinas College - California",25,26,25,25,25,28,24,23,25,25,25,26,25,25
+"Patrick Henry College - Virginia",25,26,,,,,,,,,,,,
+"Butler University - Indiana",25,24,25,25,25,25,25,25,25,25,25,25,24,25
+"Seton Hall University - New Jersey",25,24,24,24,23,23,23,22,22,21,20,22,,21
+"The Pennsylvania State University - Pennsylvania",24,,,,,,,,,,,,,
+"University of New Hampshire-Main Campus - New Hampshire",24,22,22,23,22,22,22,,,,,,,21
+"George Mason University - Virginia",24,24,24,24,24,23,23,24,23,23,23,23,21,20
+"Robert Morris University - Pennsylvania",24,21,21,21,21,20,20,21,20,20,20,19,19,18
+"University of Health Sciences and Pharmacy in St. Louis - Missouri",24,24,24,24,24,24,24,25,25,25,25,108,25,24
+"Seattle University - Washington",24,24,24,24,25,25,24,24,24,24,23,22,23,22
+"Earlham College - Indiana",24,23,26,25,,,,26,,24,24,24,24,24
+"University of Maryland-Baltimore County - Maryland",24,24,24,24,24,24,24,24,24,24,22,22,22,22
+"Truman State University - Missouri",24,24,24,24,24,25,24,25,24,25,25,25,25,25
+"Indiana University-Bloomington - Indiana",24,24,24,25,24,24,24,24,24,24,24,23,23,22
+"Miami University-Oxford - Ohio",24,25,25,26,26,26,25,25,24,24,24,24,24,24
+"Simmons University - Massachusetts",24,23,24,24,24,24,24,23,23,22,21,22,21,22
+"University of San Francisco - California",24,23,23,22,23,24,23,23,22,23,22,22,22,22
+"The College of New Jersey - New Jersey",24,25,25,,25,26,24,,25,24,,,,
+"Illinois Wesleyan University - Illinois",24,24,24,24,25,25,25,25,25,25,26,26,26,26
+"State University of New York at New Paltz - New York",24,23,24,23,23,23,23,23,23,23,,,23,
+"DigiPen Institute of Technology - Washington",24,25,24,25,26,26,25,25,26,23,24,25,24,22
+"Grove City College - Pennsylvania",24,23,24,23,23,24,24,24,24,25,25,26,25,26
+"SUNY College of Environmental Science and Forestry - New York",24,23,23,24,23,25,24,23,25,23,23,21,22,21
+"Allegheny College - Pennsylvania",24,24,24,23,,,23,23,24,23,23,23,24,23
+"South Dakota School of Mines and Technology - South Dakota",24,24,24,24,24,24,24,24,24,24,24,24,23,23
+"Clarkson University - New York",24,23,24,24,24,24,24,24,23,23,23,24,23,22
+"Yeshiva University - New York",24,24,22,23,23,24,23,23,23,23,22,23,21,23
+"Westmont College - California",24,21,23,23,23,23,23,24,24,23,23,24,23,24
+"Transylvania University - Kentucky",24,23,24,,,,25,24,24,24,23,23,23,23
+"Florida Southern College - Florida",24,24,23,24,24,24,23,22,22,22,20,20,20,19
+"University of Alabama in Huntsville - Alabama",24,25,25,25,25,24,24,23,22,22,22,22,22,21
+"SUNY at Purchase College - New York",24,23,21,20,20,22,19,21,21,21,21,22,21,22
+"SUNY College at Geneseo - New York",24,23,24,24,25,25,25,27,27,27,28,28,28,27
+"Louisiana State University and Agricultural & Mechanical College - Louisiana",23,23,23,23,23,23,23,23,23,23,23,23,23,23
+"University of Mary Washington - Virginia",23,23,22,22,22,22,22,22,22,22,23,23,23,23
+"Embry-Riddle Aeronautical University-Prescott - Arizona",23,,,23,,,,23,23,23,21,22,22,22
+"Florida Institute of Technology - Florida",23,24,25,24,24,24,23,23,22,21,23,22,22,22
+"St. John's University-New York - New York",23,23,23,22,22,22,22,21,21,21,,,,
+"Embry-Riddle Aeronautical University-Daytona Beach - Florida",23,,,22,,,,21,21,21,21,21,21,21
+"University of Massachusetts-Lowell - Massachusetts",23,24,24,24,24,23,22,22,21,21,,,,
+"The King's University - Texas",23,21,20,21,22,20,19,,,,,,,
+"Emmanuel College - Massachusetts",23,21,24,24,23,,22,21,22,21,20,20,,19
+"The University of Alabama - Alabama",23,23,23,23,23,22,22,22,22,22,21,21,21,21
+"Hope College - Michigan",23,23,23,24,23,24,23,24,23,24,23,23,23,23
+"James Madison University - Virginia",23,23,23,23,22,23,25,23,23,23,22,22,21,21
+"Luther College - Iowa",23,22,23,23,23,23,23,23,23,24,23,23,22,22
+"School of Visual Arts - New York",23,21,23,21,21,20,18,19,19,21,19,19,20,20
+"University of Arkansas - Arkansas",23,23,23,23,23,23,23,23,23,23,23,23,23,22
+"Point Loma Nazarene University - California",23,24,24,23,23,23,23,23,23,23,21,22,21,21
+"Samford University - Alabama",23,23,23,23,23,23,23,23,23,23,21,22,22,23
+"Southwestern University - Texas",23,23,23,23,23,23,23,22,24,25,25,24,24,23
+"New York Institute of Technology - New York",23,22,22,21,22,21,21,20,20,19,19,20,19,19
+"University of Cincinnati-Main Campus - Ohio",23,23,24,23,23,23,23,22,22,22,22,21,21,21
+"Messiah University - Pennsylvania",23,23,23,22,22,21,22,23,21,22,23,22,22,22
+"Hanover College - Indiana",23,21,22,22,22,22,23,23,22,22,22,22,22,23
+"University at Buffalo - New York",23,24,24,24,24,24,24,23,24,23,23,23,23,23
+"University of Dayton - Ohio",23,23,24,24,24,24,24,24,24,24,23,23,23,23
+"Saint Joseph's University - Pennsylvania",23,23,23,23,23,,,22,22,22,21,22,23,23
+"Georgia College & State University - Georgia",23,23,23,23,22,23,23,22,23,22,22,21,21,20
+"New Mexico Institute of Mining and Technology - New Mexico",23,23,23,23,23,23,23,23,23,23,23,23,23,23
+"Michigan State University - Michigan",23,23,23,23,24,23,23,23,23,23,23,23,23,22
+"Florida International University - Florida",23,23,23,22,23,22,22,24,23,21,22,22,21,21
+"St. Mary's College of Maryland - Maryland",23,21,23,22,23,22,23,25,25,24,24,28,,
+"University of Dallas - Texas",23,24,23,24,23,24,24,24,23,24,23,24,24,24
+"Wentworth Institute of Technology - Massachusetts",23,22,22,22,21,22,22,21,21,21,20,,,
+"Cedarville University - Ohio",23,23,23,23,23,23,23,24,23,24,23,23,23,23
+"University of St Thomas - Minnesota",23,24,24,24,24,24,16,23,23,23,23,23,23,22
+"Calvin University - Michigan",23,24,24,23,23,23,23,23,24,23,23,23,23,23
+"University of Scranton - Pennsylvania",23,24,23,23,23,22,22,22,22,22,22,,,
+"University of Rhode Island - Rhode Island",23,23,21,22,22,22,22,22,21,21,21,20,20,
+"University of Portland - Oregon",23,23,23,23,,,,,,,,,,
+"Colorado State University-Fort Collins - Colorado",23,23,23,22,23,22,22,22,22,22,22,22,22,22
+"University of Oklahoma-Norman Campus - Oklahoma",23,23,23,23,23,24,23,23,23,23,23,23,23,23
+"Bay Path University - Massachusetts",23,19,,20,19,,17,18,17,20,16,17,18,18
+"Cornell College - Iowa",23,23,23,23,23,23,23,23,24,23,24,24,24,23
+"University of North Carolina Wilmington - North Carolina",23,22,23,23,22,23,22,22,22,22,22,21,21,21
+"CUNY City College - New York",23,,,,,,,,,,,,,
+"Belmont University - Tennessee",23,24,24,24,24,23,23,24,24,24,23,23,23,23
+"Drake University - Iowa",23,24,24,24,25,24,25,25,24,25,24,24,24,23
+"Duquesne University - Pennsylvania",23,23,24,24,24,23,23,22,22,23,23,22,22,21
+"University of Tulsa - Oklahoma",23,24,25,25,26,26,26,25,25,24,25,25,24,23
+"University of Missouri-Columbia - Missouri",23,23,23,23,23,24,23,23,23,23,23,23,23,23
+"Wabash College - Indiana",22,23,23,23,23,22,22,,22,22,21,22,21,23
+"Milligan University - Tennessee",22,22,22,23,22,22,,,,,,,,
+"Roberts Wesleyan College - New York",22,19,20,21,21,20,20,20,20,23,21,20,20,19
+"The University of Tampa - Florida",22,23,22,22,22,22,22,21,22,21,21,21,21,21
+"University of Oregon - Oregon",22,22,22,22,22,22,22,22,21,22,,,,
+"High Point University - North Carolina",22,22,22,21,21,22,21,21,22,21,20,20,19,18
+"Lipscomb University - Tennessee",22,23,22,23,22,23,23,22,22,22,21,21,21,21
+"Eastern Mennonite University - Virginia",22,19,21,20,20,18,18,18,19,21,22,18,21,21
+"Long Island University - New York",22,22,21,21,21,19,18,19,20,19,19,18,18,18
+"University of Mississippi - Mississippi",22,21,21,22,22,21,21,21,21,20,20,20,20,20
+"Pace University - New York",22,21,22,21,21,21,20,21,,,,,,21
+"Louisiana Tech University - Louisiana",22,22,22,22,21,21,21,21,21,21,20,20,20,19
+"Pacific University - Oregon",22,20,21,22,22,21,21,21,21,21,21,18,21,20
+"The College of Saint Scholastica - Minnesota",22,22,20,19,21,20,21,21,21,18,21,20,20,20
+"Xavier University - Ohio",22,22,22,22,23,22,22,23,23,22,23,23,23,23
+"Lyon College - Arkansas",22,21,21,22,22,22,22,22,23,23,22,22,22,23
+"Appalachian State University - North Carolina",22,22,23,23,23,23,23,24,22,22,22,21,20,20
+"Covenant College - Georgia",22,23,23,24,24,24,23,23,23,23,22,21,21,21
+"Antioch College - Ohio",22,,26,,,,,,,,,,,
+"San Diego State University - California",22,22,22,23,23,22,22,21,21,21,20,20,19,20
+"Howard University - Washington DC",22,22,22,22,22,21,21,21,21,20,19,19,20,20
+"University of California-Riverside - California",22,23,23,23,21,23,22,20,19,19,19,18,18,18
+"University of Wisconsin-La Crosse - Wisconsin",22,23,23,22,23,23,23,23,23,23,23,23,23,23
+"LeTourneau University - Texas",22,22,21,21,22,22,22,22,22,22,22,22,22,21
+"Westminster College - Utah",22,19,21,21,22,22,22,22,22,22,22,21,21,21
+"Oglethorpe University - Georgia",22,22,22,22,22,22,22,22,22,22,23,22,22,22
+"University of the Sciences - Pennsylvania",22,23,23,24,23,22,24,23,23,23,22,23,23,22
+"University of Michigan-Dearborn - Michigan",22,22,23,22,22,21,21,22,21,21,21,21,21,21
+"Centenary College of Louisiana - Louisiana",22,22,21,22,22,21,21,22,23,21,22,22,22,22
+"University of the Pacific - California",22,23,22,22,23,22,23,22,23,23,23,22,23,22
+"Ohio Northern University - Ohio",22,23,22,22,23,23,23,23,23,24,23,23,23,23
+"Union University - Tennessee",22,22,23,23,23,22,22,22,22,23,22,21,22,21
+"Western Washington University - Washington",22,22,22,22,23,22,22,22,22,22,21,21,21,21
+"John Carroll University - Ohio",22,22,22,22,22,22,22,22,22,22,21,21,21,21
+"John Brown University - Arkansas",22,23,23,24,23,24,,22,22,22,22,20,21,22
+"Austin College - Texas",22,24,22,23,23,22,22,23,23,24,24,23,23,23
+"Knox College - Illinois",22,24,,,,,,,,,26,,27,
+"Oklahoma City University - Oklahoma",22,22,23,23,22,22,23,23,23,23,23,22,22,22
+"Carroll College - Montana",22,21,22,22,22,22,22,22,22,22,21,21,21,21
+"Millsaps College - Mississippi",22,21,22,22,23,23,23,23,23,23,23,23,23,23
+"University of Alabama at Birmingham - Alabama",22,22,21,21,21,22,21,22,21,21,21,21,21,21
+"Augustana University - South Dakota",22,23,23,23,23,23,23,21,23,23,22,22,22,
+"Mississippi State University - Mississippi",22,22,22,21,21,21,21,20,20,20,20,20,20,20
+"University of Saint Joseph - Connecticut",22,,,19,,16,19,18,,22,18,,,17
+"Birmingham-Southern College - Alabama",22,22,23,23,23,23,24,23,23,23,23,23,23,23
+"University of Utah - Utah",22,22,22,22,21,21,21,21,21,21,21,21,21,21
+"University of North Carolina School of the Arts - North Carolina",22,21,22,22,22,21,22,20,22,19,20,19,21,21
+"School of the Art Institute of Chicago - Illinois",22,22,22,22,22,22,18,18,21,22,21,21,,20
+"Texas Tech University - Texas",22,22,22,22,22,23,22,22,22,22,21,22,21,21
+"Valparaiso University - Indiana",22,22,23,23,23,23,23,23,23,23,22,22,22,22
+"DePauw University - Indiana",22,23,23,24,24,25,25,25,24,24,24,25,25,25
+"University of Houston - Texas",22,22,22,23,23,23,22,22,21,21,20,19,19,19
+"Marywood University - Pennsylvania",22,22,21,19,,,,,,20,,,,
+"DeSales University - Pennsylvania",22,21,22,22,22,21,21,22,20,20,20,19,19,18
+"Nebraska Wesleyan University - Nebraska",22,22,21,22,21,22,22,22,23,23,23,23,22,22
+"Franciscan University of Steubenville - Ohio",22,22,22,23,22,23,23,23,22,23,23,22,22,22
+"St. Joseph's University-New York - New York",22,20,19,18,20,19,20,21,20,20,17,,,21
+"University of Nebraska-Lincoln - Nebraska",22,22,22,22,22,22,22,22,22,22,22,22,22,22
+"Saint Johns University - Minnesota",22,22,22,22,22,23,23,23,23,22,23,23,23,23
+"University of Iowa - Iowa",22,22,23,23,23,23,23,25,22,23,23,23,23,23
+"University of Kansas - Kansas",22,22,23,23,23,22,22,22,22,22,22,22,22,22
+"Dordt University - Iowa",22,21,22,22,22,22,21,21,21,21,22,22,21,22
+"Virginia Military Institute - Virginia",22,21,24,23,23,23,23,22,23,22,22,21,21,21
+"University of Kentucky - Kentucky",22,22,23,22,22,22,22,22,23,22,22,21,21,22
+"Bradley University - Illinois",22,22,23,22,22,23,23,23,23,22,22,22,23,23
+"Saint John Fisher College - New York",22,21,22,22,22,21,23,22,22,22,22,22,22,21
+"Saint Francis University - Pennsylvania",22,20,20,21,20,21,20,20,20,20,21,21,19,20
+"SUNY Cortland - New York",22,21,22,22,22,,,21,22,20,20,20,,
+"Saint Mary's College - Indiana",22,23,22,23,22,22,23,23,23,22,23,23,22,23
+"University of Hartford - Connecticut",22,22,22,21,20,20,19,20,,,19,20,16,20
+"SUNY at Albany - New York",22,22,22,22,22,22,22,22,22,22,22,22,21,21
+"American International College - Massachusetts",22,,16,17,16,17,17,16,16,16,16,16,17,17
+"Saint Norbert College - Wisconsin",22,21,22,22,22,22,22,22,22,22,21,22,22,22
+"CUNY Brooklyn College - New York",22,,,,,,,,,,,,,
+"University of Detroit Mercy - Michigan",22,21,21,22,22,22,22,22,22,22,21,21,20,19
+"CUNY Queens College - New York",22,,,,,,,,,,,,,
+"University of North Carolina at Charlotte - North Carolina",22,22,22,22,22,22,21,20,20,20,20,19,19,19
+"Biola University - California",22,21,21,21,21,21,22,22,21,21,21,21,21,21
+"University of New Haven - Connecticut",22,21,20,21,20,21,21,20,20,20,19,,,
+"Principia College - Illinois",22,22,22,20,22,21,20,20,20,21,21,21,22,21
+"New Saint Andrews College - Idaho",21,,23,,23,,,22,25,24,23,25,22,24
+"Montana Technological University - Montana",21,21,22,22,22,23,22,21,22,21,21,,19,
+"Carroll University - Wisconsin",21,21,21,21,21,21,21,21,21,20,21,20,21,20
+"Murray State University - Kentucky",21,21,21,21,21,20,20,19,19,19,19,20,19,19
+"The University of West Florida - Florida",21,22,22,22,21,20,21,21,20,21,20,21,21,21
+"Martin Luther College - Minnesota",21,22,21,21,21,22,22,22,22,22,22,22,22,23
+"Southeast Missouri Hospital College of Nursing and Health Sciences - Missouri",21,21,20,21,1,21,,1,,,,,,
+"Boise State University - Idaho",21,20,21,21,20,20,20,20,20,20,19,19,19,17
+"Montana State University - Montana",21,21,21,21,21,21,21,21,21,21,21,21,21,20
+"Nebraska Methodist College of Nursing & Allied Health - Nebraska",21,20,21,21,21,22,21,21,21,20,19,19,19,20
+"Mississippi College - Mississippi",21,22,21,22,21,21,21,21,20,21,20,20,21,20
+"Monmouth University - New Jersey",21,21,19,19,21,20,22,22,22,22,22,22,21,20
+"SUNY Maritime College - New York",21,22,22,22,23,22,22,20,22,20,20,19,18,
+"The College of Idaho - Idaho",21,,,,,,21,21,22,22,22,22,21,22
+"Warren Wilson College - North Carolina",21,21,21,25,,21,23,23,23,22,23,,,22
+"Bellarmine University - Kentucky",21,22,22,22,22,22,22,22,22,22,22,22,22,22
+"Molloy College - New York",21,22,22,21,21,21,22,20,23,22,,,19,
+"Bethel University - Minnesota",21,21,22,21,21,22,22,22,22,22,21,22,22,21
+"Baldwin Wallace University - Ohio",21,21,21,,,,,21,21,21,21,21,21,21
+"Canisius College - New York",21,20,21,22,22,21,21,22,21,22,22,22,21,21
+"The University of Texas at Arlington - Texas",21,20,20,20,20,20,20,20,20,20,19,20,20,20
+"Tennessee Technological University - Tennessee",21,21,21,21,21,21,21,20,21,20,20,20,20,20
+"The University of Tennessee-Chattanooga - Tennessee",21,21,21,21,21,21,21,21,21,21,20,18,19,19
+"Benedictine College - Kansas",21,21,21,22,21,21,22,22,21,21,21,21,20,20
+"University of Wyoming - Wyoming",21,22,22,22,21,22,22,22,22,21,21,21,21,20
+"Liberty University - Virginia",21,21,21,21,21,20,19,19,,,,18,18,18
+"Southern Utah University - Utah",21,20,21,20,20,20,20,20,20,19,18,18,18,18
+"Loyola University New Orleans - Louisiana",21,22,22,22,23,22,22,22,22,23,24,23,23,23
+"Missouri State University-Springfield - Missouri",21,21,21,21,21,21,21,21,21,21,21,21,21,21
+"Lewis University - Illinois",21,21,21,21,21,20,21,21,20,20,20,19,19,20
+"North Central College - Illinois",21,21,21,22,22,22,22,22,22,22,22,22,22,22
+"Southern Virginia University - Virginia",21,19,20,14,16,19,20,17,20,20,20,20,20,20
+"Virginia Commonwealth University - Virginia",21,21,21,21,21,21,21,21,21,20,20,19,19,19
+"University of Wisconsin-Eau Claire - Wisconsin",21,21,21,21,22,22,22,22,22,22,23,23,22,22
+"The University of Tennessee-Martin - Tennessee",21,21,21,20,20,20,20,20,19,20,20,20,19,19
+"Lee University - Tennessee",21,21,21,21,21,21,21,21,21,21,20,20,20,20
+"Southern Illinois University-Edwardsville - Illinois",21,20,21,20,20,20,20,20,20,19,20,20,20,19
+"Berea College - Kentucky",21,23,22,22,22,22,22,22,22,22,21,21,21,21
+"Bellin College - Wisconsin",21,21,22,21,22,22,22,22,23,22,21,22,23,22
+"Le Moyne College - New York",21,22,23,22,22,21,21,21,21,20,20,21,20,21
+"Springfield College - Massachusetts",21,20,22,25,24,20,18,20,,,,,,
+"Utah State University - Utah",21,21,21,21,20,20,20,20,20,20,21,20,21,21
+"St Bonaventure University - New York",21,19,22,21,20,21,21,21,21,20,20,20,19,20
+"Brigham Young University-Hawaii - Hawaii",21,22,21,22,22,22,22,21,21,22,22,21,20,20
+"Christian Brothers University - Tennessee",21,22,21,21,22,21,21,21,21,21,22,21,22,21
+"Abilene Christian University - Texas",21,21,21,21,21,22,21,21,22,22,21,21,20,20
+"University of Missouri-St Louis - Missouri",21,21,21,22,21,21,21,21,22,21,20,21,21,21
+"Worcester State University - Massachusetts",21,,,,21,20,19,20,19,19,19,18,20,18
+"Asbury University - Kentucky",21,21,,21,21,21,22,21,22,21,21,21,21,21
+"Wisconsin Lutheran College - Wisconsin",21,21,20,20,21,21,21,21,21,21,21,21,22,21
+"University of Louisville - Kentucky",21,22,22,22,22,22,22,22,21,21,21,21,21,21
+"Regis University - Colorado",21,21,21,20,22,21,22,21,21,22,22,21,18,21
+"Regent University - Virginia",21,19,19,19,19,20,20,19,20,20,16,,,
+"Ouachita Baptist University - Arkansas",21,21,21,21,21,21,21,21,21,21,21,21,21,21
+"Florida Atlantic University - Florida",21,22,21,21,20,20,21,20,21,21,21,20,19,19
+"Florida Gulf Coast University - Florida",21,21,21,21,22,22,21,20,20,20,20,20,20,19
+"Drury University - Missouri",21,22,22,23,22,23,23,22,21,19,20,20,23,23
+"Harding University - Arkansas",21,21,22,22,22,22,22,22,22,22,21,22,21,20
+"Hollins University - Virginia",21,22,24,23,23,21,20,21,21,21,22,22,20,21
+"Arizona State University Campus Immersion - Arizona",21,22,22,22,22,23,22,22,21,21,20,20,20,20
+"Randolph-Macon College - Virginia",21,20,20,21,22,22,21,21,21,22,,,19,18
+"University of Colorado Denver/Anschutz Medical Campus - Colorado",21,20,21,21,21,20,20,20,20,20,20,19,19,20
+"University of Connecticut-Stamford - Connecticut",21,21,21,20,22,19,21,17,22,18,19,19,,20
+"University of Illinois Chicago - Illinois",21,21,21,20,21,21,22,21,21,21,21,21,21,21
+"Ramapo College of New Jersey - New Jersey",21,20,21,21,21,20,19,20,,,,,,
+"Andrews University - Michigan",21,21,21,21,21,20,20,20,20,20,20,19,20,20
+"Alfred University - New York",21,19,20,21,20,21,21,22,21,21,22,21,22,21
+"Saint Mary's College of California - California",21,22,22,22,22,22,22,22,22,22,20,,,
+"Freed-Hardeman University - Tennessee",21,21,21,22,21,21,22,21,21,19,20,19,20,20
+"CUNY John Jay College of Criminal Justice - New York",21,,,,,,,,,,,,,
+"University of North Carolina at Asheville - North Carolina",21,22,21,22,23,23,24,24,24,22,21,22,22,22
+"University of Hawaii at Manoa - Hawaii",21,21,21,21,20,20,20,21,21,21,21,21,21,21
+"Dominican University of California - California",21,20,20,20,21,21,20,20,21,22,20,20,18,18
+"University of Pittsburgh-Johnstown - Pennsylvania",21,19,21,20,20,20,19,20,20,19,19,18,17,18
+"Oregon State University - Oregon",21,21,22,22,22,21,21,21,21,21,20,20,20,20
+"Iowa State University - Iowa",21,22,22,22,22,22,21,22,22,22,22,22,22,22
+"Citadel Military College of South Carolina - South Carolina",21,20,20,20,20,21,20,21,21,20,19,20,20,20
+"AdventHealth University - Florida",21,18,18,19,18,18,18,17,16,17,,,,
+"University of Minnesota-Morris - Minnesota",21,21,22,22,22,22,22,23,23,23,22,22,22,21
+"University of Minnesota-Duluth - Minnesota",21,21,21,22,22,22,22,22,22,22,21,21,21,21
+"College of the Ozarks - Missouri",21,21,21,21,21,21,21,20,21,21,20,20,21,21
+"Iona College - New York",21,20,20,20,20,20,20,20,20,19,,,,
+"Indiana Wesleyan University-Marion - Indiana",21,20,21,21,21,21,21,21,21,21,21,21,21,21
+"Roanoke College - Virginia",21,21,22,22,21,21,20,21,20,21,20,20,20,
+"Oklahoma State University-Main Campus - Oklahoma",21,22,22,22,21,22,22,22,22,22,22,22,22,22
+"Adelphi University - New York",21,21,22,22,22,19,19,19,22,21,20,20,20,20
+"University of Arizona - Arizona",21,21,21,,,,,21,21,21,21,21,21,20
+"Simpson University - California",21,17,19,18,18,18,19,21,19,20,18,19,20,18
+"University of St Francis - Illinois",21,20,20,20,20,21,21,21,21,21,21,20,20,20
+"College of Charleston - South Carolina",21,22,22,22,22,23,23,23,22,22,23,21,23,22
+"Illinois State University - Illinois",21,20,20,21,21,21,22,22,22,22,22,22,22,22
+"College of Our Lady of the Elms - Massachusetts",21,18,18,17,19,19,15,16,18,17,16,17,19,16
+"College of Saint Benedict - Minnesota",21,22,22,22,22,22,23,23,23,23,23,23,23,23
+"Whitworth University - Washington",21,21,21,23,22,,,,,,24,25,25,23
+"Ave Maria University - Florida",21,20,21,21,21,21,20,20,20,21,21,22,22,23
+"Kentucky Mountain Bible College - Kentucky",21,18,15,17,19,18,19,16,17,17,18,15,,17
+"Ohio University-Main Campus - Ohio",21,21,21,22,21,22,22,22,21,21,21,21,21,21
+"Suffolk University - Massachusetts",21,21,21,21,20,20,21,20,19,21,19,20,20,
+"Saint Ambrose University - Iowa",20,20,20,21,20,20,20,20,20,20,20,20,19,19
+"Rockhurst University - Missouri",20,21,22,22,23,23,23,23,23,22,22,22,22,22
+"Xavier University of Louisiana - Louisiana",20,20,20,20,20,20,20,20,19,19,18,18,18,18
+"St. Mary's University - Texas",20,21,21,20,19,20,20,21,20,20,20,20,19,20
+"Wayne State University - Michigan",20,21,21,21,20,20,20,19,18,18,17,17,17,17
+"Stockton University - New Jersey",20,20,18,19,19,19,18,20,19,19,19,18,21,21
+"Monmouth College - Illinois",20,19,20,20,19,20,19,20,18,19,20,20,20,20
+"Stephens College - Missouri",20,20,20,19,20,20,20,19,19,21,19,20,21,21
+"Rider University - New Jersey",20,19,20,19,19,19,19,19,20,19,19,19,20,8
+"Mount Saint Joseph University - Ohio",20,20,20,20,19,,19,19,20,20,19,19,19,19
+"Washington State University - Washington",20,20,20,20,20,20,19,19,20,20,21,21,21,
+"Saint Joseph's College of Maine - Maine",20,19,18,,20,21,,,,17,,,,
+"Mount Saint Mary College - New York",20,19,20,19,20,20,20,20,19,19,19,18,19,18
+"Arcadia University - Pennsylvania",20,21,21,22,23,22,22,22,22,22,21,20,20,21
+"Webster University - Missouri",20,21,21,21,21,21,21,21,21,21,20,21,21,21
+"Western Carolina University - North Carolina",20,20,20,19,20,20,20,20,19,19,19,18,18,18
+"Western Colorado University - Colorado",20,20,19,20,19,17,19,19,19,19,19,19,19,18
+"Wichita State University - Kansas",20,20,20,20,21,21,,21,20,21,21,21,21,20
+"North Dakota State University-Main Campus - North Dakota",20,21,21,21,21,21,21,21,20,21,20,20,20,20
+"Oregon Institute of Technology - Oregon",20,20,20,21,21,19,21,20,,,,,,
+"Simpson College - Iowa",20,19,20,21,21,21,22,21,21,21,21,22,22,22
+"Spelman College - Georgia",20,22,22,22,22,20,19,20,20,20,20,21,20,21
+"Southern Illinois University-Carbondale - Illinois",20,21,20,20,19,19,19,19,18,18,19,19,19,19
+"Western Michigan University - Michigan",20,19,20,20,19,19,19,19,19,20,20,20,20,20
+"Oklahoma Christian University - Oklahoma",20,21,20,20,21,21,22,22,21,20,20,19,19,20
+"Northland College - Wisconsin",20,,,,,21,21,21,21,20,20,21,21,21
+"Northwestern College - Iowa",20,21,21,21,21,22,21,21,22,22,21,22,22,21
+"Oklahoma Baptist University - Oklahoma",20,20,20,20,20,20,22,21,21,21,21,20,21,19
+"South Dakota State University - South Dakota",20,19,20,20,20,20,20,20,20,19,20,20,20,20
+"Northern Kentucky University - Kentucky",20,20,20,20,20,20,20,19,19,19,19,19,19,18
+"Queens University of Charlotte - North Carolina",20,21,21,21,21,21,20,21,20,20,20,20,19,20
+"Otterbein University - Ohio",20,20,21,21,21,22,21,21,21,21,20,20,20,20
+"Spring Hill College - Alabama",20,20,20,21,22,22,22,21,21,21,21,21,21,21
+"William Jewell College - Missouri",20,22,22,23,22,23,22,22,22,23,23,23,22,22
+"William Carey University - Mississippi",20,20,21,21,21,20,20,20,20,21,21,20,19,19
+"Presbyterian College - South Carolina",20,19,19,21,21,20,21,22,22,21,21,21,22,21
+"Saint Vincent College - Pennsylvania",20,20,18,20,20,20,19,20,20,20,20,19,20,20
+"Wilkes University - Pennsylvania",20,20,21,21,20,,,,,,,,,
+"Aquinas College - Michigan",20,20,21,21,21,21,21,21,21,21,20,20,20,20
+"Spring Arbor University - Michigan",20,20,20,20,19,20,19,20,20,20,20,20,19,20
+"West Chester University of Pennsylvania - Pennsylvania",20,20,21,21,21,21,22,,,,,,,
+"Widener University - Pennsylvania",20,20,20,20,21,21,19,,,,,,,
+"Palm Beach Atlantic University - Florida",20,20,20,20,21,20,21,20,20,21,20,19,21,21
+"Becker College - Massachusetts",20,16,20,20,21,19,21,19,18,16,15,13,13,
+"Arkansas State University - Arkansas",20,21,21,21,21,21,21,21,20,20,18,18,18,18
+"Seattle Pacific University - Washington",20,19,20,21,21,23,22,23,22,22,22,22,22,22
+"Niagara University - New York",20,20,22,21,21,20,20,21,20,21,19,19,19,19
+"Oakland University - Michigan",20,20,21,21,20,20,20,20,20,19,19,19,19,19
+"Nova Southeastern University - Florida",20,20,22,23,22,22,22,21,20,20,19,19,19,19
+"California Lutheran University - California",20,21,21,21,22,22,22,22,22,22,22,22,21,20
+"Kent State University at Kent - Ohio",20,20,20,21,21,21,20,20,20,20,19,19,18,18
+"Hampden-Sydney College - Virginia",20,20,21,21,21,21,21,22,21,21,21,20,20,20
+"University of North Texas - Texas",20,21,21,21,21,21,21,21,21,21,20,21,21,21
+"Hartwick College - New York",20,20,21,21,19,,,23,24,23,23,22,21,
+"Concordia University-Wisconsin - Wisconsin",20,21,20,20,21,20,21,20,20,20,19,20,19,19
+"Concordia University-Nebraska - Nebraska",20,20,20,21,20,20,20,21,21,21,21,21,21,20
+"Concordia University-Irvine - California",20,18,20,20,20,20,19,20,19,19,19,19,20,19
+"University of Northern Iowa - Iowa",20,20,21,21,20,20,20,20,21,21,21,21,21,21
+"University of Central Arkansas - Arkansas",20,21,21,21,20,20,19,20,20,20,20,20,20,19
+"Concordia College at Moorhead - Minnesota",20,21,21,22,,,23,22,22,22,22,22,22,21
+"University of Pittsburgh-Greensburg - Pennsylvania",20,20,21,19,20,20,18,20,20,18,19,20,17,15
+"Houston Baptist University - Texas",20,19,20,20,21,20,20,21,21,22,20,20,19,23
+"University of South Alabama - Alabama",20,20,21,20,20,20,20,20,20,19,18,19,19,19
+"University of South Dakota - South Dakota",20,19,20,20,20,20,20,21,21,20,20,20,19,20
+"University of Southern Maine - Maine",20,20,19,19,19,19,20,20,19,19,18,18,19,18
+"Central Michigan University - Michigan",20,20,20,20,20,20,20,20,20,20,20,20,20,19
+"SUNY at Fredonia - New York",20,19,21,21,22,21,22,21,21,22,21,21,21,22
+"Trinity Christian College - Illinois",20,20,19,19,20,21,20,20,18,20,17,19,19,19
+"Trine University - Indiana",20,22,21,22,20,21,21,21,20,20,21,21,21,20
+"Trevecca Nazarene University - Tennessee",20,20,19,19,19,19,20,19,19,19,19,19,19,19
+"University of Toledo - Ohio",20,20,20,20,20,20,19,19,,,,,,
+"Keystone College - Pennsylvania",20,14,,,16,16,17,17,17,15,17,15,16,16
+"Towson University - Maryland",20,20,20,21,21,21,21,21,21,21,21,20,,
+"Thomas Jefferson University - Pennsylvania",20,21,22,,,,,,,,,,,
+"Hamline University - Minnesota",20,19,20,20,21,21,21,21,21,21,21,20,21,21
+"Carthage College - Wisconsin",20,21,21,21,21,22,21,21,22,22,21,21,20,21
+"University of North Florida - Florida",20,20,21,21,21,22,22,23,23,23,21,22,20,20
+"University of Connecticut-Avery Point - Connecticut",20,20,21,18,19,21,21,22,19,21,19,16,17,21
+"Eastern University - Pennsylvania",20,20,17,20,19,18,20,18,18,19,19,19,15,19
+"University of Minnesota-Rochester - Minnesota",20,22,22,22,22,22,22,23,22,22,22,,,
+"University of Massachusetts-Dartmouth - Massachusetts",20,18,19,19,20,19,19,21,20,20,,20,20,20
+"East Tennessee State University - Tennessee",20,20,20,19,20,20,19,19,19,19,19,20,20,20
+"University of Missouri-Kansas City - Missouri",20,21,21,21,21,21,21,21,20,20,21,21,21,20
+"Faith Baptist Bible College and Theological Seminary - Iowa",20,,18,20,20,20,19,19,19,19,20,19,18,20
+"University of Mary - North Dakota",20,21,20,21,20,20,20,20,20,20,20,20,19,19
+"University of Louisiana at Monroe - Louisiana",20,19,20,20,20,20,19,20,20,19,20,19,19,19
+"Fisk University - Tennessee",20,18,17,16,17,17,17,17,17,18,18,17,20,19
+"University of Louisiana at Lafayette - Louisiana",20,21,21,21,21,21,21,21,21,20,20,20,20,19
+"Florida Agricultural and Mechanical University - Florida",20,19,19,18,19,18,18,18,18,18,17,,,17
+"Franciscan Missionaries of Our Lady University - Louisiana",20,20,20,20,20,20,20,20,20,19,19,20,,
+"University of Idaho - Idaho",20,20,20,20,21,20,20,20,20,20,20,20,20,20
+"Gannon University - Pennsylvania",20,19,20,20,20,20,20,20,19,20,19,19,19,18
+"University of Nevada-Reno - Nevada",20,21,21,21,21,21,21,21,21,20,20,20,20,20
+"Dallas Baptist University - Texas",20,21,20,19,19,19,18,18,19,20,18,19,19,19
+"Georgia State University - Georgia",20,20,21,19,20,20,20,20,21,21,20,21,20,20
+"Good Samaritan College of Nursing and Health Science - Ohio",20,2,19,18,19,18,18,19,20,21,19,18,18,18
+"Gordon College - Massachusetts",20,21,22,22,22,23,23,22,23,22,24,23,22,23
+"Goshen College - Indiana",20,21,20,19,22,21,21,21,21,22,21,22,22,22
+"Grace College and Theological Seminary - Indiana",20,,20,20,21,21,21,20,21,20,21,21,21,22
+"Rowan University - New Jersey",20,21,20,22,22,,22,,,,,,,
+"University of Connecticut-Hartford Campus - Connecticut",20,21,20,19,,,,,,,,,,
+"University of North Dakota - North Dakota",20,20,21,21,21,21,21,21,21,21,20,21,20,21
+"The University of Texas at Tyler - Texas",20,21,21,21,20,20,20,21,21,20,20,20,20,20
+"Elmhurst University - Illinois",20,20,20,20,20,21,21,21,21,21,21,21,21,22
+"University of Washington-Bothell Campus - Washington",20,19,19,19,20,19,18,19,19,19,20,20,20,
+"SUNY Polytechnic Institute - New York",20,20,20,20,24,23,22,22,20,21,22,20,20,22
+"California State University-Long Beach - California",20,20,20,20,20,20,20,18,18,18,18,17,18,18
+"Marymount University - Virginia",20,16,16,19,18,19,18,20,19,19,18,19,18,19
+"Virginia Wesleyan University - Virginia",20,20,21,19,17,17,18,18,19,19,18,18,17,17
+"University of Wisconsin-Stout - Wisconsin",20,19,20,19,19,20,20,20,20,20,19,19,19,19
+"MCPHS University - Massachusetts",20,20,22,22,21,21,20,21,22,22,20,21,20,19
+"Louisiana State University-Shreveport - Louisiana",20,20,20,19,20,20,20,20,20,20,20,,20,19
+"The Evergreen State College - Washington",20,19,,19,20,20,19,20,21,21,20,22,21,21
+"Bowling Green State University-Main Campus - Ohio",20,19,19,19,19,19,19,19,19,19,19,19,19,19
+"Elizabethtown College - Pennsylvania",20,21,21,22,21,23,22,21,21,21,20,21,,
+"McNeese State University - Louisiana",20,20,20,20,20,20,20,20,20,20,19,18,19,18
+"Sweet Briar College - Virginia",20,21,20,20,18,22,21,21,22,22,20,20,21,21
+"Maranatha Baptist University - Wisconsin",20,19,20,20,,,,20,20,19,20,19,19,
+"Texas State University - Texas",20,19,20,20,20,21,20,21,21,21,21,21,21,21
+"Marietta College - Ohio",20,19,20,20,21,21,21,21,21,21,21,20,20,20
+"Massachusetts Maritime Academy - Massachusetts",20,19,20,21,20,20,20,20,20,22,21,18,17,17
+"Brigham Young University-Idaho - Idaho",20,19,20,20,20,20,20,20,20,20,20,20,21,20
+"Marymount Manhattan College - New York",20,20,21,21,22,20,21,21,21,21,21,21,19,20
+"Lycoming College - Pennsylvania",20,19,19,21,20,20,19,21,20,20,20,20,21,20
+"University of Wisconsin-Platteville - Wisconsin",20,20,20,21,21,21,21,20,20,20,20,20,19,20
+"Maryville College - Tennessee",20,21,21,20,21,20,20,21,20,22,21,21,21,22
+"The University of Montana - Montana",20,20,20,21,20,20,20,21,21,21,20,20,20,20
+"Linfield University-McMinnville Campus - Oregon",20,20,20,20,20,20,21,21,21,22,21,21,21,23
+"The University of Findlay - Ohio",20,21,21,21,20,20,20,21,21,21,20,20,20,20
+"Mills College - California",20,19,21,,23,24,23,23,23,24,22,20,21,20
+"SUNY Brockport - New York",20,19,20,20,20,20,21,21,21,21,21,21,21,20
+"Lebanon Valley College - Pennsylvania",20,21,22,22,21,,,22,20,,,,,21
+"Boise Bible College - Idaho",20,17,19,20,17,18,18,17,18,17,17,18,17,16
+"Middle Tennessee State University - Tennessee",20,20,20,20,19,19,19,19,19,19,20,19,19,19
+"SUNY College at Oswego - New York",20,21,21,22,22,22,22,22,22,21,21,21,21,21
+"Viterbo University - Wisconsin",20,21,21,21,20,21,21,21,21,21,20,20,20,19
+"Lasell University - Massachusetts",20,20,16,19,19,18,18,18,19,18,18,19,19,20
+"Millikin University - Illinois",20,19,20,19,19,20,19,21,20,20,20,20,20,20
+"Waynesburg University - Pennsylvania",19,18,19,18,19,20,20,20,20,20,,,,
+"University of Michigan-Flint - Michigan",19,20,19,20,19,18,18,18,19,20,18,18,19,19
+"University of North Carolina at Greensboro - North Carolina",19,20,20,20,21,20,21,21,20,19,19,19,18,19
+"York College of Pennsylvania - Pennsylvania",19,19,21,20,20,20,20,20,20,20,20,21,19,
+"Tennessee Wesleyan University - Tennessee",19,19,19,18,19,19,18,19,18,19,19,19,19,18
+"Saginaw Valley State University - Michigan",19,19,19,20,20,19,19,18,18,18,18,18,18,18
+"Winthrop University - South Carolina",19,18,20,19,20,20,19,19,20,20,20,20,20,20
+"University of Memphis - Tennessee",19,19,19,19,18,19,19,19,20,19,19,19,19,19
+"University of Nevada-Las Vegas - Nevada",19,19,19,19,19,18,19,19,18,19,19,19,19,18
+"Winona State University - Minnesota",19,19,20,20,20,20,20,21,21,21,21,21,21,21
+"University of Houston-Clear Lake - Texas",19,18,20,20,20,19,19,,,,,,,
+"Walsh University - Ohio",19,19,19,20,19,,20,20,20,20,19,19,19,19
+"University of Montevallo - Alabama",19,20,20,20,20,20,20,20,20,20,20,18,19,19
+"University of Illinois Springfield - Illinois",19,19,20,20,20,20,20,20,20,20,20,20,20,19
+"University of Nebraska at Kearney - Nebraska",19,20,19,19,19,20,20,20,20,20,20,20,19,20
+"University of Mary Hardin-Baylor - Texas",19,19,20,19,21,20,21,21,19,20,20,20,20,20
+"SUNY Oneonta - New York",19,21,21,21,22,22,22,22,22,22,22,22,21,21
+"St. Thomas Aquinas College - New York",19,17,18,17,17,18,18,17,18,18,17,16,17,17
+"University of Mount Union - Ohio",19,20,20,20,20,21,21,20,20,20,19,19,19,20
+"Texas Wesleyan University - Texas",19,19,20,20,19,19,19,19,19,19,18,16,16,16
+"Texas Lutheran University - Texas",19,20,19,19,18,19,19,20,18,19,18,18,19,19
+"Southern Arkansas University Main Campus - Arkansas",19,18,19,19,18,18,18,18,18,18,18,17,17,17
+"Southern Adventist University - Tennessee",19,,,,,,,20,20,19,19,19,19,19
+"Southeastern University - Florida",19,19,18,18,18,17,18,17,,,,,,
+"Southeastern Louisiana University - Louisiana",19,19,19,19,19,20,20,20,19,20,19,19,19,19
+"Western Kentucky University - Kentucky",19,19,20,19,19,19,19,18,18,18,18,,18,
+"University of Wisconsin-Milwaukee - Wisconsin",19,19,19,20,20,20,19,20,19,19,20,19,20,20
+"Westfield State University - Massachusetts",19,18,20,20,19,19,18,17,20,19,19,18,18,19
+"Westminster College - Missouri",19,20,20,21,21,21,22,21,21,22,21,23,23,22
+"Slippery Rock University of Pennsylvania - Pennsylvania",19,19,19,19,19,19,19,19,18,19,19,19,18,18
+"University of Wisconsin-Oshkosh - Wisconsin",19,19,19,20,20,20,20,20,20,20,20,20,20,20
+"Southwest Baptist University - Missouri",19,19,18,20,19,20,20,20,19,20,20,20,20,20
+"The Southern Baptist Theological Seminary - Kentucky",19,19,19,19,18,20,,,,,,,,
+"Trinity International University-Illinois - Illinois",19,18,20,20,20,19,20,20,20,19,19,19,20,20
+"University of the Cumberlands - Kentucky",19,18,20,19,19,19,20,19,19,19,19,18,19,19
+"University of Southern Mississippi - Mississippi",19,19,19,19,20,19,19,20,19,19,18,19,19,18
+"University of Southern Indiana - Indiana",19,19,19,19,19,19,19,19,19,18,18,18,17,17
+"University of Wisconsin-River Falls - Wisconsin",19,20,20,20,20,20,20,20,20,20,20,20,19,20
+"The University of Texas at San Antonio - Texas",19,19,20,20,20,20,19,20,20,19,19,18,18,18
+"University of North Georgia - Georgia",19,19,20,20,19,19,19,18,,,,,,
+"St Catherine University - Minnesota",19,23,19,20,19,19,19,20,22,22,21,19,20,19
+"University of Northern Colorado - Colorado",19,19,19,19,19,19,19,20,20,19,20,20,20,20
+"The Christ College of Nursing and Health Sciences - Ohio",19,20,19,20,20,19,18,18,18,18,18,17,20,19
+"Valdosta State University - Georgia",19,19,19,19,19,19,20,20,20,20,20,20,20,19
+"San Jose State University - California",19,18,19,19,20,20,19,19,18,19,18,18,18,17
+"University of Wisconsin-Whitewater - Wisconsin",19,19,19,20,20,20,20,20,20,20,20,20,20,20
+"Shenandoah University - Virginia",19,18,21,20,19,19,18,19,19,19,18,17,17,17
+"University of Wisconsin-Stevens Point - Wisconsin",19,19,19,20,20,20,20,21,21,21,21,21,20,20
+"University of California-Merced - California",19,19,19,20,19,20,20,18,18,18,18,18,18,18
+"University of Saint Francis-Fort Wayne - Indiana",19,18,18,19,19,18,19,19,19,18,19,19,19,18
+"University of Baltimore - Maryland",19,17,21,16,20,18,,,,16,1,16,,
+"University of Akron Main Campus - Ohio",19,19,19,19,19,19,19,18,18,,,,,
+"University of Central Missouri - Missouri",19,19,19,19,20,19,19,18,18,19,18,20,20,20
+"Wartburg College - Iowa",19,21,20,21,21,21,21,21,21,21,21,21,21,21
+"University of Jamestown - North Dakota",19,19,19,19,20,18,25,21,20,20,20,20,19,20
+"Nicholls State University - Louisiana",19,20,20,20,20,20,20,20,19,20,19,20,19,18
+"Eastern Kentucky University - Kentucky",19,20,20,20,20,19,19,19,19,18,18,18,18,19
+"East Carolina University - North Carolina",19,20,20,20,20,21,20,21,20,20,19,19,18,18
+"Dominican University - Illinois",19,19,19,20,20,19,20,20,20,20,20,19,20,20
+"Dakota State University - South Dakota",19,19,20,19,19,20,19,19,19,18,19,18,19,19
+"D'Youville College - New York",19,19,14,20,16,21,21,20,21,21,20,20,20,18
+"Mount St. Mary's University - Maryland",19,19,18,19,19,18,20,17,19,19,21,,,
+"Mount Vernon Nazarene University - Ohio",19,20,20,19,20,20,20,20,20,20,19,23,20,19
+"Cottey College - Missouri",19,19,19,19,21,20,19,19,20,19,20,19,20,20
+"Lake Superior State University - Michigan",19,19,19,19,20,19,19,20,20,20,19,19,18,18
+"Cornerstone University - Michigan",19,19,19,19,18,19,20,21,20,21,20,20,20,20
+"Concordia University-Chicago - Illinois",19,20,20,20,19,20,20,20,19,19,19,19,19,19
+"Eastern Michigan University - Michigan",19,19,15,19,19,19,19,19,18,18,18,18,18,18
+"Concordia University Texas - Texas",19,18,18,19,18,19,19,20,19,20,19,18,18,20
+"Concordia College - New York",19,17,20,18,17,,17,16,18,15,21,16,16,17
+"Coastal Carolina University - South Carolina",19,19,19,19,20,20,19,19,18,18,20,20,20,20
+"Cleveland Institute of Art - Ohio",19,20,19,20,20,20,19,19,19,18,20,20,19,20
+"Clarke University - Iowa",19,18,19,20,20,20,20,20,20,21,20,21,20,19
+"Charleston Southern University - South Carolina",19,20,20,20,20,20,19,18,18,19,21,18,18,16
+"Central Connecticut State University - Connecticut",19,17,19,19,19,20,20,19,20,20,,,,
+"North Park University - Illinois",19,19,19,19,18,19,19,19,20,19,19,19,19,19
+"Central College - Iowa",19,19,20,21,21,20,21,21,21,21,21,19,19,21
+"Northern State University - South Dakota",19,19,19,19,17,19,19,19,19,19,18,19,18,17
+"Northwest Missouri State University - Missouri",19,19,19,20,20,20,20,20,20,20,20,19,20,19
+"Northwest Nazarene University - Idaho",19,20,20,20,21,20,20,21,21,,,,,
+"Concordia University Ann Arbor - Michigan",19,18,19,19,19,19,19,19,19,19,18,20,20,19
+"Northwest University - Washington",19,20,21,19,20,19,19,19,20,19,17,18,19,18
+"Mississippi University for Women - Mississippi",19,18,18,18,18,18,18,18,18,18,18,18,18,18
+"Minnesota State University Moorhead - Minnesota",19,19,20,20,20,20,20,20,20,20,19,19,19,19
+"King University - Tennessee",19,20,19,18,,19,20,20,19,20,20,19,,21
+"Kettering College - Ohio",19,20,20,21,,,,20,20,21,20,19,20,19
+"Kennesaw State University - Georgia",19,20,21,21,21,21,,,,,,,,
+"Limestone University - South Carolina",19,18,18,17,19,16,20,20,17,15,15,17,18,17
+"Lincoln Memorial University - Tennessee",19,19,19,19,19,19,19,19,20,20,18,18,18,19
+"Lindenwood University - Missouri",19,20,20,20,20,20,20,20,20,20,20,20,20,21
+"Lubbock Christian University - Texas",19,18,18,19,19,19,19,19,19,19,18,18,17,18
+"Maine Maritime Academy - Maine",19,22,21,18,21,19,19,20,19,18,,18,17,18
+"Malone University - Ohio",19,19,19,19,19,19,20,19,20,20,19,20,20,20
+"Indiana University-Purdue University-Indianapolis - Indiana",19,19,19,19,19,19,19,19,19,19,19,19,18,18
+"Husson University - Maine",19,19,17,20,17,18,,,,,,,,
+"Minnesota State University-Mankato - Minnesota",19,19,19,20,20,20,19,20,20,20,20,20,20,20
+"Huntingdon College - Alabama",19,17,19,19,19,19,20,19,19,19,19,19,18,19
+"Heidelberg University - Ohio",19,18,19,19,19,19,19,,,,18,18,19,19
+"Hastings College - Nebraska",19,18,19,20,20,20,20,21,20,20,20,19,19,20
+"Hannibal-LaGrange University - Missouri",19,18,,,,,,19,17,20,21,20,19,20
+"Georgia Southwestern State University - Georgia",19,17,18,19,19,18,18,18,18,17,18,17,18,17
+"Mercy College of Health Sciences - Iowa",19,,,18,19,,,,,,,,17,19
+"George Fox University - Oregon",19,19,21,21,21,21,20,20,21,21,21,20,19,21
+"Meredith College - North Carolina",19,18,19,20,21,20,,20,19,18,19,19,19,18
+"Franklin College - Indiana",19,18,18,19,19,19,20,19,19,20,19,19,18,18
+"Framingham State University - Massachusetts",19,19,18,19,20,19,20,19,21,20,20,,,
+"Flagler College - Florida",19,,20,21,22,21,21,21,22,22,21,21,21,22
+"Farmingdale State College - New York",19,19,20,19,19,19,19,19,19,,,,,
+"Henderson State University - Arkansas",19,19,19,19,19,18,18,19,18,18,19,18,20,19
+"Carson-Newman University - Tennessee",19,19,20,20,20,19,21,20,20,20,20,20,20,19
+"LaGrange College - Georgia",19,19,20,20,20,20,20,19,19,20,20,19,19,19
+"Northwood University - Michigan",19,18,19,20,20,20,19,20,20,20,19,19,19,18
+"Bridgewater State University - Massachusetts",19,20,19,18,19,19,19,19,20,21,20,19,19,19
+"Brescia University - Kentucky",19,20,19,19,20,19,20,19,19,19,18,18,18,19
+"Benedictine University - Illinois",19,19,20,19,,,19,19,19,19,20,20,20,20
+"Purdue University Fort Wayne - Indiana",19,18,18,18,18,19,19,19,19,18,18,18,18,18
+"Belhaven University - Mississippi",19,,,,,,,19,20,19,19,21,20,19
+"Piedmont University - Georgia",19,18,19,19,19,19,19,19,20,20,18,18,18,18
+"Reinhardt University - Georgia",19,19,18,18,18,18,18,18,18,,17,,17,17
+"Bryn Athyn College of the New Church - Pennsylvania",19,17,21,19,18,18,15,20,19,17,20,19,18,
+"American College of the Building Arts - South Carolina",19,16,,,,,,,,,,,,
+"Quincy University - Illinois",19,19,18,19,18,19,19,20,19,19,19,19,19,18
+"Ashland University - Ohio",19,19,20,20,20,20,20,20,20,20,20,19,20,19
+"Baker University - Kansas",19,20,20,21,20,20,20,21,21,21,21,20,20,20
+"Purdue University Northwest - Indiana",19,18,19,19,,,,,,,,,,
+"Austin Peay State University - Tennessee",19,19,19,19,19,19,19,19,19,19,19,20,19,19
+"Aurora University - Illinois",19,18,19,19,19,19,19,19,20,20,20,20,19,20
+"Aultman College of Nursing and Health Sciences - Ohio",19,20,19,20,20,21,20,22,21,20,20,21,21,
+"Baptist Health Sciences University - Tennessee",19,20,19,19,19,23,23,22,22,22,21,22,21,21
+"Oregon State University-Cascades Campus - Oregon",19,20,21,21,22,20,,,,,,,,
+"Bemidji State University - Minnesota",19,19,19,20,20,19,19,19,20,19,19,19,9,
+"California State Polytechnic University-Pomona - California",19,19,19,20,20,20,20,20,20,21,19,18,18,18
+"Adrian College - Michigan",19,19,19,19,19,19,19,19,19,19,20,21,20,20
+"Carlow University - Pennsylvania",19,19,19,20,19,19,17,17,17,18,19,19,18,19
+"Campbell University - North Carolina",19,20,19,20,19,19,17,17,19,17,19,22,,
+"Olivet Nazarene University - Illinois",19,19,20,20,21,20,21,21,21,20,20,19,19,19
+"Oral Roberts University - Oklahoma",19,18,19,20,19,19,19,20,20,20,20,20,20,19
+"Augusta University - Georgia",19,19,20,20,19,20,19,18,,,,,,
+"Albion College - Michigan",19,21,20,20,20,21,22,22,22,22,22,23,22,23
+"Jacksonville State University - Alabama",18,18,19,19,20,20,19,19,19,18,17,17,17,16
+"Anderson University - Indiana",18,20,19,19,19,21,21,21,21,20,22,21,20,20
+"Wright State University-Main Campus - Ohio",18,18,18,19,18,19,,,,,,,,
+"University of Central Oklahoma - Oklahoma",18,19,19,19,19,19,18,20,19,19,19,19,19,19
+"Trinity Bible College and Graduate School - North Dakota",18,17,17,17,17,17,18,,,,,,,
+"Hardin-Simmons University - Texas",18,18,18,18,19,19,20,20,20,20,20,19,19,19
+"Kentucky Wesleyan College - Kentucky",18,20,19,19,18,20,19,19,19,19,19,19,19,18
+"Jacksonville University - Florida",18,18,21,21,,,,19,20,20,19,19,18,18
+"Gwynedd Mercy University - Pennsylvania",18,17,18,17,16,18,18,16,18,17,,,17,
+"Grand View University - Iowa",18,17,18,18,18,18,18,19,18,19,18,18,18,18
+"University of Connecticut-Waterbury Campus - Connecticut",18,17,19,21,21,17,19,19,20,18,18,17,17,19
+"Auburn University at Montgomery - Alabama",18,19,19,19,19,19,19,18,21,18,18,18,18,18
+"John A Gupton College - Tennessee",18,18,6,1,12,18,,,,,,,,
+"Georgia Southern University - Georgia",18,20,21,22,22,21,22,21,21,21,21,21,20,20
+"Youngstown State University - Ohio",18,18,18,19,18,18,18,,,,,,,
+"Troy University - Alabama",18,18,18,18,18,19,19,18,18,17,18,17,17,17
+"Worsham College of Mortuary Science - Illinois",18,,,,,,,,,,,,,
+"Holy Family University - Pennsylvania",18,18,18,,,,17,16,18,,19,17,19,19
+"Judson College - Alabama",18,17,17,18,19,19,,19,18,19,18,19,19,17
+"Wilson College - Pennsylvania",18,19,18,21,20,18,20,19,18,19,16,18,21,20
+"Indiana University-South Bend - Indiana",18,17,17,18,18,18,17,18,18,19,17,17,17,17
+"Wright State University-Lake Campus - Ohio",18,18,18,18,19,18,,,,,,,,
+"Union College - Nebraska",18,17,18,19,18,19,19,19,19,19,19,20,20,19
+"Wilmington College - Ohio",18,18,18,19,18,19,18,19,18,18,17,18,18,18
+"Tuskegee University - Alabama",18,18,17,18,21,18,21,18,17,17,17,16,17,17
+"Williams Baptist University - Arkansas",18,18,17,18,18,19,19,19,19,19,19,19,19,19
+"William Peace University - North Carolina",18,18,18,17,16,15,16,16,17,18,14,16,17,15
+"University of Alaska Fairbanks - Alaska",18,17,18,17,19,18,,,,,18,17,18,18
+"Indiana University-East - Indiana",18,17,17,18,18,18,18,18,18,18,17,17,18,17
+"University of Arkansas at Little Rock - Arkansas",18,19,18,19,19,18,20,20,19,19,,,,
+"Indiana University of Pennsylvania-Main Campus - Pennsylvania",18,16,17,17,17,17,17,17,,,,,,
+"Tusculum University - Tennessee",18,18,18,17,18,18,19,18,18,19,19,19,19,18
+"Johnson University - Tennessee",18,19,20,19,18,19,19,19,19,20,19,20,19,23
+"Huntington University - Indiana",18,18,19,20,18,19,20,21,21,21,20,20,21,20
+"Hope International University - California",18,16,19,17,18,16,17,17,17,18,20,19,21,18
+"John Paul the Great Catholic University - California",18,21,20,20,22,22,21,20,,,,,,
+"Ferris State University - Michigan",18,18,19,19,19,19,19,19,19,19,18,18,18,18
+"Friends University - Kansas",18,19,18,19,19,19,19,18,18,19,19,19,19,17
+"Crown College - Minnesota",18,18,18,18,19,19,19,18,19,21,20,19,16,19
+"Black Hills State University - South Dakota",18,18,18,18,19,19,18,19,18,19,19,18,19,18
+"Vanguard University of Southern California - California",18,18,17,18,17,18,17,18,19,18,,18,18,19
+"California Baptist University - California",18,18,19,19,19,17,18,18,18,18,19,20,18,17
+"University of Pittsburgh-Bradford - Pennsylvania",18,17,20,20,19,18,19,19,19,18,19,17,18,19
+"Colorado State University Pueblo - Colorado",18,18,18,18,18,18,18,18,18,18,18,18,18,18
+"Ursuline College - Ohio",18,17,19,18,19,19,18,19,18,19,19,18,18,18
+"Cleveland State University - Ohio",18,19,19,19,19,19,19,19,19,18,18,17,17,16
+"Upper Iowa University - Iowa",18,19,18,18,17,17,17,19,19,19,17,17,17,19
+"University of South Carolina Aiken - South Carolina",18,17,17,18,18,18,18,18,18,18,18,18,18,18
+"Chaminade University of Honolulu - Hawaii",18,19,20,19,19,19,19,19,19,19,18,17,17,18
+"Central Methodist University-College of Liberal Arts and Sciences - Missouri",18,19,20,20,20,20,20,19,19,20,19,19,19,19
+"California State University-Chico - California",18,18,18,19,19,19,19,19,19,20,19,19,18,19
+"University of Wisconsin-Superior - Wisconsin",18,18,19,18,19,19,19,19,20,20,20,20,20,20
+"Central Baptist College - Arkansas",18,17,16,18,19,18,19,18,19,19,20,19,18,15
+"California State University-Fullerton - California",18,19,19,19,19,19,19,19,19,18,18,18,17,17
+"University of Wisconsin-Green Bay - Wisconsin",18,18,19,20,20,21,20,21,21,21,20,20,20,21
+"University of the Ozarks - Arkansas",18,18,19,18,19,20,20,20,20,20,19,20,19,20
+"Cedar Crest College - Pennsylvania",18,18,18,19,19,19,20,17,20,20,22,21,20,20
+"Culver-Stockton College - Missouri",18,18,18,18,18,18,19,18,18,18,19,19,18,18
+"Gardner-Webb University - North Carolina",18,19,18,19,18,18,19,19,18,18,18,17,19,18
+"Belmont Abbey College - North Carolina",18,19,19,18,18,19,18,18,20,19,20,,17,18
+"University of New Orleans - Louisiana",18,20,20,20,20,20,21,21,20,19,20,19,20,20
+"University of Indianapolis - Indiana",18,19,19,19,20,20,19,19,19,19,19,19,19,19
+"Florida College - Florida",18,20,20,18,20,19,20,20,19,17,20,19,19,20
+"Avila University - Missouri",18,19,19,19,19,18,20,20,20,20,20,20,20,19
+"University of Virginia's College at Wise - Virginia",18,18,18,17,18,17,17,17,17,17,16,17,17,16
+"Faulkner University - Alabama",18,18,18,18,18,18,,,,17,18,18,18,18
+"Baptist Health College Little Rock - Arkansas",18,18,18,19,18,21,19,19,19,20,19,18,19,21
+"Western Illinois University - Illinois",18,18,18,18,18,18,18,18,18,18,19,19,19,19
+"Emory & Henry College - Virginia",18,18,18,19,19,18,18,18,19,21,18,19,19,20
+"Emmaus Bible College - Iowa",18,18,19,19,20,20,19,,,,,,,
+"Edinboro University of Pennsylvania - Pennsylvania",18,18,17,17,16,17,16,17,17,17,16,16,16,16
+"West Texas A & M University - Texas",18,17,19,19,18,18,18,19,18,18,18,18,18,18
+"Beckfield College-Florence - Kentucky",18,18,,,,,,,,,,,,
+"Eastern Illinois University - Illinois",18,18,18,18,18,19,19,19,19,19,19,19,19,19
+"East Central University - Oklahoma",18,17,18,18,17,18,19,18,18,18,17,18,18,18
+"Wesleyan College - Georgia",18,17,18,21,19,,,17,17,18,18,20,19,19
+"Dillard University - Louisiana",18,19,,18,18,17,17,17,16,16,16,15,16,16
+"University of Nebraska at Omaha - Nebraska",18,19,19,19,19,19,19,20,19,20,20,20,20,20
+"Delta State University - Mississippi",18,18,18,18,19,18,18,18,18,18,17,17,18,17
+"Delaware Valley University - Pennsylvania",18,18,19,19,18,18,18,19,19,20,20,20,20,21
+"Dakota Wesleyan University - South Dakota",18,19,19,20,19,18,18,19,18,17,18,18,19,18
+"Roosevelt University - Illinois",18,21,21,20,19,19,20,19,20,19,19,20,19,19
+"Blue Mountain College - Mississippi",18,18,19,18,18,18,18,18,,18,,,,
+"Texas A&M University-San Antonio - Texas",18,18,17,17,16,,,,,,,,,
+"Mount Saint Mary's University - California",18,17,17,16,17,16,15,16,16,17,17,17,,
+"Tabor College - Kansas",18,17,18,18,18,19,20,18,19,19,19,19,19,18
+"Tarleton State University - Texas",18,18,18,18,18,18,18,19,18,18,18,18,18,18
+"McKendree University - Illinois",18,19,20,19,20,19,20,20,20,19,19,19,19,21
+"Mayville State University - North Dakota",18,18,18,18,18,,,,,,,,,
+"Shorter University - Georgia",18,18,18,17,18,18,17,18,18,18,18,18,17,17
+"Texas A & M University-Corpus Christi - Texas",18,19,18,17,17,17,18,17,18,17,,,17,16
+"Randall University - Oklahoma",18,18,17,17,17,15,18,18,16,17,17,17,16,16
+"Sierra Nevada University - Nevada",18,18,18,19,18,18,18,,,19,19,20,16,20
+"Mary Baldwin University - Virginia",18,18,18,19,18,19,19,18,19,19,17,18,20,18
+"Marion Military Institute - Alabama",18,18,19,19,19,19,19,18,19,19,18,18,18,
+"Old Dominion University - Virginia",18,18,18,18,18,18,18,18,18,18,18,18,18,19
+"Randolph College - Virginia",18,19,18,19,20,19,20,21,20,20,21,21,,23
+"Oklahoma Wesleyan University - Oklahoma",18,18,16,18,18,18,18,18,18,18,,,,
+"Southwestern Oklahoma State University - Oklahoma",18,18,18,18,18,18,19,18,18,18,18,18,18,18
+"McMurry University - Texas",18,18,18,17,18,16,16,18,18,17,17,17,17,18
+"Rhode Island College - Rhode Island",18,16,16,15,16,16,16,17,17,16,17,18,17,
+"Mercy College - New York",18,17,,,,,,,,,,,,
+"SUNY Morrisville - New York",18,17,17,18,17,17,18,17,20,17,22,18,,
+"Midway University - Kentucky",18,19,19,18,18,,,19,18,18,18,18,18,
+"Minot State University - North Dakota",18,17,18,19,18,19,20,19,20,19,19,19,20,17
+"Point Park University - Pennsylvania",18,19,20,19,19,19,19,19,20,20,19,19,19,19
+"Midland University - Nebraska",18,18,18,18,19,18,17,18,19,20,19,18,18,19
+"Missouri Baptist University - Missouri",18,19,19,18,18,18,19,19,19,19,19,19,19,19
+"SUNY College at Plattsburgh - New York",18,19,21,21,21,21,20,20,20,20,20,20,20,19
+"Sterling College - Kansas",18,18,17,18,18,19,18,19,19,19,19,18,18,18
+"San Diego Christian College - California",18,17,16,16,17,17,19,19,18,19,18,19,17,18
+"Missouri Southern State University - Missouri",18,18,18,19,18,19,18,18,18,18,18,19,19,17
+"Sam Houston State University - Texas",18,19,19,19,19,19,19,19,19,19,18,19,17,18
+"Stephen F Austin State University - Texas",18,19,18,18,19,19,19,19,19,18,18,18,18,18
+"Ottawa University-Surprise - Arizona",18,17,15,,,,,,,,,,,
+"Saint Xavier University - Illinois",18,19,19,19,19,19,19,19,20,20,20,20,20,20
+"Methodist University - North Carolina",18,17,18,18,17,17,18,18,17,17,18,18,17,18
+"Ottawa University-Ottawa - Kansas",18,17,17,18,,,,19,,18,19,,18,19
+"Mercy College of Ohio - Ohio",18,18,,,,,,,,,,,,
+"Saint Cloud State University - Minnesota",18,18,18,18,18,19,19,19,19,19,19,19,19,19
+"Summit Christian College - Nebraska",18,,18,18,18,17,17,,15,17,14,19,15,19
+"Ripon College - Wisconsin",18,19,20,20,21,21,21,21,21,22,22,20,21,21
+"Rocky Mountain College - Montana",18,19,20,20,20,20,19,19,20,21,20,17,20,19
+"Southern Wesleyan University - South Carolina",18,17,18,,,,,15,20,20,18,18,17,17
+"Lees-McRae College - North Carolina",18,,,,,,,,18,19,19,19,18,18
+"Life University - Georgia",18,15,16,17,17,,,,,16,17,18,18,18
+"Lancaster Bible College - Pennsylvania",18,18,20,20,19,19,18,16,18,19,19,18,17,19
+"Rutgers University-Newark - New Jersey",18,19,19,,,,,,,,,,,
+"North Greenville University - South Carolina",18,19,21,19,20,20,22,21,21,20,21,21,18,17
+"Longwood University - Virginia",18,17,18,18,18,18,19,19,19,20,21,21,21,
+"Louisiana College - Louisiana",18,18,19,19,18,18,18,18,17,17,17,16,17,16
+"North Central University - Minnesota",18,18,19,17,19,19,20,19,19,19,19,18,18,19
+"Southern Oregon University - Oregon",18,18,19,20,19,19,20,,19,19,,,19,20
+"Lake Erie College - Ohio",18,,17,18,18,19,18,19,19,19,17,18,18,17
+"Louisiana State University-Alexandria - Louisiana",18,17,18,18,18,18,19,18,19,19,19,18,18,
+"Brenau University - Georgia",17,17,17,17,19,19,,19,,,,,19,19
+"California University of Pennsylvania - Pennsylvania",17,17,17,16,16,17,17,17,,,,,17,17
+"Mount Carmel College of Nursing - Ohio",17,18,19,19,19,19,20,20,20,20,20,19,8,16
+"Cabarrus College of Health Sciences - North Carolina",17,19,20,19,20,19,20,21,18,19,19,19,19,19
+"Dickinson State University - North Dakota",17,18,18,18,18,18,18,18,18,16,,,,
+"Schreiner University - Texas",17,17,18,19,19,19,19,19,19,19,18,18,18,18
+"Blackburn College - Illinois",17,18,18,18,18,19,18,19,19,18,18,19,18,20
+"University of West Georgia - Georgia",17,18,18,18,18,18,18,18,18,19,18,18,18,18
+"Montreat College - North Carolina",17,17,18,17,18,18,18,17,18,18,19,18,18,
+"University of West Alabama - Alabama",17,18,18,18,18,18,19,18,18,18,18,17,15,16
+"Northeastern State University - Oklahoma",17,18,18,19,19,19,19,18,18,18,18,18,18,18
+"University of South Carolina-Upstate - South Carolina",17,17,17,17,18,18,18,19,19,18,18,19,19,18
+"Northwestern Oklahoma State University - Oklahoma",17,17,17,17,18,18,18,17,17,17,17,17,18,18
+"Bridgewater College - Virginia",17,18,18,18,20,20,21,20,19,20,18,19,18,18
+"Northwestern State University of Louisiana - Louisiana",17,19,19,19,19,19,20,19,19,19,18,18,18,18
+"Waldorf University - Iowa",17,17,17,18,18,18,17,19,18,16,18,18,18,18
+"Central Washington University - Washington",17,17,17,17,18,17,18,18,18,18,18,18,18,18
+"Catawba College - North Carolina",17,17,18,18,18,18,,,18,,18,19,18,19
+"Pacific Union College - California",17,17,18,18,17,18,19,18,18,18,18,16,17,
+"Eastern New Mexico University-Main Campus - New Mexico",17,17,17,16,17,17,17,17,17,17,17,17,17,16
+"Cardinal Stritch University - Wisconsin",17,18,18,18,18,20,19,20,19,19,20,19,19,19
+"Columbia College - South Carolina",17,,,17,18,18,20,20,19,19,19,18,18,18
+"Defiance College - Ohio",17,17,17,18,18,19,18,18,18,18,19,19,18,18
+"Delaware State University - Delaware",17,16,17,17,17,17,17,16,16,16,15,15,15,14
+"Columbia International University - South Carolina",17,18,17,17,20,20,18,19,20,20,20,20,19,18
+"Southwestern College - Kansas",17,18,18,18,18,19,19,20,19,19,19,19,19,19
+"Columbus State University - Georgia",17,18,18,18,17,17,18,19,18,17,17,17,17,17
+"California State University-Monterey Bay - California",17,17,17,18,,,,18,18,18,18,18,17,17
+"University of Wisconsin-Parkside - Wisconsin",17,17,18,18,18,18,19,19,18,18,18,18,17,18
+"College of Mount Saint Vincent - New York",17,18,18,18,17,18,19,17,16,20,,,,
+"California State University-Sacramento - California",17,16,16,17,17,17,17,17,17,17,17,18,18,17
+"North Carolina A & T State University - North Carolina",17,17,17,17,18,17,17,17,17,16,17,16,15,15
+"Southwestern Adventist University - Texas",17,17,16,18,17,17,16,17,,,16,19,18,
+"Southwest Minnesota State University - Minnesota",17,18,17,18,18,19,19,19,19,19,19,19,19,18
+"Elmira College - New York",17,21,,,,,21,20,21,24,22,23,23,23
+"University of Saint Katherine - California",17,17,17,,,,,,,,,,,
+"Coppin State University - Maryland",17,15,16,16,15,16,,,,,,,,
+"Corban University - Oregon",17,19,20,21,20,21,18,20,19,20,20,19,19,20
+"California State Polytechnic University-Humboldt - California",17,17,18,18,18,18,18,18,18,19,19,18,19,19
+"University of Saint Mary - Kansas",17,18,19,19,19,19,19,19,19,18,19,18,19,18
+"New Mexico State University-Main Campus - New Mexico",17,18,17,18,18,18,18,18,18,18,18,18,17,17
+"California State University-San Marcos - California",17,17,17,18,18,18,17,18,18,17,18,18,18,17
+"University of North Carolina at Pembroke - North Carolina",17,17,17,18,18,18,18,18,17,17,16,17,16,16
+"Valley City State University - North Dakota",17,18,18,18,18,18,19,18,18,18,18,18,18,18
+"St. Francis College - New York",17,17,,20,18,17,,,,,,,,
+"Sonoma State University - California",17,17,18,19,19,19,18,19,19,20,20,19,19,19
+"Clark Atlanta University - Georgia",17,17,18,17,18,16,16,17,17,18,18,18,17,15
+"Cabrini University - Pennsylvania",17,19,,19,19,,18,17,17,17,,,,16
+"Mount Marty University - South Dakota",17,18,18,19,18,19,19,20,19,19,19,19,18,19
+"University of New Mexico-Main Campus - New Mexico",17,19,19,19,19,19,20,19,19,19,19,19,19,19
+"Oak Hills Christian College - Minnesota",17,14,16,4,16,18,18,16,16,19,17,15,17,18
+"University of South Carolina Beaufort - South Carolina",17,17,17,17,18,17,17,18,18,17,18,17,18,16
+"The University of Texas Rio Grande Valley - Texas",17,17,17,17,18,17,18,18,18,17,17,17,16,16
+"University of La Verne - California",17,19,20,19,20,20,20,20,19,18,18,17,18,18
+"Southeastern Oklahoma State University - Oklahoma",17,18,18,18,18,18,18,18,18,18,18,18,18,18
+"Hawaii Pacific University - Hawaii",17,18,19,20,,,,19,18,18,18,18,17,17
+"Texas A & M University-Kingsville - Texas",17,17,17,17,17,17,17,16,16,15,16,16,14,
+"Texas A&M University-Texarkana - Texas",17,19,19,19,20,19,16,19,19,18,,,,
+"Texas Southern University - Texas",17,15,15,15,15,15,15,15,15,15,13,13,,
+"Immaculata University - Pennsylvania",17,18,21,17,18,20,17,18,17,16,,17,19,
+"University of Bridgeport - Connecticut",17,19,16,18,18,18,16,18,18,17,,,,
+"Lamar University - Texas",17,17,18,18,18,18,18,18,16,17,16,16,16,16
+"Marian University - Wisconsin",17,17,17,17,17,17,17,18,17,18,17,18,18,18
+"Manhattan Christian College - Kansas",17,17,19,18,19,19,19,20,,,,,,
+"Indiana University-Northwest - Indiana",17,17,18,17,18,17,17,17,17,16,16,16,16,16
+"Young Harris College - Georgia",17,18,18,20,18,18,,18,,,,,,
+"The Baptist College of Florida - Florida",17,15,17,17,17,17,17,20,18,17,17,16,16,17
+"Texas A & M University-Commerce - Texas",17,18,17,18,18,18,17,18,18,18,16,17,17,16
+"Madonna University - Michigan",17,18,19,19,18,20,19,19,,20,20,20,20,20
+"Indiana University-Southeast - Indiana",17,17,17,17,17,18,18,17,18,18,17,18,18,17
+"Iowa Wesleyan University - Iowa",17,19,19,18,17,18,18,19,18,18,17,17,15,16
+"Jackson State University - Mississippi",17,17,17,17,17,17,17,17,17,17,16,16,16,17
+"Lourdes University - Ohio",17,17,18,18,18,18,18,,,,,,,
+"Winston-Salem State University - North Carolina",17,16,16,16,17,17,16,16,16,16,15,15,16,16
+"Trinity Baptist College - Florida",17,16,15,16,16,15,16,14,15,15,16,17,16,18
+"Union College - Kentucky",17,17,18,17,18,18,18,19,18,19,17,17,17,17
+"Rochester University - Michigan",17,17,17,16,18,17,18,18,19,18,18,19,,
+"Johnson University Florida - Florida",17,17,16,17,18,17,17,17,18,17,,,14,
+"The University of Tennessee Southern - Tennessee",17,17,18,18,,,,,,,17,17,,
+"Judson University - Illinois",17,19,19,19,19,21,20,18,21,21,20,,,
+"Truett McConnell University - Georgia",17,17,17,18,18,18,18,17,17,16,15,15,16,15
+"University of Akron Wayne College - Ohio",17,,,,,,,,,,,,,
+"Adams State University - Colorado",17,17,17,17,17,17,17,17,18,17,17,17,17,17
+"Massachusetts College of Liberal Arts - Massachusetts",17,18,19,19,20,21,19,20,19,19,20,20,20,
+"Kutztown University of Pennsylvania - Pennsylvania",17,18,18,18,18,17,17,18,17,17,17,18,18,18
+"Bethel College-North Newton - Kansas",17,18,18,,,,19,19,20,20,21,20,21,21
+"Bethany College - Kansas",17,18,18,18,18,18,18,18,18,19,20,19,19,18
+"Felician University - New Jersey",17,15,15,17,16,15,15,15,14,14,17,16,,
+"Thiel College - Pennsylvania",17,15,15,17,16,17,19,18,18,18,18,17,17,16
+"Point University - Georgia",17,16,16,16,17,17,17,18,,17,18,15,16,17
+"Barton College - North Carolina",17,18,17,18,17,18,17,18,16,18,17,16,17,16
+"University of the Incarnate Word - Texas",17,17,17,17,17,18,18,18,18,17,18,17,16,17
+"Florida School of Traditional Midwifery - Florida",17,,,,,,,,,,,,,
+"Fontbonne University - Missouri",17,18,18,20,20,20,20,21,20,20,20,19,18,18
+"Portland State University - Oregon",17,18,18,19,19,19,19,,,,,,,
+"Salem College - North Carolina",17,16,21,23,22,21,21,22,21,19,22,22,20,20
+"La Roche University - Pennsylvania",17,17,16,18,17,17,16,17,18,17,17,16,15,15
+"Rutgers University-Camden - New Jersey",17,18,17,,,,,,,,,,,
+"Lewis-Clark State College - Idaho",17,16,17,17,18,18,17,18,18,17,17,17,17,17
+"Augsburg University - Minnesota",17,18,19,19,19,19,20,20,23,20,19,19,19,20
+"Frostburg State University - Maryland",17,17,17,17,18,17,18,18,18,17,17,17,17,17
+"Guilford College - North Carolina",17,17,,,,,,20,21,21,20,21,21,20
+"Greenville University - Illinois",17,18,18,19,18,19,20,19,19,19,20,19,20,19
+"Presentation College - South Dakota",17,17,18,18,18,18,18,18,17,17,19,17,17,16
+"University of Dubuque - Iowa",17,17,16,16,17,17,17,17,18,18,18,18,17,18
+"Georgian Court University - New Jersey",17,19,17,17,17,,,,,,,,,
+"SUNY College of Technology at Canton - New York",17,18,17,17,17,,,,,,,,,
+"Governors State University - Illinois",17,17,16,17,17,17,17,,,,,,,
+"Saint Martin's University - Washington",17,17,18,18,20,21,20,19,19,19,16,17,19,19
+"Arizona Christian University - Arizona",17,15,17,15,18,19,19,20,19,19,20,17,,
+"Angelo State University - Texas",17,17,17,17,18,18,18,18,18,18,18,17,17,17
+"Rosemont College - Pennsylvania",16,16,16,16,16,15,23,19,18,,,,,
+"Abraham Baldwin Agricultural College - Georgia",16,17,17,17,17,17,17,16,13,17,,,,
+"Castleton University - Vermont",16,18,18,17,17,18,18,17,18,18,17,17,18,
+"The University of Texas Permian Basin - Texas",16,17,17,17,18,18,18,19,19,19,18,18,18,19
+"University of Washington-Tacoma Campus - Washington",16,16,16,18,17,16,18,17,18,18,16,16,16,
+"Southeastern Baptist College - Mississippi",16,,,,,,,,,,,,,
+"Oakland City University - Indiana",16,16,16,18,18,17,18,19,16,18,18,17,17,18
+"Alcorn State University - Mississippi",16,16,17,17,16,16,16,16,16,16,16,16,16,16
+"California State University-Northridge - California",16,16,16,17,16,16,16,16,16,16,16,16,16,15
+"California State University-Fresno - California",16,16,16,16,16,16,16,16,16,16,16,16,16,16
+"Alice Lloyd College - Kentucky",16,18,18,18,18,19,19,18,18,20,18,18,17,18
+"Bethel University - Tennessee",16,16,16,16,17,17,17,17,18,16,17,17,17,17
+"Caldwell University - New Jersey",16,17,17,17,18,18,17,16,17,17,,17,17,
+"Andrew College - Georgia",16,14,14,15,,,17,15,15,15,14,14,14,14
+"Saint Mary-of-the-Woods College - Indiana",16,17,16,18,17,19,17,15,18,19,20,18,19,18
+"Prairie View A & M University - Texas",16,16,16,16,15,16,16,15,15,15,15,15,17,16
+"Bushnell University - Oregon",16,18,18,17,17,19,17,18,19,20,20,20,18,21
+"Western Oregon University - Oregon",16,17,,,17,17,17,,,16,17,17,17,17
+"San Francisco State University - California",16,17,17,18,18,18,18,19,19,19,19,18,18,17
+"Pfeiffer University - North Carolina",16,16,17,16,17,17,17,18,18,19,17,17,18,17
+"Rockford University - Illinois",16,18,19,19,19,19,19,19,18,18,20,19,18,19
+"Wayland Baptist University - Texas",16,16,16,17,16,16,17,17,17,16,18,17,17,18
+"Bowie State University - Maryland",16,16,,16,15,15,15,17,16,17,,,,
+"University of Maryland Eastern Shore - Maryland",16,16,15,16,17,15,15,16,16,16,15,14,15,14
+"Spalding University - Kentucky",16,17,18,18,18,18,18,18,18,16,19,16,15,17
+"Converse University - South Carolina",16,16,20,20,20,20,20,21,20,19,20,20,20,21
+"University of North Texas at Dallas - Texas",16,16,16,16,17,16,16,,,,,,,
+"Texas Woman's University - Texas",16,16,17,17,17,17,17,17,17,16,19,18,18,18
+"Mansfield University of Pennsylvania - Pennsylvania",16,16,17,17,18,17,17,19,,,18,17,17,
+"Fayetteville State University - North Carolina",16,17,18,17,17,17,17,17,15,15,15,15,15,
+"Criswell College - Texas",16,18,17,,,,,,,,,,,
+"Neumann University - Pennsylvania",16,16,16,15,17,17,15,16,17,16,,,,
+"Mount Mary University - Wisconsin",16,16,16,17,18,17,17,17,17,17,16,17,18,17
+"Morgan State University - Maryland",16,16,16,16,16,16,16,16,16,16,16,17,16,17
+"Hiram College - Ohio",16,18,18,18,19,20,18,19,20,19,19,20,20,20
+"St. Thomas University - Florida",16,16,16,18,17,17,17,16,17,16,16,16,16,16
+"University of Mount Olive - North Carolina",16,16,17,17,17,17,16,17,15,17,16,,,
+"Greensboro College - North Carolina",16,16,16,17,17,16,16,15,17,17,16,16,17,16
+"East Stroudsburg University of Pennsylvania - Pennsylvania",16,17,19,20,19,18,18,18,,,,,,
+"Fresno Pacific University - California",16,16,17,18,18,19,19,18,19,18,18,18,17,17
+"Gordon State College - Georgia",16,15,15,15,15,15,16,15,16,15,,,,
+"Eastern Nazarene College - Massachusetts",16,17,17,18,20,18,15,17,18,20,16,20,17,18
+"University of Hawaii at Hilo - Hawaii",16,17,17,17,18,16,17,19,18,18,17,18,19,17
+"Eastern Washington University - Washington",16,17,17,17,17,18,17,18,18,18,17,18,18,18
+"Southwestern Assemblies of God University - Texas",16,17,17,17,19,18,,,,,,,,
+"Colorado State University-Global Campus - Colorado",16,18,,,,,,,,,,,,
+"University of Providence - Montana",16,16,,,,,,,,,,,,
+"Mid-Atlantic Christian University - North Carolina",16,15,16,18,17,16,18,14,14,16,18,21,19,14
+"Southern University and A & M College - Louisiana",16,17,17,17,20,17,17,17,17,17,17,15,16,16
+"Midwestern State University - Texas",16,17,17,18,18,19,19,19,19,20,18,19,19,18
+"Lander University - South Carolina",16,17,17,17,17,17,17,18,17,18,18,18,17,17
+"Eureka College - Illinois",16,17,17,19,19,19,19,19,19,19,19,19,20,19
+"Erskine College - South Carolina",16,17,18,19,20,18,18,19,20,18,23,20,21,22
+"Kentucky Christian University - Kentucky",16,17,17,18,18,19,18,18,18,18,17,17,17,17
+"The University of Montana-Western - Montana",16,17,17,16,,,,,,,,,,
+"University of South Carolina-Sumter - South Carolina",16,15,15,16,17,17,17,17,17,16,17,17,17,16
+"SUNY College of Agriculture and Technology at Cobleskill - New York",16,17,,17,20,16,16,16,20,18,20,19,20,
+"University of South Carolina-Lancaster - South Carolina",16,15,15,16,15,15,15,14,15,14,14,15,15,15
+"Claflin University - South Carolina",16,15,17,14,18,15,15,15,15,16,,,,
+"Fort Lewis College - Colorado",16,17,18,20,19,19,19,20,19,20,20,19,18,18
+"Kean University - New Jersey",16,17,17,16,17,17,15,,,,,,,
+"Life Pacific University - California",16,15,16,16,16,16,16,17,18,16,19,17,16,18
+"Coker University - South Carolina",16,18,17,17,18,18,18,18,17,18,18,17,18,
+"College of Coastal Georgia - Georgia",16,17,17,16,16,17,18,17,17,,,,,
+"University of Redlands - California",16,23,23,23,22,22,22,23,22,22,22,22,22,21
+"Trinity College of Florida - Florida",16,16,15,16,15,16,,,,,19,16,14,20
+"University of Hawaii-West Oahu - Hawaii",16,16,16,16,,,,16,16,15,15,17,,
+"Bacone College - Oklahoma",15,13,14,15,15,15,16,15,16,16,16,16,14,15
+"Averett University - Virginia",15,16,16,17,16,17,16,17,16,17,17,15,16,17
+"Francis Marion University - South Carolina",15,16,17,17,17,17,17,17,17,17,18,18,18,18
+"Ferrum College - Virginia",15,16,17,15,15,15,16,14,16,16,16,16,16,14
+"Saint Elizabeth School of Nursing - Indiana",15,,15,,,18,19,,,,22,17,19,19
+"Graceland University-Lamoni - Iowa",15,18,18,18,18,18,18,18,18,18,18,21,18,18
+"Grambling State University - Louisiana",15,16,16,,16,16,16,16,14,16,16,17,15,
+"Texas A & M International University - Texas",15,16,16,16,16,16,17,16,16,16,15,16,15,14
+"Albany State University - Georgia",15,14,15,,17,17,17,17,16,16,17,17,17,16
+"Alabama A & M University - Alabama",15,15,16,16,16,16,15,15,16,16,16,16,16,16
+"Yellowstone Christian College - Montana",15,,,,,,,,,,,,,
+"York College - Nebraska",15,17,18,18,17,18,18,17,17,18,18,18,18,17
+"Kentucky State University - Kentucky",15,18,15,17,17,17,16,16,15,16,15,15,15,14
+"Tougaloo College - Mississippi",15,15,16,16,16,15,15,15,15,15,24,25,21,20
+"Centenary University - New Jersey",15,15,17,19,15,17,16,18,17,16,16,15,20,16
+"La Sierra University - California",15,16,17,16,16,16,16,17,16,16,17,18,17,17
+"Prescott College - Arizona",15,,,19,21,19,20,22,22,21,19,20,21,21
+"Northeastern Illinois University - Illinois",15,15,15,15,16,16,16,16,16,17,16,16,16,16
+"Lincoln University - Pennsylvania",15,16,16,16,15,15,16,15,,16,15,15,,15
+"Nyack College - New York",15,16,17,17,18,16,19,17,17,17,17,17,18,18
+"Norfolk State University - Virginia",15,15,16,17,16,15,16,16,17,17,17,16,17,17
+"North Carolina Central University - North Carolina",15,17,17,17,17,17,17,16,15,15,15,14,14,15
+"VanderCook College of Music - Illinois",15,13,21,21,20,22,20,24,20,19,19,19,20,18
+"Missouri Valley College - Missouri",15,16,16,,,,,18,17,17,17,17,17,18
+"Our Lady of the Lake University - Texas",15,17,17,17,18,17,18,14,16,16,16,17,17,17
+"California State University-Los Angeles - California",15,15,15,15,15,15,15,15,15,15,15,15,15,15
+"California State University-San Bernardino - California",15,15,16,16,16,16,16,16,16,16,16,15,16,16
+"North Carolina Wesleyan College - North Carolina",15,15,15,16,16,16,15,15,15,15,16,15,16,16
+"Virginia State University - Virginia",15,15,15,15,15,15,15,15,16,16,,,,15
+"Shippensburg University of Pennsylvania - Pennsylvania",15,16,17,18,18,18,17,18,17,17,,,,
+"University of South Carolina-Union - South Carolina",15,14,14,15,15,15,14,14,13,13,14,15,13,15
+"Newberry College - South Carolina",15,16,17,17,17,18,17,17,16,18,17,17,18,18
+"Bloomfield College - New Jersey",15,14,16,15,16,15,13,,,,,,,
+"Chicago State University - Illinois",15,16,16,16,16,16,16,17,17,16,16,18,18,18
+"Elizabeth City State University - North Carolina",15,16,17,16,17,17,17,16,16,15,15,14,14,15
+"Southern University at New Orleans - Louisiana",15,15,15,15,16,15,15,15,17,17,,,,
+"Bethune-Cookman University - Florida",15,15,,,,,15,15,13,16,16,18,15,14
+"Sul Ross State University - Texas",15,15,,16,16,15,16,15,15,,,,,
+"Savannah State University - Georgia",15,16,21,16,16,16,16,16,16,,,,16,16
+"Paine College - Georgia",15,14,14,14,14,14,14,14,14,14,14,14,9,14
+"Cazenovia College - New York",15,,,,20,,,,19,,,,,
+"University of South Carolina-Salkehatchie - South Carolina",14,14,14,14,14,14,14,14,14,14,14,14,14,14
+"University of Science and Arts of Oklahoma - Oklahoma",14,19,19,19,19,19,20,18,20,20,19,19,20,18
+"Alabama State University - Alabama",14,15,16,16,15,16,16,15,15,14,15,14,14,14
+"Thomas University - Georgia",14,,,,,,,,,,,,,
+"University of the Virgin Islands - Virgin Islands",14,14,,15,15,16,15,14,13,13,14,13,14,14
+"Chowan University - North Carolina",14,14,14,14,14,14,14,14,14,14,15,15,15,14
+"South Carolina State University - South Carolina",14,15,15,15,14,14,15,17,15,15,15,15,15,15
+"Wesley College - Delaware",14,14,15,15,15,14,15,16,16,,,,,
+"University of Arkansas at Pine Bluff - Arkansas",14,16,16,16,16,16,16,15,14,15,14,14,14,14
+"Webber International University - Florida",14,16,17,17,17,16,17,17,17,17,18,17,16,16
+"Paul Quinn College - Texas",14,15,13,14,12,14,19,13,14,18,11,8,8,8
+"Edward Waters University - Florida",14,15,15,15,15,14,15,15,15,14,14,,,
+"Gallaudet University - Washington DC",14,14,15,15,14,16,15,15,15,15,15,15,14,14
+"Saint Louis Christian College - Missouri",14,14,20,16,14,18,18,18,17,17,17,,15,19
+"Metropolitan State University of Denver - Colorado",14,17,17,17,17,18,18,18,18,18,18,18,18,17
+"Wilberforce University - Ohio",14,15,14,14,15,14,13,,,,,,,
+"Huston-Tillotson University - Texas",14,14,14,16,13,14,14,13,14,14,14,14,14,14
+"Virginia Union University - Virginia",13,14,15,15,,14,14,13,14,13,,,,
+"Fisher College - Massachusetts",13,,,,,,,,15,17,,,,
+"Johnson C Smith University - North Carolina",13,14,14,14,15,15,15,15,15,15,16,19,19,19
+"Mississippi Valley State University - Mississippi",13,16,15,16,15,16,15,15,15,15,15,16,15,15
+"Livingstone College - North Carolina",13,14,13,13,13,12,13,13,14,13,13,13,13,12
+"Visible Music College - Tennessee",12,15,14,13,18,16,17,17,18,16,18,17,16,
+"Saint Augustine's University - North Carolina",12,13,13,13,12,13,14,13,14,,15,12,13,13
+"Boston Baptist College - Massachusetts",10,16,15,16,13,18,,,,,20,,13,15
+"Wake Forest University - North Carolina",,,,,,,,,,,,27,27,
+"Wagner College - New York",,,,,,,,22,22,22,23,23,24,24
+"Voorhees College - South Carolina",,,,,,,,,,,,,,14
+"Virginia Beach Theological Seminary - Virginia",,,,,,,,,,,,,,
+"Villa Maria College - New York",,,,,,,,,,,,,,
+"Vet Tech Institute of Houston - Texas",,,,,,,,,,,,,,
+"Veritas Baptist College - Indiana",,,,,,,,,,,,,,
+"Venango County Area Vocational Technical School - Pennsylvania",,,,,,,,,,,,,,
+"Veeb Nassau County School of Practical Nursing - New York",,,,,,,,,,,,,,
+"Utica University - New York",,,,,,,,18,18,16,18,,18,19
+"Walnut Hill College - Pennsylvania",,,,,,,,,,,,,,
+"UPMC Mercy School of Nursing - Pennsylvania",,,,,,,24,,,,,18,19,18
+"Upper Cape Cod Regional Technical School - Massachusetts",,,,,,,,,,,,,,
+"UPMC St. Margaret School of Nursing - Pennsylvania",,,,,,,19,,,,,,,
+"UPMC Shadyside School of Nursing - Pennsylvania",,,,,,,,,,,,,,
+"Vermont Technical College - Vermont",,,,,,,,16,19,18,18,17,16,
+"Warner Pacific University - Oregon",,,,,,,,,17,16,13,,,17
+"Wesleyan University - Connecticut",,,,,,,,29,29,30,30,27,28,28
+"Warrensburg Area Career Center - Missouri",,,,,,,,,,,,,,
+"Willamette University - Oregon",,,,,,25,24,24,25,27,25,25,25,24
+"Wilson Workforce and Rehabilitation Center - Virginia",,,,,,,,,,,,,,
+"UPMC Jameson School of Nursing - Pennsylvania",,,,,,,,,,,,,,
+"Worcester Polytechnic Institute - Massachusetts",,,,,,,,,,,,,25,25
+"Whitworth University-Adult Degree Programs - Washington",,,,,,,,,,,,,,
+"Wheelock College - Massachusetts",,,,12,15,18,15,19,18,17,18,18,18,16
+"Western Pennsylvania Hospital School of Nursing - Pennsylvania",,,,,,,,,,,,,,
+"Western Connecticut State University - Connecticut",,,,,,,18,,,,,,,
+"Western Area Career & Technology Center - Pennsylvania",,,,,,,,,,,,,,
+"Westcliff University - California",,,,,,,,,,,,,,
+"West Coast University-Orange County - California",,,,,,,,,,,,,,
+"West Coast University-Ontario - California",,,,,,,,,,,,,,
+"West Coast University-Miami - Florida",,,,,,,,,,,,,,
+"West Coast University-Los Angeles - California",,,,,,,,,,,,,,
+"West Coast University-Dallas - Texas",,,,,,,,,,,,,,
+"Washington Saratoga Warren Hamilton Essex BOCES-Practical Nursing Program - New York",,,,,,,,,,,,,,
+"Washington College - Maryland",,,,,,,,24,23,21,22,21,21,19
+"Washington & Jefferson College - Pennsylvania",,,,,,,,,,,22,22,23,22
+"Washburn Institute of Technology - Kansas",,,,,,,,,,,,,,
+"Yeshiva Bais Aharon - New Jersey",,,,,,,,,,,,,,
+"University of Wisconsin-Parkside Flex - Wisconsin",,,,,,,,,,,,,,
+"University of Maine at Presque Isle - Maine",,,,,,,,,,,,,,
+"University of Wisconsin Colleges Flex - Wisconsin",,,,,,,,,,,,,,
+"University of Alaska Anchorage - Alaska",,,,,,,,,,,17,17,17,18
+"University of Advancing Technology - Arizona",,,,,,,,,19,16,,,,
+"Universidad del Sagrado Corazon - Puerto Rico",,,,,,,,,,,,,,
+"Universidad Central Del Caribe - Puerto Rico",,,,,,,,,,,,,,
+"Universidad Central de Bayamon - Puerto Rico",,,,,,,,,,,,,,
+"Universidad Adventista de las Antillas - Puerto Rico",,,,,,,,,,,,,,
+"Universal Healthcare Careers College - California",,,,,,,,,,,,,,
+"Unity College - Maine",,,,,,,,,,,,,,
+"Ulster BOCES-School of Practical Nursing - New York",,,,,,,,,,,,,,
+"Ukiah Adult School - California",,,,,,,,,,,,,,
+"Trinity Washington University - Washington DC",,,,,,,,,,,,,,
+"Trinity School of Health and Allied Sciences - California",,,,,,,,,,,,,,
+"Trinity Health System School of Nursing - Ohio",,,,,17,21,,19,,19,,,19,20
+"Yeshiva D'monsey Rabbinical College - New York",,,,,,,,,,,,,,
+"Touro College - New York",,,,,,,,,,,,,,
+"Trident University International - California",,,,,,,,,,,,,,
+"Trinity College of Nursing & Health Sciences - Illinois",,,,,,,,,,,,,,
+"University of Alaska Southeast - Alaska",,,,,,,,,,,,17,21,20
+"University of Arkansas Community College-Morrilton - Arkansas",,,,,18,17,17,17,,,,,,
+"University of Holy Cross - Louisiana",,,,18,18,,,,,,,,,
+"University of Maine at Farmington - Maine",,,,,,,,,,,,,,
+"University of Wisconsin Colleges - Wisconsin",,,,17,18,18,18,18,18,18,18,18,18,18
+"University of Valley Forge - Pennsylvania",,,,,,18,17,19,19,15,17,,,
+"University of the Southwest - New Mexico",,,,,15,,,,,,16,15,15,14
+"University of Silicon Valley - California",,,,,,,,,,19,,,,
+"University of Puget Sound - Washington",,,,,,,25,25,26,26,25,25,25,25
+"University of Puerto Rico-Utuado - Puerto Rico",,,,,,,,,,,,,,
+"University of Puerto Rico-Rio Piedras - Puerto Rico",,,,,,,,,,,,,,
+"University of Puerto Rico-Mayaguez - Puerto Rico",,,,,,,,,,,,,,
+"University of Wisconsin-Milwaukee Flex - Wisconsin",,,,,,,,,,,,,,
+"University of Puerto Rico-Humacao - Puerto Rico",,,,,,,,,,,,,,
+"University of Puerto Rico-Carolina - Puerto Rico",,,,,,,,,,,,,,
+"University of Puerto Rico-Bayamon - Puerto Rico",,,,,,,,,,,,,,
+"University of Puerto Rico-Arecibo - Puerto Rico",,,,,,,,,,,,,,
+"University of Puerto Rico-Aguadilla - Puerto Rico",,,,,,,,,,,,,,
+"University of Puerto Rico at Ponce - Puerto Rico",,,,,,,,,,,,,,
+"University of Pikeville - Kentucky",,,,18,17,18,18,16,,,,,,
+"University of Massachusetts-Boston - Massachusetts",,,,21,21,,,,,,,,,
+"University of Massachusetts Global - California",,,,,,,,,,,,,,
+"University of Puerto Rico-Cayey - Puerto Rico",,,,,,,,,,,,,,
+"Yeshiva Derech Chaim - New York",,,,,,,,,,,,,,
+"Prism Career Institute-West Atlantic City - New Jersey",,,,,,,,,,,,,,
+"Yeshiva Gedolah of Greater Detroit - Michigan",,,,,,,,,,,,,,
+"Southeastern Bible College - Alabama",,,,,18,18,18,16,16,19,15,16,17,17
+"Shimer College - Illinois",,,,,,,,,,,,,,
+"School of the Museum of Fine Arts at Tufts University - Massachusetts",,,,,,,,,,,,20,20,22
+"Santa Fe University of Art and Design - New Mexico",,,,,,,,17,18,17,21,21,21,20
+"Saint Josephs College - Indiana",,,,,21,19,18,19,19,18,18,18,19,18
+"Roane State Community College - Tennessee",,,,,17,17,17,17,16,17,17,17,17,17
+"Rizzieri Aveda School for Beauty and Wellness - New Jersey",,,,,,,,,,,,,,
+"Purdue University-North Central Campus - Indiana",,,,,19,18,18,17,18,18,18,17,18,17
+"Purdue University-Calumet Campus - Indiana",,,,,18,,,,,,,,,
+"Prism Career Institute-Philadelphia - Pennsylvania",,,,,,,,,,,,,,
+"Prism Career Institute-Cherry Hill - New Jersey",,,,,,,,,,,,,,
+"Omaha School of Massage and Healthcare of Herzing University - Nebraska",,,,,,,,,,,,,,
+"New Horizons Medical Institute - Georgia",,,,,,,,,,,,,,
+"National University College-Rio Grande - Puerto Rico",,,,,,,,,,,,,,
+"National University College-Ponce - Puerto Rico",,,,,,,,,,,,,,
+"National University College-Caguas - Puerto Rico",,,,,,,,,,,,,,
+"National University College-Arecibo - Puerto Rico",,,,,,,,,,,,,,
+"St. Gregory's University - Oklahoma",,,,,,,,,18,,16,17,17,17
+"Stevens-The Institute of Business & Arts - Missouri",,,,,,,,,,,,,,
+"Syracuse City Schools Practical Nursing Program - New York",,,,,,,,,,,,,,
+"Trine University-Arizona Regional Campus - Arizona",,,,,,,,,,,,,,
+"Torah Temimah Talmudical Seminary - New York",,,,,,,,,,,,,,
+"Coleman University - California",,,,,,,,,,,,,,
+"College of Massage Therapy - Idaho",,,,,,,,,,,,,,
+"Central Baptist Theological Seminary - Kansas",,,,,,,,,,,,,,
+"Center for Advanced Legal Studies - Texas",,,,,,,,,,,,,,
+"Carolina School of Broadcasting - North Carolina",,,,,,,,,,,,,,
+"Brooks Institute - California",,,,,,,,,,,,,,
+"Bristol University - California",,,,,,,,,,,,,,
+"Medical Professional Institute - Massachusetts",,,,,,,,,,,,,,
+"Atelier Esthetique Institute of Esthetics - New York",,,,,,,,,,,,,,
+"AIB College of Business - Iowa",,,,,,,,,,,19,,,
+"YTI Career Institute-York - Pennsylvania",,,,,,,,,,,,,,
+"Yeshivas Maharit D'Satmar - New York",,,,,,,,,,,,,,
+"Wood Tobe-Coburn School - New York",,,,,,,,,,,,,,
+"Valley Forge Military College - Pennsylvania",,,,,18,16,14,15,,,,,,
+"Unitek College - California",,,,,,,,,,,,,,
+"Unitek College - California",,,,,,,,,,,,,,
+"Trocaire College - New York",,,,,,,,,,,,,,
+"ATA College - Oklahoma",,,,,,,,,,,,,,
+"McNally Smith College of Music - Minnesota",,,,,,,,,,,,,,
+"Marylhurst University - Oregon",,,,,,,,,,,,,,
+"Instituto Tecnologico de Puerto Rico-Recinto de Guayama - Puerto Rico",,,,,,,,,,,,,,
+"Yeshivas Novominsk - New York",,,,,,,,,,,,,,
+"Yeshivas Be'er Yitzchok - New Jersey",,,,,,,,,,,,,,
+"Yeshiva Zichron Aryeh - New York",,,,,,,,,,,,,,
+"Yeshiva Yesodei Hatorah - New Jersey",,,,,,,,,,,,,,
+"Yeshiva Toras Chaim - New Jersey",,,,,,,,,,,,,,
+"Yeshiva Sholom Shachna - New York",,,,,,,,,,,,,,
+"Yeshiva Shaarei Torah of Rockland - New York",,,,,,,,,,,,,,
+"Yeshiva Shaar Hatorah - New York",,,,,,,,,,,,,,
+"Yeshivat Mikdash Melech - New York",,,,,,,,,,,,,,
+"Yeshiva Ohr Yisrael - New York",,,,,,,,,,,,,,
+"Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary - California",,,,,,,,,,,,,,
+"Yeshiva of the Telshe Alumni - New York",,,,,,,,,,,,,,
+"Yeshiva of Machzikai Hadas - New York",,,,,,,,,,,,,,
+"Yeshiva of Far Rockaway Derech Ayson Rabbinical Seminary - New York",,,,,,,,,,,,,,
+"Yeshiva Kollel Tifereth Elizer - New York",,,,,,,,,,,,,,
+"Yeshiva Karlin Stolin - New York",,,,,,,,,,,,,,
+"Yeshiva Gedolah Zichron Leyma - New Jersey",,,,,,,,,,,,,,
+"Yeshiva Gedolah Shaarei Shmuel - New Jersey",,,,,,,,,,,,,,
+"Yeshiva Ohr Naftoli - New York",,,,,,,,,,,,,,
+"Yeshiva Gedolah Kesser Torah - New York",,,,,,,,,,,,,,
+"Yeshivath Beth Moshe - Pennsylvania",,,,,,,,,,,,,,
+"Yeshivath Zichron Moshe - New York",,,,,,,,,,,,,,
+"Huntingdon County Career and Technology Center - Pennsylvania",,,,,,,,,,,,,,
+"Greene County Career and Technology Center - Pennsylvania",,,,,,,,,,,,,,
+"Global Health College - Virginia",,,,,,,,,,,,,,
+"Epic Bible College & Graduate School - California",,,,,,,,,,,,,,
+"Delaware Chenango Madison Otsego BOCES-Practical Nursing Program - New York",,,,,,,,,,,,,,
+"CUNY Medgar Evers College - New York",,,,,,,,,,,,,,
+"Concordia College Alabama - Alabama",,,,,,,11,,,,,,,
+"College of Staten Island CUNY - New York",,,,,,,,,,,,,,
+"Yeshivath Viznitz - New York",,,,,,,,,,,,,,
+"Central Coast College - California",,,,,,,,,,,,,,
+"Carthage R9 School District-Carthage Technical Center - Missouri",,,,,,,,,,,,,,
+"Cambridge Junior College-Woodland - California",,,,,,,,,,,,,,
+"Brown & Clermont Adult Career Campuses - Ohio",,,,,,,,,,,,,,
+"Be'er Yaakov Talmudic Seminary - New York",,,,,,,,,,,,,,
+"Atlanta Institute of Music and Media - Georgia",,,,,,,,,,,,,,
+"Aquinas College - Tennessee",,,,,21,21,20,23,20,19,17,18,18,18
+"Alabama School of Nail Technology & Cosmetology - Alabama",,,,,,,,,,,,,,
+"Zaytuna College - California",,,,,30,,,,,,,,,
+"Center for Neurosomatic Studies - Florida",,,,,,,,,,,,,,
+"Toledo Public Schools Adult and Continuing Education - Ohio",,,,,,,,,,,,,,
+"NUC University - Puerto Rico",,,,,,,,,,,,,,
+"Thomas More College of Liberal Arts - New Hampshire",,,,,,,,,,,,,,
+"Professional Skills Institute - Ohio",,,,,,,,,,,,,,
+"Post University - Connecticut",,,,,15,17,6,16,15,16,15,14,,
+"Portland Actors Conservatory - Oregon",,,,,,,,,,,,,,
+"Pontifical College Josephinum - Ohio",,,,,,,24,,,20,16,19,17,20
+"Pontifical Catholic University of Puerto Rico-Ponce - Puerto Rico",,,,,,,,,,,,,,
+"Pontifical Catholic University of Puerto Rico-Mayaguez - Puerto Rico",,,,,,,,,,,,,,
+"Pontifical Catholic University of Puerto Rico-Arecibo - Puerto Rico",,,,,,,,,,,,,,
+"Pomeroy College of Nursing at Crouse Hospital - New York",,,,,,,,,,,,,17,21
+"Plymouth State University - New Hampshire",,,,,,,,18,17,18,18,14,18,17
+"Plaza College - New York",,,,,,,,,,,,,,
+"Platt College-Aurora - Colorado",,,,,,,,,,,,,,
+"Pitzer College - California",,,,,,,,,,,,,,
+"Pittsburgh Institute of Mortuary Science Inc - Pennsylvania",,,,,,,,,,,,,,
+"Pine Manor College - Massachusetts",,,,,,,,,13,15,,15,14,14
+"Phillips School of Nursing at Mount Sinai Beth Israel - New York",,,,,,,,,,,,,,
+"Pennsylvania State University-Penn State Schuylkill - Pennsylvania",,,,16,15,16,17,18,17,14,15,15,17,17
+"Pennsylvania College of Health Sciences - Pennsylvania",,,,,,,,,,,,,,
+"Putnam Westchester BOCES-Practical Nursing Program - New York",,,,,,,,,,,,,,
+"Rabbi Jacob Joseph School - New Jersey",,,,,,,,,,,,,,
+"Rabbinical Academy Mesivta Rabbi Chaim Berlin - New York",,,,,,,,,,,,,,
+"Rabbinical College Beth Shraga - New York",,,,,,,,,,,,,,
+"Russell Sage College - New York",,,,,,,,,,,24,22,20,19
+"Rollins College - Florida",,,,,,,,24,24,24,,23,23,23
+"Rolla Technical Institute/Center - Missouri",,,,,,,,,,,,,,
+"Roger Williams University - Rhode Island",,,,,,,,,,22,,21,,21
+"Robert Morris University Illinois - Illinois",,,,,,,,,,,,,,
+"Rivier University - New Hampshire",,,,,,,18,17,17,17,17,16,,18
+"Riverside College of Health Careers - Virginia",,,,,,,,,,,,,,
+"Rio Grande Bible Institute - Texas",,,,,,,,,,,,,,
+"Pennsylvania College of Art and Design - Pennsylvania",,,,,,,,,,,,,,
+"Ringling College of Art and Design - Florida",,,,,,,,,,,,,,
+"Richard Bland College - Virginia",,,,,,,,11,,,,,,
+"Regis College - Massachusetts",,,,,,,,19,19,15,17,16,16,5
+"Reading Hospital School of Health Sciences - Pennsylvania",,,,,,,,19,21,20,,,,
+"Radford University - Virginia",,,,,,,18,18,19,17,19,19,20,19
+"Rabbinical Seminary of America - New York",,,,,,,,,,,,,,
+"Rabbinical College Telshe - Ohio",,,,,,,,,,,,,,
+"Rabbinical College of Long Island - New York",,,,,,,,,,,,,,
+"Rabbinical College of America - New Jersey",,,,,,,,,,,,,,
+"Ridley-Lowell Business & Technical Institute-New London - Connecticut",,,,,,,,,,,,,,
+"Rust College - Mississippi",,,,,13,14,14,13,13,14,14,14,14,14
+"Pennsylvania Academy of the Fine Arts - Pennsylvania",,,,,,,,,,,,,,
+"Paul Smiths College of Arts and Science - New York",,,,,,,,20,18,18,17,,,
+"Nichols College - Massachusetts",,,,,,,,19,18,,17,16,16,
+"Newschool of Architecture and Design - California",,,,,,,,,,,,,,
+"Newbury College - Massachusetts",,,,,,,,,,,,,,
+"New York Conservatory for Dramatic Arts - New York",,,,,,,,,,,,,,
+"New Jersey City University - New Jersey",,,,,,,,,15,19,,,,
+"New Hope Christian College-Eugene - Oregon",,,,,,,,,,,,,,
+"New Hampshire Institute of Art - New Hampshire",,,,,,,,,,,,,,
+"New England School of Photography - Massachusetts",,,,,,,,,,,,,,
+"New England College - New Hampshire",,,,,,,,,,,,,15,
+"New Castle School of Trades - Pennsylvania",,,,,,,,,,,,,,
+"Nevada State College - Nevada",,,,,,,,,,,16,,,
+"Nevada Regional Technical Center - Missouri",,,,,,,,,,,,,,
+"Neumont College of Computer Science - Utah",,,,,,,,21,,,,,,
+"Ner Israel Rabbinical College - Maryland",,,,,,,,,,,,,,
+"Neighborhood Playhouse School of the Theater - New York",,,,,,,,,,,,,,
+"Covenant School of Nursing and Allied Health - Texas",,,,,,,,,,,,,,
+"Nazareth College - New York",,,,,,,,,,,,,,22
+"North-West College-West Covina - California",,,,,,,,,,,,,,
+"Northern Arizona University - Arizona",,,,,,,,20,20,20,20,21,20,20
+"Northern Tier Career Center - Pennsylvania",,,,,,,,,,,,,,
+"Northern Vermont University - Vermont",,,,20,15,14,19,15,17,17,17,16,16,
+"Paroba College of Cosmetology - Washington",,,,,,,,,,,,,,
+"Park University - Missouri",,,,,,,,,17,19,20,19,18,19
+"Pacific Rim Christian University - Hawaii",,,,,,,,,,,,,,
+"Pacific Northwest College of Art - Oregon",,,,,,,,,,,,,,
+"Orleans Technical College - Pennsylvania",,,,,,,,,,,,,,
+"Orleans Niagara BOCES-Practical Nursing Program - New York",,,,,,,,,,,,,,
+"Oregon College of Art and Craft - Oregon",,,,,,,,,,,,,,
+"Orange Ulster BOCES-Practical Nursing Program - New York",,,,,,,,,,,,,,
+"Penn Commercial Business/Technical School - Pennsylvania",,,,,,,,,,,,,,
+"Ohr Hameir Theological Seminary - New York",,,,,,,,,,,,,,
+"Ohio Media School-Valley View - Ohio",,,,,,,,,,,,,,
+"Ohio Media School-Columbus - Ohio",,,,,,,,,,,,,,
+"Ohio Media School-Cincinnati - Ohio",,,,,,,,,,,,,,
+"O'More College of Design - Tennessee",,,,18,18,,20,20,18,19,20,19,21,22
+"Nossi College of Art - Tennessee",,,,,,,,,,,,,,
+"Norwich University - Vermont",,,,,,,20,21,21,20,20,19,19,18
+"Northwestern College-Chicago Campus - Illinois",,,,,,,,,,,,,,
+"Northwestern College - Illinois",,,,,,,,,,,,,,
+"Ohio Wesleyan University - Ohio",,,,,,,,22,23,22,23,24,24,24
+"SABER College - Florida",,,,,,,,,,,,,,
+"Sacred Heart Major Seminary - Michigan",,,,,,,,,21,,,,,
+"Sacred Heart University - Connecticut",,,,,,,,,,,,,,
+"Talmudical Seminary of Bobov - New York",,,,,,,,,,,,,,
+"Talmudical Institute of Upstate New York - New York",,,,,,,,,,,,,,
+"Talmudical Academy-New Jersey - New Jersey",,,,,,,,,,,,,,
+"Sutter County Career Training Center - California",,,,,,,,,,,,,,
+"Susquehanna University - Pennsylvania",,,,,,,,23,23,23,23,21,22,
+"SUNY College at Potsdam - New York",,,,,,,,,,,20,20,20,
+"SUNY College at Old Westbury - New York",,,,19,19,,20,19,20,19,20,19,18,
+"Sumner College - Oregon",,,,,,,,,,,,,,
+"Sullivan College of Technology and Design - Kentucky",,,,,,,,,,,,,,
+"Studio Incamminati - Pennsylvania",,,,,,,,,,,,,,
+"Stratford School of Aviation Maintenance Technicians - Connecticut",,,,,,,,,,,,,,
+"Stonehill College - Massachusetts",,,,,,,,22,24,25,,,24,23
+"Stillman College - Alabama",,,,,14,14,15,17,16,16,16,16,16,14
+"Stetson University - Florida",,,,,,,,23,25,22,21,21,21,21
+"Sterling College - Vermont",,,,,,,,,,,,,,
+"Standard Healthcare Services-College of Nursing - Virginia",,,,,,,,,,,,,,
+"Stanbridge University - California",,,,,,,,,,,,,,
+"Talmudical Seminary Oholei Torah - New York",,,,,,,,,,,,,,
+"Talmudical Yeshiva of Philadelphia - Pennsylvania",,,,,,,,,,,,,,
+"Taylor Business Institute - Illinois",,,,,,,,,,,,,,
+"TDDS Technical Institute - Ohio",,,,,,,,,,,,,,
+"Theatre of Arts - California",,,,,,,,,,,,,,
+"The University of the Arts - Pennsylvania",,,,,19,19,18,18,19,19,18,20,18,20
+"The North Coast College - Ohio",,,,,,,,,,,,,,
+"The New England Conservatory of Music - Massachusetts",,,,,,,,,,,,,,
+"The Modern College of Design - Ohio",,,,,,,,,,,,,,
+"The Juilliard School - New York",,,,,,,,,,,,,,
+"The Creative Center - Nebraska",,,,,,,,,,,,,,
+"The College of Westchester - New York",,,,,,,,,,,,,,
+"St. Peter's Hospital College of Nursing - New York",,,,,,,,,,,,,,
+"The College of Saint Rose - New York",,,,,,,,,,,,20,20,22
+"The Chicago School of Professional Psychology at Los Angeles - California",,,,,,,,,,,,,,
+"The Catholic University of America - Washington DC",,,,,,,22,22,22,22,21,21,22,21
+"The Art Institute of Cincinnati-AIC College of Design - Ohio",,,,,,,,,,,,,,
+"The Ailey School - New York",,,,,,,,,,,,,,
+"Thaddeus Stevens College of Technology - Pennsylvania",,,,,,,,,,,,,,
+"Texas County Technical College - Missouri",,,,,,,,,,,,,,
+"Temple University - Pennsylvania",,,,,,,22,22,21,21,21,21,20,20
+"Telshe Yeshiva-Chicago - Illinois",,,,,,,,,,,,,,
+"The Colburn Conservatory of Music - California",,,,,,,,,,,,,,
+"St. Joseph's College of Nursing - New York",,,,,,,,21,22,22,19,19,17,
+"St. John Vianney College Seminary - Florida",,,,,,,,,,,,,,
+"St Vincent's College - Connecticut",,,,,,,,,,,,,,
+"Shasta Bible College and Graduate School - California",,,,,,,,,,,,,,
+"Sh'or Yoshuv Rabbinical College - New York",,,,,,,,,,,,,,
+"Seton Hill University - Pennsylvania",,,,,,,,19,20,19,,,,
+"Seminar L'moros Bais Yaakov - New York",,,,,,,,,,,,,,
+"School of Professional Horticulture - New York Botanical Garden - New York",,,,,,,,,,,,,,
+"School of Automotive Machinists & Technology - Texas",,,,,,,,,,,,,,
+"San Juan Bautista School of Medicine - Puerto Rico",,,,,,,,,,,,,,
+"San Francisco Conservatory of Music - California",,,,,,,,,,,,,,
+"Shaw University - North Carolina",,,,,,,,,,,,11,13,12
+"San Francisco Art Institute - California",,,,,,,,22,20,20,21,20,20,16
+"Samaritan Hospital School of Nursing - New York",,,,,,,,,,,,,,
+"Salve Regina University - Rhode Island",,,,,,,,23,22,22,22,22,22,21
+"Salisbury University - Maryland",,,,,,,,22,22,22,21,22,20,20
+"Saline County Career Center - Missouri",,,,,,,,,,,,,,
+"Saint Michael's College - Vermont",,,,,,,,23,23,23,22,22,22,21
+"Saint Elizabeth College of Nursing - New York",,,,,,,,,,,,,,
+"Saint Charles Borromeo Seminary-Overbrook - Pennsylvania",,,,,,,,,,,,,,
+"Saint Anthony College of Nursing - Illinois",,,,,,,,,,,,,,
+"San Diego Culinary Institute - California",,,,,,,,,,,,,,
+"Tiffin University - Ohio",,,,,,,,18,18,18,18,17,18,18
+"Shawnee State University - Ohio",,,,18,18,,,,,,,,,
+"Shiloh University - California",,,,,,,,,,,,,,
+"St Luke's College - Iowa",,,,,,,,19,21,18,21,,,16
+"St Louis College of Health Careers-Fenton - Missouri",,,,,,,,,,,,,,
+"St Joseph School of Nursing - New Hampshire",,,,,,,,,,,,,,
+"Southwest Tennessee Community College - Tennessee",,,,,,,,13,14,14,14,14,,14
+"Southside College of Health Sciences - Virginia",,,,,,,,,,,,,,
+"Southern Westchester BOCES-Practical Nursing Program - New York",,,,,,,,,,,,,,
+"Southern Vermont College - Vermont",,,,,14,17,15,16,17,16,15,19,14,14
+"Southern States University - California",,,,,,,,,,,,,,
+"Shepherds College - Wisconsin",,,,,,,,,,,,,,
+"Southern New Hampshire University - New Hampshire",,,,,,,,,,,18,18,,
+"Southeastern Technical Institute - Massachusetts",,,,,,,,,,,,,,
+"Southeastern Baptist Theological Seminary - North Carolina",,,,,,,,16,,,,,,
+"South Hills School of Business & Technology - Pennsylvania",,,,,,,,,,,,,,
+"Smith College - Massachusetts",,,,,,,,,,,,25,25,25
+"Signature Healthcare Brockton Hospital School of Nursing - Massachusetts",,,,,,,,,,,,,,
+"Siena Heights University - Michigan",,,,,,18,19,19,18,18,17,18,17,18
+"Siena College - New York",,,,,,,23,22,23,22,22,23,20,23
+"Shorter University-College of Adult & Professional Programs - Georgia",,,,,,,,,,,,,,
+"Southern California Institute of Technology - California",,,,,,,,,,,,,,
+"Crossroads College - Minnesota",,,,,,,,,,14,17,17,17,17
+"North-West College-Glendale - California",,,,,,,,,,,,,,
+"CVPH Medical Center School of Radiologic Technology - New York",,,,,,,,,,,,,,
+"Northwest Nannies Institute - Oregon",,,,,,,,,,,,,,
+"North-West College-Van Nuys - California",,,,,,,,,,,,,,
+"North-West College-Riverside - California",,,,,,,,,,,,,,
+"North-West College-Pomona - California",,,,,,,,,,,,,,
+"North-West College-Long Beach - California",,,,,,,,,,,,,,
+"North-West College-Anaheim - California",,,,,,,,,,,,,,
+"Nevada Career Institute - Nevada",,,,,,,,,,,,,,
+"Missouri Tech - Missouri",,,,,,,,,,,,,,
+"Milligan College - Tennessee",,,,,,,22,22,21,21,21,20,20,22
+"Mercy School of Nursing - North Carolina",,,,,,,,,,,,,,
+"Medical Career Institute - New Jersey",,,,,,,,,,,,,,
+"Med-Assist School of Hawaii Inc - Hawaii",,,,,,,,,,,,,,
+"L'Academie de Cuisine - Maryland",,,,,,,,,,,,,,
+"Kennesaw State University - Georgia",,,,,,,21,21,20,20,20,20,20,20
+"Keiser University-Ft Lauderdale - Florida",,,,,,,,,,,,,,
+"J Everett Light Career Center - Indiana",,,,,,,,,,,,,,
+"ITT Technical Institute-Overland Park - Kansas",,,,,,,,,,,,,,
+"Northwood University-Florida - Florida",,,,,,,17,17,18,18,17,17,18,18
+"Ohio Christian University - Ohio",,,,,,,17,17,17,17,17,16,17,17
+"Pacific College of Health Science-Chicago - Illinois",,,,,,,,,,,,,,
+"Professional Massage Training Center - Missouri",,,,,,,,,,,,,,
+"Tennessee Temple University - Tennessee",,,,,,,18,16,16,16,17,15,17,17
+"SUNY Empire State College - New York",,,,,,,,,,,,,,
+"Summit Salon Academy-Gainesville - Florida",,,,,,,,,,,,,,
+"Spartan College of Aeronautics and Technology - Oklahoma",,,,,,,,,,,,,,
+"Southern Polytechnic State University - Georgia",,,,,,,22,22,21,21,21,20,20,19
+"Southeastern College-West Palm Beach - Florida",,,,,,,,,,,,,,
+"Southeastern College-Jacksonville - Florida",,,,,,,,,,,,,,
+"Southeastern College-Columbia - South Carolina",,,,,,,,,,,,,,
+"ITT Technical Institute-Green Bay - Wisconsin",,,,,,,,,,,,,,
+"Southeastern College-Charlotte - North Carolina",,,,,,,,,,,,,,
+"Skyline College-Roanoke - Virginia",,,,,,,,,,,,,,
+"Sessions College for Professional Design - Arizona",,,,,,,,,,,,,,
+"Saint John's Seminary - Massachusetts",,,,,,,,,,,,,,
+"Saint Francis Medical Center School of Nursing - New Jersey",,,,,,,,,,,,,,
+"Rockland County BOCES-Practical Nursing Program - New York",,,,,,,,,,,,,,
+"Rensselaer BOCES-Practical Nursing Program - New York",,,,,,,,,,,,,,
+"Remington College-Tampa Campus - Florida",,,,,,,,,,,,,,
+"Rabbinical Seminary Mkor Chaim - New Jersey",,,,,,,,,,,,,,
+"Southeastern College-Charleston - South Carolina",,,,,,,,,,,,,,
+"Touro University Worldwide - California",,,,,,,,,,,,,,
+"ITT Technical Institute-Culver City - California",,,,,,,,,,,,,,
+"Interface College-Spokane - Washington",,,,,,,,,,,,,,
+"Bon Secours Memorial College of Nursing - Virginia",,,,,,,,,,,,,,
+"Bethesda University - California",,,,,,,,,,,,,,
+"Aveda Arts & Sciences Institute Seattle - Washington",,,,,,,,,,,,,,
+"Ascent College - Virginia",,,,,,,,,,,,,,
+"Alexandria School of Scientific Therapeutics - Indiana",,,,,,,,,,,,,,
+"Alexander Paul Institute of Hair Design - North Carolina",,,,,,,,,,,,,,
+"Washington Hospital School of Radiologic Technology - Pennsylvania",,,,,,,,,,,,,18,18
+"Vaughn College of Aeronautics and Technology - New York",,,,,,,,,,17,,,,
+"University of Arkansas-Fort Smith - Arkansas",,,,,,,,19,19,19,19,19,19,19
+"Trinity Lutheran College - Washington",,,,,,,,,14,,,20,14,14
+"Thomas College - Maine",,,,,,,,16,16,16,,15,18,15
+"The Boston Conservatory - Massachusetts",,,,,,,,,21,,,,,
+"South College-Asheville - North Carolina",,,,,,,,,,,,,,
+"Shawsheen Valley School of Practical Nursing - Massachusetts",,,,,,,,,,,,,,
+"Saint Catharine College - Kentucky",,,,,,18,,,,,,,,
+"Rogers State University - Oklahoma",,,,,,16,16,17,17,18,17,,,
+"Remington College-Shreveport Campus - Louisiana",,,,,,,,,,,,,,
+"Brand College - California",,,,,,,,,,,,,,
+"Brensten Education - Wisconsin",,,,,,,,,,,,,,
+"Briar Cliff University - Iowa",,,,,,,19,,,,,,,
+"Burlington College - Vermont",,,,,,,,,,,,,,
+"Husson University - Maine",,,,,,,17,17,19,17,16,17,,
+"Houston International College Cardiotech Ultrasound School - Texas",,,,,,,,,,,,,,
+"Harcum College - Pennsylvania",,,,,,,,,,,,,,
+"Gods Bible School and College - Ohio",,,,,,,,,,,,,,
+"Glendale Career College - California",,,,,,,,,,,,,,
+"FINE Mortuary College - Massachusetts",,,,,,,,,,,,,,
+"Dowling College - New York",,,,,,,,,,,,,,
+"DeVry University-Utah - Utah",,,,,,,,,,,,,,
+"ITT Technical Institute-Cary - North Carolina",,,,,,,,,,,,,,
+"DeVry University-Maryland - Maryland",,,,,,,,,,,,,,
+"D'Mart Institute - Puerto Rico",,,,,,,,,,,,,,
+"Colorado Christian University - Colorado",,,,,,,,,,,,,19,20
+"Cleveland State Community College - Tennessee",,,,,,,17,17,16,16,16,17,16,16
+"Clearwater Christian College - Florida",,,,,,,18,19,19,19,19,19,19,19
+"Casal Aveda Institute - Ohio",,,,,,,,,,,,,,
+"Cambridge Technical Institute - Puerto Rico",,,,,,,,,,,,,,
+"Calumet College of Saint Joseph - Indiana",,,,,,,,15,16,14,,,,
+"Butler Technology and Career Development Schools - Ohio",,,,,,,,,,,,,,
+"Dance Theatre of Harlem Inc - New York",,,,,,,,,,,,,,
+"Remington College-North Houston Campus - Texas",,,,,,,,,,,,,,
+"Trine University-Regional/Non-Traditional Campuses - Indiana",,,,,,,,,,,,,,
+"W F Kaynor Technical High School - Connecticut",,,,,,,,,,,,,,
+"Minnesota School of Business-Richfield - Minnesota",,,,,,,,,,,,21,,
+"Mercy-St Luke's School of Radiologic Technology - Iowa",,,,,,,,,,,,19,18,
+"Firelands Regional Medical Center School of Nursing - Ohio",,,,,,,,,,,,21,20,20
+"Faxton-St Luke's Healthcare School of Radiologic Technology - New York",,,,,,,,,,,,19,,17
+"Columbia State Community College - Tennessee",,,,,,,,,,,,16,17,17
+"Avera McKennan Hospital School of Radiologic Technology - South Dakota",,,,,,,,,,,,10,12,12
+"Western Oklahoma State College - Oklahoma",,,,,,,,,,,16,16,16,16
+"Wesley College - Mississippi",,,,,,,,,,,14,,,
+"Victory University - Tennessee",,,,,,,,,,,15,16,16,
+"Utah State University-Regional Campuses and Distance Education - Utah",,,,,,,,,,,18,18,17,18
+"Tennessee State University - Tennessee",,,,,,,,,,,16,16,16,16
+"Springfield Regional School of Nursing - Ohio",,,,,,,,,,,18,18,20,19
+"Southern Catholic College - Georgia",,,,,,,,,,,16,15,,
+"South Georgia College - Georgia",,,,,,,,,,,16,16,,
+"Sanford Medical Center - South Dakota",,,,,,,,,,,22,22,22,22
+"Sage College of Albany - New York",,,,,,,,,,,20,19,19,18
+"Rocky Mountain College of Art and Design - Colorado",,,,,,,,,,,19,18,17,
+"Minnesota School of Business-Waite Park - Minnesota",,,,,,,,,,,,21,,
+"Southwest University of Visual Arts-Albuquerque - New Mexico",,,,,,,,,,,,16,17,17
+"Southwest University of Visual Arts-Tucson - Arizona",,,,,,,,,,,,16,16,18
+"Springfield College in Illinois - Illinois",,,,,,,,,,,,17,16,17
+"National Louis University - Illinois",,,,,,,,,,15,,19,16,
+"Saint Joseph Seminary College - Louisiana",,,,,,,,,,,,,,4
+"Northpoint Bible College - Massachusetts",,,,,,,,,,,,,,14
+"Nichols Career Center - Missouri",,,,,,,,,,,,,,20
+"Minnesota School of Business-Plymouth - Minnesota",,,,,,,,,,,,,,21
+"Hobe Sound Bible College - Florida",,,,,,,,,,,,,,14
+"Heritage Valley Sewickley School of Nursing - Pennsylvania",,,,,,,,,,,,,,16
+"Darton State College - Georgia",,,,,,,,,,,,,,15
+"Nashville State Community College - Tennessee",,,,,,,,,,,15,15,15,15
+"CHI Health School of Radiologic Technology - Nebraska",,,,,,,,,,,,,,19
+"Brandywine School of Nursing - Pennsylvania",,,,,,,,,,,,,,20
+"Barnes-Jewish College Goldfarb School of Nursing - Missouri",,,,,,,,,,,,,,23
+"American Indian College Inc - Arizona",,,,,,,,,,,,,,16
+"Westwood College-Ft Worth - Texas",,,,,,,,,,,,,20,17
+"The Illinois Institute of Art-Chicago - Illinois",,,,,,,,,,,,,16,10
+"The Art Institute of Washington - Virginia",,,,,,,,,,,,,17,14
+"Blessing Rieman College of Nursing and Health Sciences - Illinois",,,,,,,,,,,,,22,21
+"Washington Health System School of Nursing - Pennsylvania",,,,,,,,,,,,18,19,19
+"Chattanooga State Community College - Tennessee",,,,,,,,,,,,,,15
+"Unification Theological Seminary - New York",,,,,,,,,,,,,,
+"Lambuth University - Tennessee",,,,,,,,,,,18,20,20,20
+"Institute of Production and Recording - Minnesota",,,,,,,,,,,22,21,,
+"Lyme Academy College of Fine Arts - Connecticut",,,,,,,,,16,23,,4,15,
+"Gainesville State College - Georgia",,,,,,,,,17,17,,,,
+"Central Bible College - Missouri",,,,,,,,,19,,18,18,18,18
+"Cairn University-Wisconsin Wilderness - Wisconsin",,,,,,,,,22,20,22,21,23,21
+"Augusta State University - Georgia",,,,,,,,,18,18,17,17,17,16
+"Ashford University - California",,,,,,,,,19,18,18,,,15
+"Virginia Intermont College - Virginia",,,,,,,,18,18,18,11,18,18,18
+"University of Maine at Machias - Maine",,,,,,,,18,15,17,17,16,15,18
+"San Diego State University-Imperial Valley Campus - California",,,,,,,,16,16,17,14,16,19,17
+"Polytechnic Institute of New York University - New York",,,,,,,,28,27,26,,,,
+"Pearl River Community College - Mississippi",,,,,,,,20,20,20,,,17,17
+"Motlow State Community College - Tennessee",,,,,,,,17,17,17,16,17,16,16
+"Mid-Continent University - Kentucky",,,,,,,,15,17,17,17,17,14,16
+"Lexington College - Illinois",,,,,,,,15,20,17,16,18,19,17
+"Yeshiva Toras Chaim Talmudical Seminary - Colorado",,,,,,,,,,,,,,
+"World Mission University - California",,,,,,,,,,,,,,
+"Wilkes-Barre Area Career and Technical Center Practical Nursing - Pennsylvania",,,,,,,,,,,,,,
+"Macon State College - Georgia",,,,,,,,,16,17,,,,16
+"Pellissippi State Community College - Tennessee",,,,,,,,,18,17,20,20,17,17
+"Texas A & M University-Galveston - Texas",,,,,,,,,22,21,21,20,20,21
+"University of North Georgia - Georgia",,,,,,,,,21,21,21,20,20,20
+"Fortis Institute-Wayne - New Jersey",,,,,,,,,,,17,,,
+"Dana College - Nebraska",,,,,,,,,,,20,19,20,20
+"Columbia College - Missouri",,,,,,,,,,,20,19,20,20
+"College of Visual Arts - Minnesota",,,,,,,,,,,20,,18,19
+"Bethany University - California",,,,,,,,,,,16,17,18,15
+"Ashland University Dwight Schar College of Nursing - Ohio",,,,,,,,,,,19,19,19,5
+"Volunteer State Community College - Tennessee",,,,,,,,,,16,17,16,16,16
+"Saint Pauls College - Virginia",,,,,,,,,,12,13,13,13,13
+"Jackson State Community College - Tennessee",,,,,,,,,,,16,16,16,16
+"Research College of Nursing - Missouri",,,,,,,,,,21,22,21,22,21
+"Northeast State Community College - Tennessee",,,,,,,,,,16,18,17,16,16
+"Montana State University Billings - Montana",,,,,,,,,,19,18,18,19,19
+"Jefferson Regional Medical Center School of Nursing - Arkansas",,,,,,,,,,18,6,14,3,7
+"Dyersburg State Community College - Tennessee",,,,,,,,,,17,15,17,15,16
+"Corcoran College of Art and Design - Washington DC",,,,,,,,,,20,20,19,16,14
+"Bainbridge State College - Georgia",,,,,,,,,,16,,,,
+"Washington Bible College-Capital Bible Seminary - Maryland",,,,,,,,,15,,,16,,
+"Washburn University - Kansas",,,,,,,,,19,19,19,19,19,19
+"Philander Smith College - Arkansas",,,,,,,,,,16,16,14,14,14
+"Remington College-Nashville Campus - Tennessee",,,,,,,,,,,,,,
+"Remington College-Mobile Campus - Alabama",,,,,,,,,,,,,,
+"Remington College-Memphis Campus - Tennessee",,,,,,,,,,,,,,
+"ITT Technical Institute-Houston North - Texas",,,,,,,,,,,,,,
+"ITT Technical Institute-Hilliard - Ohio",,,,,,,,,,,,,,
+"ITT Technical Institute-High Point - North Carolina",,,,,,,,,,,,,,
+"ITT Technical Institute-Hialeah - Florida",,,,,,,,,,,,,,
+"ITT Technical Institute-Henderson - Nevada",,,,,,,,,,,,,,
+"ITT Technical Institute-Harrisburg - Pennsylvania",,,,,,,,,,,,,,
+"ITT Technical Institute-Hanover - Maryland",,,,,,,,,,,,,,
+"ITT Technical Institute-Greenville - South Carolina",,,,,,,,,,,,,,
+"ITT Technical Institute-Greenfield - Wisconsin",,,,,,,,,,,,,,
+"ITT Technical Institute-Getzville - New York",,,,,,,,,,,,,,
+"ITT Technical Institute-Fort Wayne - Indiana",,,,,,,,,,,,,,
+"ITT Technical Institute-Fort Myers - Florida",,,,,,,,,,,,,,
+"ITT Technical Institute-Fort Lauderdale - Florida",,,,,,,,,,,,,,
+"ITT Technical Institute-Everett - Washington",,,,,,,,,,,,,,
+"ITT Technical Institute-Eden Prairie - Minnesota",,,,,,,,,,,,,,
+"ITT Technical Institute-Earth City - Missouri",,,,,,,,,,,,,,
+"ITT Technical Institute-Durham - North Carolina",,,,,,,,,,,,,,
+"ITT Technical Institute-Houston West - Texas",,,,,,,,,,,,,,
+"ITT Technical Institute-Indianapolis - Indiana",,,,,,,,,,,,,,
+"ITT Technical Institute-Indianapolis East - Indiana",,,,,,,,,,,,,,
+"ITT Technical Institute-Jacksonville - Florida",,,,,,,,,,,,,,
+"ITT Technical Institute-Merrillville - Indiana",,,,,,,,,,,,,,
+"ITT Technical Institute-Maumee - Ohio",,,,,,,,,,,,,,
+"ITT Technical Institute-Marlton - New Jersey",,,,,,,,,,,,,,
+"ITT Technical Institute-Madison - Wisconsin",,,,,,,,,,,,,,
+"ITT Technical Institute-Madison - Mississippi",,,,,,,,,,,,,,
+"ITT Technical Institute-Madison - Alabama",,,,,,,,,,,,,,
+"ITT Technical Institute-Louisville - Kentucky",,,,,,,,,,,,,,
+"ITT Technical Institute-Liverpool - New York",,,,,,,,,,,,,,
+"ITT Technical Institute-Dunmore - Pennsylvania",,,,,,,,,,,,,,
+"ITT Technical Institute-Little Rock - Arkansas",,,,,,,,,,,,,,
+"ITT Technical Institute-Levittown - Pennsylvania",,,,,,,,,,,,,,
+"ITT Technical Institute-Lathrop - California",,,,,,,,,,,,,,
+"ITT Technical Institute-Las Vegas - Nevada",,,,,,,,,,,,,,
+"ITT Technical Institute-Lake Mary - Florida",,,,,,,,,,,,,,
+"ITT Technical Institute-Knoxville - Tennessee",,,,,,,,,,,,,,
+"ITT Technical Institute-Kennesaw - Georgia",,,,,,,,,,,,,,
+"ITT Technical Institute-Kansas City - Missouri",,,,,,,,,,,,,,
+"ITT Technical Institute-Johnson City - Tennessee",,,,,,,,,,,,,,
+"ITT Technical Institute-Lexington - Kentucky",,,,,,,,,,,,,,
+"ITT Technical Institute-Mobile - Alabama",,,,,,,,,,,,,,
+"ITT Technical Institute-Duluth - Georgia",,,,,,,,,,,,,,
+"ITT Technical Institute-DeSoto - Texas",,,,,,,,,,,,,,
+"ITT Technical Institute-Arlington Heights - Illinois",,,,,,,,,,,,,,
+"ITT Technical Institute-Arlington - Texas",,,,,,,,,,,,,,
+"ITT Technical Institute-Albuquerque - New Mexico",,,,,,,,,,,,,,
+"ITT Technical Institute-Albany - New York",,,,,,,,,,,,,,
+"ITT Technical Institute-Akron - Ohio",,,,,,,,,,,,,,
+"InterCoast Colleges-Santa Ana - California",,,,,,,,,,,,,,
+"Helene Fuld College of Nursing - New York",,,,,,,,,,,,,,
+"Hawkeye Community College - Iowa",,,,,,,,,,,,,,
+"Eastern Virginia Career College - Virginia",,,,,,,,,,,,,,
+"duCret School of Arts - New Jersey",,,,,,,,,,,,,,
+"DeVry University-Wisconsin - Wisconsin",,,,,,,,,,,,,,
+"DeVry University-Washington - Washington",,,,,,,,,,,,,,
+"DeVry University-Oregon - Oregon",,,,,,,,,,,,,,
+"DeVry University-Minnesota - Minnesota",,,,,,,,,,,,,,
+"DeVry University-Michigan - Michigan",,,,,,,,,,,,,,
+"Dell'Arte International School of Physical Theatre - California",,,,,,,,,,,,,,
+"Daniel Webster College - New Hampshire",,,,,,,,16,17,15,18,18,19,19
+"ITT Technical Institute-Arnold - Missouri",,,,,,,,,,,,,,
+"ITT Technical Institute-Atlanta - Georgia",,,,,,,,,,,,,,
+"ITT Technical Institute-Aurora - Colorado",,,,,,,,,,,,,,
+"ITT Technical Institute-Austin - Texas",,,,,,,,,,,,,,
+"ITT Technical Institute-Dearborn - Michigan",,,,,,,,,,,,,,
+"ITT Technical Institute-Dayton - Ohio",,,,,,,,,,,,,,
+"ITT Technical Institute-Corona - California",,,,,,,,,,,,,,
+"ITT Technical Institute-Cordova - Tennessee",,,,,,,,,,,,,,
+"ITT Technical Institute-Concord - California",,,,,,,,,,,,,,
+"ITT Technical Institute-Columbus - Ohio",,,,,,,,,,,,,,
+"ITT Technical Institute-Columbia - South Carolina",,,,,,,,,,,,,,
+"ITT Technical Institute-Clovis - California",,,,,,,,,,,,,,
+"ITT Technical Institute-Douglasville - Georgia",,,,,,,,,,,,,,
+"ITT Technical Institute-Clive - Iowa",,,,,,,,,,,,,,
+"ITT Technical Institute-Charlotte South - North Carolina",,,,,,,,,,,,,,
+"ITT Technical Institute-Charlotte North - North Carolina",,,,,,,,,,,,,,
+"ITT Technical Institute-Chantilly - Virginia",,,,,,,,,,,,,,
+"ITT Technical Institute-Canton - Michigan",,,,,,,,,,,,,,
+"ITT Technical Institute-Brooklyn Center - Minnesota",,,,,,,,,,,,,,
+"ITT Technical Institute-Boise - Idaho",,,,,,,,,,,,,,
+"ITT Technical Institute-Bessemer - Alabama",,,,,,,,,,,,,,
+"ITT Technical Institute-Baton Rouge - Louisiana",,,,,,,,,,,,,,
+"ITT Technical Institute-Chattanooga - Tennessee",,,,,,,,,,,,,,
+"ITT Technical Institute-Murray - Utah",,,,,,,,,,,,,,
+"ITT Technical Institute-Myrtle Beach - South Carolina",,,,,,,,,,,,,,
+"ITT Technical Institute-Nashville - Tennessee",,,,,,,,,,,,,,
+"Modern Technology School - California",,,,,,,,,,,,,,
+"Michigan Jewish Institute - Michigan",,,,,,,,,,,,,,
+"Miami Ad School-Atlanta - Georgia",,,,,,,,,,,,,,
+"Keser Torah-Mayan Hatalmud - New Jersey",,,,,,,,,,,,,,
+"ITT Technical Institute-Youngstown - Ohio",,,,,,,,,,,,,,
+"ITT Technical Institute-Wyoming - Michigan",,,,,,,,,,,,,,
+"ITT Technical Institute-Wilmington - Massachusetts",,,,,,,,,,,,,,
+"ITT Technical Institute-Wichita - Kansas",,,,,,,,,,,,,,
+"ITT Technical Institute-Westminster - Colorado",,,,,,,,,,,,,,
+"ITT Technical Institute-West Palm Beach - Florida",,,,,,,,,,,,,,
+"ITT Technical Institute-Webster - Texas",,,,,,,,,,,,,,
+"ITT Technical Institute-Warrensville Heights - Ohio",,,,,,,,,,,,,,
+"ITT Technical Institute-Waco - Texas",,,,,,,,,,,,,,
+"ITT Technical Institute-Tulsa - Oklahoma",,,,,,,,,,,,,,
+"ITT Technical Institute-Tucson - Arizona",,,,,,,,,,,,,,
+"ITT Technical Institute-Troy - Michigan",,,,,,,,,,,,,,
+"ITT Technical Institute-Torrance - California",,,,,,,,,,,,,,
+"New York College of Health Professions - New York",,,,,,,,,,,,,,
+"Northwest College of Art & Design - Washington",,,,,,,,,,,,,,
+"Northwood University-Texas - Texas",,,,,,,,17,17,16,17,18,18,19
+"Oklahoma Panhandle State University - Oklahoma",,,,,,16,17,16,16,16,17,16,16,16
+"Remington College-Little Rock Campus - Arkansas",,,,,,,,,,,,,,
+"Remington College-Lafayette Campus - Louisiana",,,,,,,,,,,,,,
+"Remington College-Houston Southeast Campus - Texas",,,,,,,,,,,,,,
+"Remington College-Houston Campus - Texas",,,,,,,,,,,,,,
+"Remington College-Honolulu Campus - Hawaii",,,,,,,,,,,,,,
+"Remington College-Heathrow Campus - Florida",,,,,,,,,,,,,,
+"Remington College-Fort Worth Campus - Texas",,,,,,,,,,,,,,
+"Remington College-Dallas Campus - Texas",,,,,,,,,,,,,,
+"ITT Technical Institute-Tempe - Arizona",,,,,,,,,,,,,,
+"Remington College-Columbia Campus - South Carolina",,,,,,,,,,,,,,
+"Remington College-Baton Rouge Campus - Louisiana",,,,,,,,,,,,,,
+"Raritan Valley Community College - New Jersey",,,,,,,,,,,,,,
+"Rabbinical College of Ohr Shimon Yisroel - New York",,,,,,,,,,,,,,
+"Rabbinical College of Ch'san Sofer New York - New York",,,,,,,,,,,,,,
+"Pittsburgh Technical College - Pennsylvania",,,,,,,,,,,,,,
+"Pittsburgh Career Institute - Pennsylvania",,,,,,,,,,,,,,
+"Piedmont International University - North Carolina",,,,,,15,14,15,16,,,,,
+"Palmer College of Chiropractic - Iowa",,,,,,,,,,,,,,
+"Remington College-Cleveland Campus - Ohio",,,,,,,,,,,,,,
+"ITT Technical Institute-Tarentum - Pennsylvania",,,,,,,,,,,,,,
+"ITT Technical Institute-Tampa - Florida",,,,,,,,,,,,,,
+"ITT Technical Institute-Tallahassee - Florida",,,,,,,,,,,,,,
+"ITT Technical Institute-Phoenix West - Arizona",,,,,,,,,,,,,,
+"ITT Technical Institute-Phoenix - Arizona",,,,,,,,,,,,,,
+"ITT Technical Institute-Philadelphia - Pennsylvania",,,,,,,,,,,,,,
+"ITT Technical Institute-Pensacola - Florida",,,,,,,,,,,,,,
+"ITT Technical Institute-Oxnard - California",,,,,,,,,,,,,,
+"ITT Technical Institute-Owings Mills - Maryland",,,,,,,,,,,,,,
+"ITT Technical Institute-Orland Park - Illinois",,,,,,,,,,,,,,
+"ITT Technical Institute-Orange - California",,,,,,,,,,,,,,
+"ITT Technical Institute-Pittsburgh - Pennsylvania",,,,,,,,,,,,,,
+"ITT Technical Institute-Omaha - Nebraska",,,,,,,,,,,,,,
+"ITT Technical Institute-Oakland - California",,,,,,,,,,,,,,
+"ITT Technical Institute-Oak Brook - Illinois",,,,,,,,,,,,,,
+"ITT Technical Institute-Norwood - Ohio",,,,,,,,,,,,,,
+"ITT Technical Institute-Norwood - Massachusetts",,,,,,,,,,,,,,
+"ITT Technical Institute-North Charleston - South Carolina",,,,,,,,,,,,,,
+"ITT Technical Institute-Norfolk - Virginia",,,,,,,,,,,,,,
+"ITT Technical Institute-Newburgh - Indiana",,,,,,,,,,,,,,
+"ITT Technical Institute-National City - California",,,,,,,,,,,,,,
+"ITT Technical Institute-Oklahoma City - Oklahoma",,,,,,,,,,,,,,
+"Cuyahoga Valley Career Center - Ohio",,,,,,,,,,,,,,
+"ITT Technical Institute-Plymouth Meeting - Pennsylvania",,,,,,,,,,,,,,
+"ITT Technical Institute-Rancho Cordova - California",,,,,,,,,,,,,,
+"ITT Technical Institute-Sylmar - California",,,,,,,,,,,,,,
+"ITT Technical Institute-Swartz Creek - Michigan",,,,,,,,,,,,,,
+"ITT Technical Institute-Strongsville - Ohio",,,,,,,,,,,,,,
+"ITT Technical Institute-Springfield - Virginia",,,,,,,,,,,,,,
+"ITT Technical Institute-Springfield - Missouri",,,,,,,,,,,,,,
+"ITT Technical Institute-Springfield - Illinois",,,,,,,,,,,,,,
+"ITT Technical Institute-Spokane Valley - Washington",,,,,,,,,,,,,,
+"ITT Technical Institute-South Bend - Indiana",,,,,,,,,,,,,,
+"ITT Technical Institute-Portland - Oregon",,,,,,,,,,,,,,
+"ITT Technical Institute-Seattle - Washington",,,,,,,,,,,,,,
+"ITT Technical Institute-San Bernardino - California",,,,,,,,,,,,,,
+"ITT Technical Institute-San Antonio East - Texas",,,,,,,,,,,,,,
+"ITT Technical Institute-San Antonio - Texas",,,,,,,,,,,,,,
+"ITT Technical Institute-Salem - Virginia",,,,,,,,,,,,,,
+"ITT Technical Institute-Salem - Oregon",,,,,,,,,,,,,,
+"ITT Technical Institute-Saint Rose - Louisiana",,,,,,,,,,,,,,
+"ITT Technical Institute-Richmond - Virginia",,,,,,,,,,,,,,
+"ITT Technical Institute-Richardson - Texas",,,,,,,,,,,,,,
+"ITT Technical Institute-San Dimas - California",,,,,,,,,,,,,,
+"National Latino Education Institute - Illinois",,,,,,,,,,,,,,
+"SUNY College of Technology at Alfred - New York",,18,19,19,19,18,19,21,22,18,18,18,18,18
+"Naropa University - Colorado",,,,,,,,,,,,,,20
+"Walla Walla University - Washington",,,20,,20,20,20,20,21,19,20,20,20,18
+"Urbana University - Ohio",,,20,17,17,18,,,,,17,16,,
+"University of Pittsburgh-Titusville - Pennsylvania",,,14,16,15,15,14,17,16,16,16,19,14,14
+"University of New Hampshire at Manchester - New Hampshire",,,22,,22,,,,,,,,,
+"University of Minnesota-Crookston - Minnesota",,,19,19,20,19,19,19,20,19,19,19,18,18
+"The University of Texas at El Paso - Texas",,,17,16,17,17,,17,17,16,15,16,16,
+"The Master's University and Seminary - California",,,21,20,21,21,21,22,21,22,22,21,21,19
+"The College of New Rochelle - New York",,,17,18,19,20,18,22,18,20,,,,
+"Southeast Missouri State University - Missouri",,,20,20,20,20,20,20,20,20,20,20,19,19
+"Saint Leo University - Florida",,,19,20,20,,,,,19,20,20,19,20
+"Quinnipiac University - Connecticut",,,23,23,22,22,23,22,22,22,22,22,22,21
+"Pennsylvania State University-World Campus - Pennsylvania",,,21,20,20,21,21,17,,,,,,
+"Pennsylvania State University-Penn State York - Pennsylvania",,,21,23,17,21,18,21,21,19,18,19,18,14
+"Pennsylvania State University-Penn State Wilkes-Barre - Pennsylvania",,,24,18,18,18,15,19,19,16,16,17,20,17
+"Pennsylvania State University-Penn State Shenango - Pennsylvania",,,18,17,19,19,16,15,19,16,17,16,17,15
+"Pennsylvania State University-Penn State Scranton - Pennsylvania",,,16,17,15,17,16,19,18,20,18,17,17,16
+"Pennsylvania State University-Penn State New Kensington - Pennsylvania",,,18,18,18,19,19,16,19,17,19,19,22,18
+"Warner University - Florida",,,16,16,17,17,17,17,16,16,16,14,14,15
+"Western New England University - Massachusetts",,,22,21,22,22,22,22,22,22,21,20,18,18
+"William Paterson University of New Jersey - New Jersey",,,16,18,,,,,,,,,,
+"Academy of Interactive Entertainment - Louisiana",,,,,,,,,,,,,,
+"American Institute of Alternative Medicine - Ohio",,,,,,,,,,,,,,
+"American Conservatory Theater - California",,,,,,,,,,,,,,
+"American College of Healthcare Sciences - Oregon",,,,,,,,,,,,,,
+"American Academy of Dramatic Arts-New York - New York",,,,,,,,,,,,,,
+"American Academy of Dramatic Arts-Los Angeles - California",,,,,,,,,,,,,,
+"Alverno College - Wisconsin",,,,,,16,17,17,17,17,17,17,17,17
+"Alliant International University-San Diego - California",,,,,,,,,,,,,,
+"Allen College - Iowa",,,,,,,,,,,21,21,20,20
+"Pennsylvania State University-Penn State Mont Alto - Pennsylvania",,,22,20,20,17,20,20,17,16,17,18,15,14
+"Albright College - Pennsylvania",,,,,,,,20,20,19,,18,18,
+"Albizu University-Miami - Florida",,,,,,,,,,,,,,
+"Alaska Pacific University - Alaska",,,,,,17,20,20,15,21,21,18,21,19
+"Akron School of Practical Nursing - Ohio",,,,,,,,,,,,,,
+"Agnes Scott College - Georgia",,,,,,,,,,,,22,22,24
+"Advanced Technology Institute - Virginia",,,,,,,,,,,,,,
+"Advanced College-Stockton - California",,,,,,,,,,,,,,
+"Adult and Community Education-Hudson - Ohio",,,,,,,,,,,,,,
+"Academy of Interactive Entertainment - Washington",,,,,,,,,,,,,,
+"Albizu University-San Juan - Puerto Rico",,,,,,,,,,,,,,
+"American Islamic College - Illinois",,,,,,,,,,,,,,
+"Pennsylvania State University-Penn State Lehigh Valley - Pennsylvania",,,19,21,22,19,19,19,18,19,18,18,18,20
+"Pennsylvania State University-Penn State Harrisburg - Pennsylvania",,,23,22,22,20,20,22,20,21,21,20,19,19
+"Indiana State University - Indiana",,,16,17,16,16,16,16,16,17,17,17,17,16
+"Hiwassee College - Tennessee",,,17,17,17,17,16,16,15,15,16,15,16,16
+"Hebrew Theological College - Illinois",,,20,17,20,19,19,18,19,20,17,,,
+"Green Mountain College - Vermont",,,17,,,,,,,,,,,17
+"Franklin Pierce University - New Hampshire",,,17,,17,19,17,16,16,18,18,19,,17
+"Dominican College of Blauvelt - New York",,,17,17,17,17,16,18,17,18,17,18,19,
+"College for Creative Studies - Michigan",,,21,21,20,20,18,18,19,19,18,18,18,18
+"Coe College - Iowa",,,22,22,22,22,22,23,23,24,23,23,23,22
+"Cincinnati Christian University - Ohio",,,16,16,18,18,17,18,18,18,18,18,19,18
+"Chestnut Hill College - Pennsylvania",,,16,20,17,17,19,19,19,18,19,17,,18
+"Charles R Drew University of Medicine and Science - California",,,18,,,,,,,,,,,
+"Campbellsville University - Kentucky",,,18,18,19,18,18,18,18,18,18,16,16,18
+"Bryan College-Dayton - Tennessee",,,21,20,21,19,20,20,20,20,20,22,21,21
+"Bennett College - North Carolina",,,14,14,,,,,,,,15,15,13
+"Woodbury University - California",,17,19,19,19,16,,19,20,19,17,,,
+"Wofford College - South Carolina",,26,27,29,24,23,24,24,23,24,23,23,23,23
+"Wittenberg University - Ohio",,20,,,,,,23,23,22,23,22,22,22
+"Keene State College - New Hampshire",,,18,18,18,19,,,18,19,,,,
+"Lincoln Christian University - Illinois",,,20,17,19,19,19,19,18,18,19,19,19,19
+"Lincoln College - Illinois",,,15,15,15,15,22,16,15,15,15,14,15,15
+"McDaniel College - Maryland",,,21,21,21,20,21,21,21,20,22,21,21,20
+"Pennsylvania State University-Penn State Greater Allegheny - Pennsylvania",,,23,18,18,20,18,18,19,13,16,15,21,15
+"Pennsylvania State University-Penn State Fayette- Eberly - Pennsylvania",,,17,17,17,17,19,18,16,18,20,16,16,21
+"Pennsylvania State University-Penn State Erie-Behrend College - Pennsylvania",,,22,22,21,20,19,19,19,20,19,19,19,18
+"Pennsylvania State University-Penn State DuBois - Pennsylvania",,,19,23,,21,16,20,14,17,18,15,17,14
+"Pennsylvania State University-Penn State Brandywine - Pennsylvania",,,21,19,18,18,19,17,18,18,16,16,17,17
+"Pennsylvania State University-Penn State Berks - Pennsylvania",,,21,21,19,18,18,19,18,17,17,17,18,19
+"Pennsylvania State University-Penn State Beaver - Pennsylvania",,,20,20,20,18,17,16,17,17,18,17,17,15
+"Pennsylvania State University-Penn State Altoona - Pennsylvania",,,20,21,20,20,19,19,21,20,20,19,18,18
+"Pennsylvania State University-Penn State Hazleton - Pennsylvania",,,20,18,20,17,17,20,18,18,16,17,17,17
+"Pennsylvania State University-Penn State Abington - Pennsylvania",,,22,21,20,19,18,18,16,19,17,17,17,14
+"New York School of Interior Design - New York",,,19,18,17,,,,20,,,,,
+"Mount Aloysius College - Pennsylvania",,,17,18,18,17,16,18,17,16,17,16,16,17
+"Moravian University - Pennsylvania",,,21,21,21,19,18,,,,20,19,19,19
+"MidAmerica Nazarene University - Kansas",,,18,18,18,19,19,19,20,19,20,20,20,18
+"Mid-South Christian College - Tennessee",,,19,,,,,,,,,,,
+"Menlo College - California",,,18,18,18,19,19,19,20,19,17,16,15,15
+"Medical Prep Institute of Tampa Bay - Florida",,,12,,,,,,,,,,,
+"Medaille College - New York",,,17,17,19,15,,,16,17,18,17,17,17
+"Olivet College - Michigan",,,16,,18,17,18,17,18,18,17,17,17,16
+"Wingate University - North Carolina",,18,18,18,20,20,19,19,20,19,19,19,18,
+"American Jewish University - California",,,,,,,,,17,20,18,20,21,
+"American University of Health Sciences - California",,,,,,,,,,,,,,
+"California Christian College - California",,,,,,,,,,,,,,18
+"California Career Institute - California",,,,,,,,,,,,,,
+"Bryn Mawr College - Pennsylvania",,,,29,28,28,27,27,26,26,26,27,26,27
+"Brown College of Court Reporting - Georgia",,,,,,,,,,,,,,
+"Broome Delaware Tioga BOCES-Practical Nursing Program - New York",,,,,,,,,,,,,,
+"Brevard College - North Carolina",,,,,,,,18,17,18,16,15,18,17
+"Bradford School - Pennsylvania",,,,,,,,,,,,,,
+"Bowdoin College - Maine",,,,,,,,30,31,30,30,29,29,
+"Bolivar Technical College - Missouri",,,,,,,,,,,,,,
+"Bob Jones University - South Carolina",,,,20,20,19,19,20,19,,,,,
+"Blue Hills Regional Technical School - Massachusetts",,,,,,,,,,,,,,
+"Blue Cliff Career College - Alabama",,,,,,,,,,,,,,
+"Birthwise Midwifery School - Maine",,,,,,,,,,,,,,
+"Bidwell Training Center Inc - Pennsylvania",,,,,,,,,,,,,,
+"Beverly Hills Design Institute - California",,,,,,,,,,,,,,
+"Bethany Global University - Minnesota",,,,,,,,,,,,,,
+"Beth Medrash of Asbury Park - New Jersey",,,,,,,,,,,,,,
+"California College of the Arts - California",,,,,,,,,19,,,,,
+"California Institute of the Arts - California",,,,,,,,,,,,,,
+"California Jazz Conservatory - California",,,,,,,,,,,,,,
+"California State University Maritime Academy - California",,,,,,,,21,21,19,20,19,19,19
+"Carrington College-Portland - Oregon",,,,,,,,,,,,,,
+"Carrington College-Pleasant Hill Campus - California",,,,,,,,,,,,,,
+"Carrington College-Phoenix North - Arizona",,,,,,,,,,,,,,
+"Carrington College-Phoenix East - Arizona",,,,,,,,,,,,,,
+"Carrington College-Ontario - California",,,,,,,,,,,,,,
+"Carrington College-Mesquite - Texas",,,,,,,,,,,,,,
+"Carrington College-Mesa - Arizona",,,,,,,,,,,,,,
+"Carrington College-Las Vegas - Nevada",,,,,,,,,,,,,,
+"Beth Medrash Meor Yitzchok - New York",,,,,,,,,,,,,,
+"Carrington College-Citrus Heights - California",,,,,,,,,,,,,,
+"Carrington College-Albuquerque - New Mexico",,,,,,,,,,,,,,
+"Career Center of Southern Illinois - Illinois",,,,,,,,,,,,,,
+"Canton City Schools Adult Career and Technical Education - Ohio",,,,,,,,,,,,,,
+"California State University-Stanislaus - California",,,,,,,,16,16,17,17,17,17,16
+"California State University-East Bay - California",,,,,,,,16,16,16,15,16,15,16
+"California State University-Dominguez Hills - California",,,,,,,,15,15,15,14,14,14,15
+"California State University-Channel Islands - California",,,,,,,,17,18,16,18,,18,18
+"California State University-Bakersfield - California",,,,,,,,15,16,16,15,15,15,16
+"Carrington College-Boise - Idaho",,,,,,,,,,,,,,
+"American Musical and Dramatic Academy - New York",,,,,,,,,,,,,,
+"Beth Hatalmud Rabbinical College - New York",,,,,,,,,,,,,,
+"Bet Medrash Gadol Ateret Torah - New York",,,,,,,,,,,,,,
+"Athena Career Academy - Ohio",,,,,,,,,,,,,,
+"Assumption University - Massachusetts",,,,,,,,,,,20,19,,20
+"Associated Beth Rivkah Schools - New York",,,,,,,,,,,,,,
+"Assabet Valley Regional Technical School - Massachusetts",,,,,,,,,,,,,,
+"ASPIRA City College - Pennsylvania",,,,,,,,,,,,,,
+"Art Center College of Design - California",,,,,,,,,,,,,,
+"Arnot Ogden Medical Center - New York",,,,,,,,,,,,,,
+"Armstrong State University - Georgia",,,,19,19,19,19,19,19,19,18,18,19,18
+"Arkansas Tech University - Arkansas",,,,,,,18,18,18,19,20,19,19,19
+"Arizona State University Digital Immersion - Arizona",,,,,,,,17,,,,,,
+"Arizona College of Nursing-Las Vegas - Nevada",,,,,,,,,,,,,,
+"Aria Health School of Nursing - Pennsylvania",,,,,,,,,,,,,,
+"Applied Technology Services - Missouri",,,,,,,,,,,,,,
+"Annenberg School of Nursing - California",,,,,,,,,,,,,,
+"Anna Maria College - Massachusetts",,,,,,,,,16,16,18,16,16,15
+"AmeriTech College-Provo - Utah",,,,,,,,,,,,,,
+"AmeriTech College-Draper - Utah",,,,,,,,,,,,,,
+"Augustana College - Illinois",,,,,,,,,,,23,23,23,23
+"Autry Technology Center - Oklahoma",,,,,,,,,,,,,,
+"Averett University-Non-Traditional Programs - Virginia",,,,,,,,,,,,,,
+"Bais Binyomin Academy - New York",,,,,,,,,,,,,,
+"Berklee College of Music - Massachusetts",,,,,,,,,,,,,,
+"Bennington College - Vermont",,,,,,,,,,,,,24,24
+"Belanger School of Nursing - New York",,,,,,,,,,,,,,
+"Bel-Rea Institute of Animal Technology - Colorado",,,,,,,,,,,,,,
+"Beis Medrash Heichal Dovid - New York",,,,,,,,,,,,,,
+"Beacon College - Florida",,,,,,,,,,,,,,
+"Bay State College - Massachusetts",,,,,,,,,,,,,,
+"Bates College - Maine",,,,,,,,,,,,,,
+"Beth Hamedrash Shaarei Yosher Institute - New York",,,,,,,,,,,,,,
+"Bard College at Simon's Rock - Massachusetts",,,,,,,,,,,,,24,26
+"Barclay College - Kansas",,,,,,,,17,15,17,18,17,15,19
+"Baptist Missionary Association Theological Seminary - Texas",,,,,,,,,,,,,,
+"Bancroft School of Massage Therapy - Massachusetts",,,,,,,,,,,,,,
+"Ball State University - Indiana",,,,20,20,20,20,20,19,20,19,19,19,19
+"Bais Medrash Toras Chesed - New Jersey",,,,,,,,,,,,,,
+"Bais Medrash Mayan Hatorah - New Jersey",,,,,,,,,,,,,,
+"Bais Medrash Elyon - New York",,,,,,,,,,,,,,
+"Bais HaMedrash and Mesivta of Baltimore - Maryland",,,,,,,,,,,,,,
+"Bard College - New York",,,,,,,,,,,,,,
+"Williams College - Massachusetts",,32,32,31,31,31,31,30,30,29,30,29,29,29
+"William Woods University - Missouri",,20,20,20,19,19,19,19,20,20,19,19,19,19
+"William Penn University - Iowa",,16,,16,17,,,17,15,16,17,17,17,17
+"Hendrix College - Arkansas",,26,27,24,26,25,25,26,26,27,27,25,25,24
+"Haskell Indian Nations University - Kansas",,15,15,16,16,16,16,,,16,15,14,15,14
+"Grand Valley State University - Michigan",,21,21,21,21,21,21,21,21,21,22,21,22,22
+"Goucher College - Maryland",,21,,,,,,,,23,23,,23,23
+"Georgia Gwinnett College - Georgia",,16,,,,,,,,,,,,
+"Georgetown College - Kentucky",,21,20,20,20,20,21,21,21,21,21,21,21,21
+"Geneva College - Pennsylvania",,19,20,20,20,21,18,20,20,21,19,20,20,20
+"Fort Valley State University - Georgia",,16,16,5,10,16,17,,16,15,16,15,15,15
+"Fitchburg State University - Massachusetts",,19,19,19,18,18,18,18,19,20,18,17,18,18
+"Finlandia University - Michigan",,16,17,17,16,16,16,17,,,,,,
+"Emporia State University - Kansas",,19,19,19,19,19,19,19,20,19,19,19,19,19
+"Emmanuel College - Georgia",,16,17,17,18,,,,,,,,,
+"Edgewood College - Wisconsin",,20,20,21,21,20,20,20,20,20,20,20,19,19
+"Eckerd College - Florida",,23,23,23,22,23,23,23,22,22,22,22,22,22
+"Eastern Oregon University - Oregon",,17,18,18,17,18,18,,19,,19,18,18,
+"East Texas Baptist University - Texas",,17,18,18,18,18,18,18,18,18,19,18,18,18
+"Dean College - Massachusetts",,17,18,18,,,15,15,15,15,14,15,15,15
+"Heritage Christian University - Alabama",,1,,19,,14,,,,,,,,
+"Hofstra University - New York",,25,24,24,24,,23,23,23,24,23,23,22,21
+"Holy Family College - Wisconsin",,15,15,,,,14,17,15,16,16,16,16,16
+"Holy Names University - California",,18,17,17,16,15,16,17,17,17,16,17,20,18
+"Lynn University - Florida",,21,20,,19,19,19,18,,,17,,16,16
+"Louisburg College - North Carolina",,13,14,13,14,14,,,,14,13,,14,13
+"Loras College - Iowa",,20,19,20,20,21,21,21,21,21,21,21,20,20
+"Logan University - Missouri",,21,,18,,,,,,,,,,
+"Lock Haven University - Pennsylvania",,17,19,16,17,17,17,17,17,16,17,16,17,16
+"LIM College - New York",,18,18,18,18,18,16,18,19,19,19,19,17,17
+"Lesley University - Massachusetts",,20,22,20,21,21,21,21,20,21,20,19,20,20
+"Lenoir-Rhyne University - North Carolina",,18,,,,,,18,18,18,,18,19,17
+"Dallas Christian College - Texas",,15,17,17,15,15,16,18,17,21,17,17,19,17
+"Le Moyne-Owen College - Tennessee",,14,14,14,14,14,13,14,14,14,15,14,12,12
+"Lakeland University - Wisconsin",,17,16,16,16,16,18,19,19,19,18,18,17,17
+"Kuyper College - Michigan",,20,17,19,19,19,19,18,19,20,18,20,19,
+"Kansas Wesleyan University - Kansas",,19,20,19,19,20,20,20,20,20,20,20,20,19
+"Kalamazoo College - Michigan",,25,,26,,,25,25,26,25,26,26,26,26
+"Indiana University-Kokomo - Indiana",,18,19,17,18,18,17,18,18,18,17,18,16,17
+"Indiana Institute of Technology - Indiana",,18,18,17,17,18,18,17,16,17,17,17,13,17
+"Howard Payne University - Texas",,19,18,19,18,18,19,18,18,18,18,17,18,18
+"Houghton College - New York",,21,,22,21,21,22,21,22,22,22,23,21,23
+"Lawrence Technological University - Michigan",,21,23,21,22,22,21,22,21,20,20,20,20,20
+"MacMurray College - Illinois",,17,18,18,18,17,18,19,18,,17,17,16,17
+"Curry College - Massachusetts",,19,17,18,18,18,18,16,,19,18,,,
+"Creighton University - Nebraska",,23,24,25,24,24,24,24,24,24,24,24,24,23
+"Bethel University - Indiana",,19,19,19,20,19,19,20,20,19,,,,
+"Bethany Lutheran College - Minnesota",,20,19,20,20,20,20,20,20,21,19,20,20,20
+"Berry College - Georgia",,24,23,24,24,24,24,24,24,23,22,23,23,23
+"Benedict College - South Carolina",,15,,,,,,,,,,,,
+"Beloit College - Wisconsin",,24,21,,24,,,24,24,25,25,25,25,25
+"Baylor University - Texas",,26,26,26,26,25,24,24,24,24,23,23,23,23
+"Barry University - Florida",,17,17,17,18,17,18,17,,17,,17,18,18
+"Azusa Pacific University - California",,20,21,21,20,21,21,21,21,21,21,21,21,20
+"Art Academy of Cincinnati - Ohio",,12,17,16,17,18,18,19,18,19,18,18,18,19
+"Arizona State University-West - Arizona",,19,19,20,21,21,21,20,,,,,18,18
+"Arizona State University-Polytechnic - Arizona",,21,21,21,22,21,22,22,,,,,19,19
+"Arizona State University-Downtown Phoenix - Arizona",,20,20,21,21,21,21,21,,,,,18,18
+"Anderson University - South Carolina",,20,20,21,21,21,20,21,20,20,18,18,18,18
+"Ancilla College - Indiana",,14,15,,,,,,,,,,,
+"Alvernia University - Pennsylvania",,18,17,18,19,19,17,18,18,18,17,17,17,16
+"Alma College - Michigan",,20,20,20,21,21,21,22,21,22,21,21,21,21
+"Albertus Magnus College - Connecticut",,15,15,,,,,,,,,,20,
+"Bethlehem College & Seminary - Minnesota",,21,21,20,21,22,,,,,,,,
+"Bloomsburg University of Pennsylvania - Pennsylvania",,18,19,19,18,18,17,19,19,19,,,,
+"Bluefield University - Virginia",,16,16,16,17,17,16,16,16,16,17,17,17,16
+"Bluffton University - Ohio",,18,18,18,19,18,19,19,19,19,19,19,20,20
+"Concordia University-Portland - Oregon",,17,18,18,18,19,19,18,19,18,18,19,19,18
+"Columbus College of Art and Design - Ohio",,18,,,,,19,19,19,19,18,19,18,18
+"Colorado Mesa University - Colorado",,18,18,18,18,17,18,18,17,18,18,17,17,18
+"Cleary University - Michigan",,18,18,17,19,18,19,18,19,,,,,
+"Clarkson College - Nebraska",,19,18,21,21,21,18,22,20,20,19,20,21,21
+"Clarion University of Pennsylvania - Pennsylvania",,17,18,18,17,17,16,,,,,,,
+"Christopher Newport University - Virginia",,22,23,,23,23,23,23,21,22,22,21,22,22
+"Champlain College - Vermont",,24,22,23,22,23,23,22,21,20,21,20,20,20
+"Cumberland University - Tennessee",,18,19,19,19,19,20,19,19,20,20,19,19,18
+"Central State University - Ohio",,14,14,15,15,14,15,15,14,14,14,15,,
+"Carolina University - North Carolina",,16,16,15,15,,,,,,,,,
+"Capitol Technology University - Maryland",,19,17,19,19,17,17,15,21,19,,12,,
+"Capital University - Ohio",,20,21,22,22,22,21,21,21,21,21,21,21,21
+"Calvary University - Missouri",,19,20,19,20,19,19,18,18,18,19,19,20,18
+"Cairn University-Langhorne - Pennsylvania",,19,18,17,20,18,18,18,17,20,19,19,16,19
+"Buena Vista University - Iowa",,19,19,19,19,19,20,20,20,20,18,19,19,19
+"Bryan College of Health Sciences - Nebraska",,19,20,20,21,22,21,22,22,22,20,21,19,
+"Brewton-Parker College - Georgia",,16,15,14,,,,17,16,14,15,16,15,16
+"Carolinas College of Health Sciences - North Carolina",,21,,,,,20,,,,,,,
+"Manhattan College - New York",,23,23,23,23,22,22,23,,,21,22,23,22
+"Manor College - Pennsylvania",,15,14,14,,14,13,12,15,14,15,,,
+"Marian University - Indiana",,18,20,19,19,20,20,19,19,19,19,19,19,19
+"University of California-Los Angeles - California",,29,30,29,28,28,27,25,25,25,24,24,24,24
+"Trinity College - Connecticut",,29,29,28,,,,25,26,26,26,26,26,27
+"Toccoa Falls College - Georgia",,16,19,18,18,18,18,17,19,18,16,19,18,18
+"Thomas More University - Kentucky",,19,19,19,20,20,19,20,20,20,20,19,20,18
+"The College of Wooster - Ohio",,24,25,24,24,25,25,25,25,24,24,23,23,23
+"Taylor University - Indiana",,22,22,22,22,24,24,24,25,23,24,23,23,23
+"Syracuse University - New York",,26,25,25,25,24,24,23,23,23,23,23,24,24
+"SUNY College of Technology at Delhi - New York",,20,17,,,,,,,,,,,
+"Westwood College-Dallas - Texas",,,,,,,,,,,,,,7
+"SUNY Buffalo State - New York",,19,,,17,16,21,,18,,,,,19
+"Stevenson University - Maryland",,18,19,19,19,19,18,18,18,17,18,19,18,18
+"St. Joseph's College-Long Island - New York",,21,21,22,,,,,,,22,,19,19
+"St. John's College - New Mexico",,26,24,23,,,,,,,,,,
+"St. John's College - Maryland",,26,24,26,27,,28,,,25,,,,
+"St. Andrews University - North Carolina",,15,13,16,16,17,,18,,,,,,
+"Spartanburg Methodist College - South Carolina",,15,15,15,16,16,16,15,15,16,15,15,16,15
+"Southwestern Christian University - Oklahoma",,16,16,16,17,17,17,17,17,17,17,15,15,16
+"University of Colorado Colorado Springs - Colorado",,21,20,21,20,21,21,21,21,20,21,21,20,20
+"University of Evansville - Indiana",,23,22,22,23,23,23,23,23,23,22,22,22,22
+"University of Houston-Downtown - Texas",,16,17,17,17,16,16,16,,,,,,
+"University of Houston-Victoria - Texas",,16,,,,,,16,17,18,,,,
+"William Jessup University - California",,18,19,21,19,18,19,20,20,19,20,19,21,19
+"Whittier College - California",,20,20,21,20,20,20,20,20,20,19,21,20,21
+"Westminster College - Pennsylvania",,19,20,20,20,20,19,20,21,22,20,20,20,20
+"Wells College - New York",,18,21,,19,21,22,21,21,20,21,21,22,20
+"Watkins College of Art Design & Film - Tennessee",,19,18,19,19,18,20,18,18,19,19,22,21,25
+"Washington Adventist University - Maryland",,15,14,15,14,14,15,,16,,,,15,14
+"University of St Thomas - Texas",,20,22,21,21,22,22,23,23,24,23,21,21,23
+"University of South Florida-St Petersburg - Florida",,24,23,22,22,22,24,21,21,21,21,,,
+"Southern Connecticut State University - Connecticut",,16,18,18,18,18,17,17,17,17,,,,
+"University of South Florida-Sarasota-Manatee - Florida",,25,24,22,21,22,21,22,,,,,,
+"University of San Diego - California",,26,25,26,26,26,26,25,25,26,25,24,24,23
+"University of Northwestern-St Paul - Minnesota",,21,21,21,21,21,21,22,21,21,21,21,21,21
+"University of North Alabama - Alabama",,20,20,19,19,19,19,19,18,18,18,18,18,18
+"University of New England - Maine",,21,20,21,21,20,21,21,21,21,21,21,21,
+"University of Mobile - Alabama",,20,18,20,19,19,20,20,20,20,19,20,20,19
+"University of Maine at Fort Kent - Maine",,17,16,17,16,15,16,18,17,,,,,
+"University of Maine - Maine",,21,22,22,21,21,21,21,21,21,21,20,20,20
+"University of Lynchburg - Virginia",,18,,19,19,19,19,19,18,19,18,18,18,18
+"University of Sioux Falls - South Dakota",,20,20,20,20,20,19,20,20,21,20,20,19,19
+"Savannah College of Art and Design - Georgia",,21,21,21,21,20,21,21,21,21,20,21,21,20
+"Salem State University - Massachusetts",,19,20,19,19,,19,19,,,15,19,,
+"Saint Peter's University - New Jersey",,17,17,17,16,16,16,16,17,17,17,16,17,15
+"Nebraska Christian College of Hope International University - Nebraska",,17,16,17,3,,,,,,,,,
+"Muskingum University - Ohio",,18,19,19,19,18,19,18,19,19,19,19,19,19
+"Mount Mercy University - Iowa",,18,19,19,18,19,19,20,20,20,20,20,20,20
+"Morningside University - Iowa",,19,20,20,20,20,21,20,19,21,20,20,20,20
+"Morehouse College - Georgia",,18,20,18,19,18,19,18,19,19,18,18,19,20
+"Morehead State University - Kentucky",,20,20,20,20,20,19,19,19,19,19,18,17,17
+"Moore College of Art and Design - Pennsylvania",,23,22,,,,,18,17,16,19,18,17,17
+"Moody Bible Institute - Illinois",,18,,,,,,,21,20,21,,,
+"New England Institute of Technology - Rhode Island",,16,,,,,,,,,,,,
+"Montana Bible College - Montana",,19,,,,22,23,16,20,,,,,
+"Minneapolis College of Art and Design - Minnesota",,20,19,20,20,21,21,20,20,21,20,21,21,20
+"Midwestern Baptist Theological Seminary - Missouri",,20,19,20,19,17,18,19,19,19,16,18,,
+"Middle Georgia State University - Georgia",,16,16,15,,15,,,,,,,,
+"Methodist College - Illinois",,18,16,15,19,20,17,21,19,19,,,,
+"McPherson College - Kansas",,19,19,20,19,15,18,19,19,18,19,19,20,19
+"Maryville University of Saint Louis - Missouri",,20,20,21,22,23,23,23,23,23,22,22,22,21
+"Maryland Institute College of Art - Maryland",,24,22,24,22,,,,,,,,,
+"Mars Hill University - North Carolina",,18,16,17,17,17,17,17,17,17,,,16,
+"Misericordia University - Pennsylvania",,22,23,22,22,22,21,20,22,22,20,21,19,20
+"Carrington College-Reno - Nevada",,,,,,,,,,,,,,
+"New Mexico Military Institute - New Mexico",,17,16,16,16,16,17,17,18,17,18,17,17,22
+"Northern Illinois University - Illinois",,19,19,19,19,19,19,19,19,19,19,19,20,20
+"Saint Mary's University of Minnesota - Minnesota",,20,20,20,20,19,20,20,19,20,19,20,19,19
+"Saint Elizabeth University - New Jersey",,16,,,17,,,,,,,,,
+"Saint Edward's University - Texas",,22,22,22,22,23,22,22,22,22,22,21,21,21
+"Reed College - Oregon",,30,30,30,29,29,29,28,28,29,29,29,28,28
+"Radford University-Carilion - Virginia",,16,17,19,,,,20,18,17,17,18,18,17
+"Providence Christian College - California",,19,19,2,,,,,,,22,,,
+"Pomona College - California",,32,31,30,31,30,31,31,29,31,31,30,29,29
+"Pittsburg State University - Kansas",,19,18,19,19,,19,19,19,19,19,19,18,19
+"Newman University - Kansas",,18,20,19,20,20,20,20,22,21,19,20,19,19
+"Pennsylvania State University-Main Campus - Pennsylvania",,23,25,25,25,25,25,25,25,25,24,24,23,23
+"Ozark Christian College - Missouri",,19,20,19,19,,,,,,,,,
+"Otis College of Art and Design - California",,23,20,,,19,18,19,21,21,20,21,17,19
+"Ohio Dominican University - Ohio",,19,19,19,19,19,19,20,20,19,19,19,19,19
+"Oakwood University - Alabama",,16,16,17,16,17,17,17,17,16,16,16,16,16
+"Notre Dame of Maryland University - Maryland",,17,22,17,21,23,21,20,19,19,18,19,18,
+"Notre Dame de Namur University - California",,17,17,15,17,16,17,18,18,18,16,17,17,18
+"Notre Dame College - Ohio",,16,17,17,18,17,18,18,18,18,17,17,17,18
+"Northern Michigan University - Michigan",,20,20,20,19,19,19,19,19,19,19,19,19,20
+"Pacific Lutheran University - Washington",,24,20,21,22,22,22,22,21,21,23,22,22,21
+"National Conservatory of Dramatic Arts - Washington DC",,,,,,,,,,,,,,
+"Carrington College-Sacramento - California",,,,,,,,,,,,,,
+"Carrington College-San Leandro Campus - California",,,,,,,,,,,,,,
+"Jersey College - New Jersey",,,,,,,,,,,,,,
+"Jefferson Lewis BOCES-Practical Nursing Program - New York",,,,,,,,,,,,,,
+"Jefferson County Dubois Area Vocational Technical Practical Nursing Program - Pennsylvania",,,,,,,,,,,,,,
+"Jefferson (Philadelphia University + Thomas Jefferson University) - Pennsylvania",,,,21,20,21,20,21,20,22,21,22,21,
+"Jamestown Business College - New York",,,,,,,,,,,,,,
+"IYRS School of Technology & Trades - Rhode Island",,,,,,,,,,,,,,
+"Ithaca College - New York",,,,,,,,,23,23,23,23,23,22
+"Isabella Graham Hart School of Practical Nursing - New York",,,,,,,,,,,,,,
+"International Culinary Arts and Sciences Institute - Ohio",,,,,,,,,,,,,,
+"International Business College-Indianapolis - Indiana",,,,,,,,,,,,,,
+"International Business College-Fort Wayne - Indiana",,,,,,,,,,,,,,
+"Inter American University of Puerto Rico-San German - Puerto Rico",,,,,,,,,,,,,,
+"Inter American University of Puerto Rico-Ponce - Puerto Rico",,,,,,,,,,,,,,
+"Inter American University of Puerto Rico-Metro - Puerto Rico",,,,,,,,,,,,,,
+"Inter American University of Puerto Rico-Guayama - Puerto Rico",,,,,,,,,,,,,,
+"Inter American University of Puerto Rico-Fajardo - Puerto Rico",,,,,,,,,,,,,,
+"Inter American University of Puerto Rico-Bayamon - Puerto Rico",,,,,,,,,,,,,,
+"JFK Muhlenberg Harold B. and Dorothy A. Snyder Schools - New Jersey",,,,,,,,,,,,,,
+"JFK Muhlenberg Harold B. and Dorothy A. Snyder Schools-School of Imaging - New Jersey",,,,,,,,,,,,,,
+"Joe Kubert School of Cartoon and Graphic Art - New Jersey",,,,,,,,,,,,,,
+"Joffrey Ballet School - New York",,,,,,,,,,,,,,
+"Kirksville Area Technical Center - Missouri",,,,,,,,,22,,,,,
+"King's College - Pennsylvania",,,,,,,,,,,,,,
+"King's College - North Carolina",,,,,,,,,,,,,,
+"Key College - Florida",,,,,,,,,,,,,,
+"Keuka College - New York",,,,19,18,,,,,,,,,17
+"Kenrick Glennon Seminary - Missouri",,,,,,,,,,,,,,
+"Kendall College - Illinois",,,,,,,,,,,,,18,18
+"KD Conservatory College of Film and Dramatic Arts - Texas",,,,,,,,,,,,,,
+"Inter American University of Puerto Rico-Barranquitas - Puerto Rico",,,,,,,,,,,,,,
+"Kansas State University - Kansas",,,,,,,,,,,,21,20,20
+"Juniata College - Pennsylvania",,,,,,,,,23,23,24,,,
+"Johnson College - Pennsylvania",,,,,,,,14,,,,,,
+"Johnson & Wales University-Providence - Rhode Island",,,,,,,,,,,,,,
+"Johnson & Wales University-Online - Rhode Island",,,,,,,,,,,,,,
+"Johnson & Wales University-North Miami - Florida",,,,,,,,,,,,,,
+"Johnson & Wales University-Denver - Colorado",,,,,,,,,,,,,,
+"Johnson & Wales University-Charlotte - North Carolina",,,,,,,,,,,,,,
+"John Wesley University - North Carolina",,,,17,15,17,,,,,,,,
+"Kansas City Art Institute - Missouri",,,,20,21,20,20,20,,20,,,20,20
+"La Salle University - Pennsylvania",,,,,19,18,18,19,19,19,18,19,,20
+"Inter American University of Puerto Rico-Arecibo - Puerto Rico",,,,,,,,,,,,,,
+"Instituto Tecnologico de Puerto Rico-Recinto de San Juan - Puerto Rico",,,,,,,,,,,,,,
+"Herzing University-Atlanta - Georgia",,,,,,,,,,,,,,
+"Herzing University-Akron - Ohio",,,,,,,,,,,,,,
+"Heritage Valley Kennedy School of Nursing - Pennsylvania",,,,,,,,,,,,,,
+"Henrico County-Saint Marys Hospital School of Practical Nursing - Virginia",,,,,,,,,,,,,,
+"Hellenic College-Holy Cross Greek Orthodox School of Theology - Massachusetts",,,,21,,,,,,,,,,
+"Healthcare Training Institute - New Jersey",,,,,,,,,,,,,,
+"Health Works Institute - Montana",,,,,,,,,,,,,,
+"HCI College - Florida",,,,,,,,,,,,,,
+"Harrison College-Morrisville - North Carolina",,,,,,,,,,,,,,
+"Harrison College-Indianapolis - Indiana",,,,,,,,,,,,,,
+"Harrison College-Grove City - Ohio",,,,,,,,,,,,,,
+"Harmony Health Care Institute - New Hampshire",,,,,,,,,,,,,,
+"Hannah E Mullins School of Practical Nursing - Ohio",,,,,,,,,,,,,,
+"Hampton University - Virginia",,,,20,19,20,20,18,18,21,,17,17,17
+"Hampshire College - Massachusetts",,,,,,,,,,25,25,26,26,26
+"Hallmark University - Texas",,,,,,,,,,,,,,
+"Gustavus Adolphus College - Minnesota",,,,,,,,24,26,25,24,24,27,23
+"Herzing University-Birmingham - Alabama",,,,,,,,,,,,,,
+"Herzing University-Brookfield - Wisconsin",,,,,,,,,,,,,,
+"Herzing University-Kenosha - Wisconsin",,,,,,,,,,,,,,
+"Herzing University-Madison - Wisconsin",,,,,,,,,,,,,,
+"Instituto Tecnologico de Puerto Rico-Recinto de Ponce - Puerto Rico",,,,,,,,,,,,,,
+"Instituto Tecnologico de Puerto Rico-Recinto de Manati - Puerto Rico",,,,,,,,,,,,,,
+"Institute of American Indian and Alaska Native Culture and Arts Development - New Mexico",,,,,,,,,,,,15,16,
+"Illinois College - Illinois",,,,,,,,19,,,21,21,21,21
+"Hussian College-Philadelphia - Pennsylvania",,,,,,,,,,,,,,
+"Hussian College-Los Angeles - California",,,,,,,,,,,,,,
+"Hult International Business School - Massachusetts",,,,,,,,,,,,,,
+"Hood College - Maryland",,,,,,,,18,20,20,20,18,20,20
+"Inter American University of Puerto Rico-Aguadilla - Puerto Rico",,,,,,,,,,,,,,
+"Hondros College of Nursing - Ohio",,,,,,,,,,,,,,
+"Hodges University - Florida",,,,,,,,,,,,,,
+"Hillyard Technical Center - Missouri",,,,,,,,,,,,,,
+"Hilbert College - New York",,,,,,,,,,,,,,18
+"Hickey College - Missouri",,,,,,,,,,,,,,
+"Herzing University-Toledo - Ohio",,,,,,,,,,,,,,
+"Herzing University-Orlando - Florida",,,,,,,,,,,,,,
+"Herzing University-New Orleans - Louisiana",,,,,,,,,,,,,,
+"Herzing University-Minneapolis - Minnesota",,,,,,,,,,,,,,
+"Holy Name Medical Center-Sister Claire Tynan School of Nursing - New Jersey",,,,,,,,,,,,,,
+"Green Country Technology Center - Oklahoma",,,,,,,,,,,,,,
+"Laboure College - Massachusetts",,,,,,,,,,,,,,
+"Lake Forest College - Illinois",,,,,,,,23,,,,,24,24
+"Minerva University - California",,,,,,,,,,,,,,
+"Milwaukee Institute of Art & Design - Wisconsin",,,,,,,,,,,,,,
+"Milwaukee Career College - Wisconsin",,,,,,,,,,,,,,
+"Millersville University of Pennsylvania - Pennsylvania",,,,,19,19,19,19,19,19,,,,
+"Mifflin County Academy of Science and Technology - Pennsylvania",,,,,,,,,,,,,,
+"Midwives College of Utah - Utah",,,,,,,,,,,,,,
+"Midwest Institute - Missouri",,,,,,,,,,,,,,
+"Midstate College - Illinois",,,,,,,,,,,,,,
+"MIAT College of Technology - Michigan",,,,,,,,,,,,,,
+"Miami Regional University - Florida",,,,,,,,,,,,,,
+"Miami Media School - Florida",,,,,,,,,,,,,,
+"Metropolitan State University - Minnesota",,,,,,,,,,,,,,
+"Metropolitan College of New York - New York",,,,,,,,,,,,,,
+"Messenger College - Texas",,,,,,,,,,,,,,
+"Mesivtha Tifereth Jerusalem of America - New York",,,,,,,,,,,,,,
+"Mesivta Torah Vodaath Rabbinical Seminary - New York",,,,,,,,,,,,,,
+"Mesivta of Eastern Parkway-Yeshiva Zichron Meilech - New York",,,,,,,,,,,,,,
+"Mirrer Yeshiva Cent Institute - New York",,,,,,,,,,,,,,
+"Mitchell College - Connecticut",,,,,,,,,,,,,,
+"Modern Hairstyling Institute-Arecibo - Puerto Rico",,,,,,,,,,,,,,
+"Modern Hairstyling Institute-Bayamon - Puerto Rico",,,,,,,,,,,,,,
+"Musicians Institute - California",,,,,,,,,,17,20,,,
+"Multnomah University - Oregon",,,,,,,18,19,17,17,19,19,18,18
+"MTI College - California",,,,,,,,,,,,,,
+"Mt Sierra College - California",,,,,,,,,,,,,,
+"Mount Ida College - Massachusetts",,,,,,16,16,15,16,15,15,16,,
+"Mount Angel Seminary - Oregon",,,,,,,,,,,,,,
+"MotoRing Technical Training Institute - Rhode Island",,,,,,,,,,,,,,
+"Motoring Technical Training Institute - Massachusetts",,,,,,,,,,,,,,
+"Merrimack College - Massachusetts",,,,,,,,,,,,,18,19
+"Morthland College - Illinois",,,,30,17,17,,,,,,,,
+"Moore Norman Technology Center - Oklahoma",,,,,,,,,,,,,,
+"Monty Tech - Massachusetts",,,,,,,,,,,,,,
+"Montessori Education Center of the Rockies - Colorado",,,,,,,,,,,,,,
+"Monteclaro Escuela de Hoteleria y Artes Culinarias - Puerto Rico",,,,,,,,,,,,,,
+"Montclair State University - New Jersey",,,,,,,,,,,,,,
+"Montana State University-Northern - Montana",,,,,16,16,16,17,17,17,17,17,17,17
+"Monroe College - New York",,,,,,,,,,,,,,
+"Modern Hairstyling Institute-Carolina - Puerto Rico",,,,,,,,,,,,,,
+"Morris County Vocational School District - New Jersey",,,,,,,,,,,,,,
+"Laguna College of Art and Design - California",,,,,,,,,,,,,,
+"Merkaz Bnos-Business School - New York",,,,,,,,,,,,,,
+"Mercy Hospital School of Practical Nursing-Plantation General Hospital - Florida",,,,,,,,,,,,,,
+"Machzikei Hadath Rabbinical College - New York",,,,,,,,,,,,,,
+"Lytles Redwood Empire Beauty College - California",,,,,,,,,,,,,,
+"Lyndon State College - Vermont",,,,15,15,16,15,18,15,17,16,16,,
+"Lutheran School of Nursing - Missouri",,,,,19,,,,16,20,15,16,16,
+"Luther Rice College & Seminary - Georgia",,,,,,,,,,,,,,
+"Loyola University Maryland - Maryland",,,,,,,,25,24,25,24,24,24,24
+"Louisiana Culinary Institute - Louisiana",,,,,,,,,,,,,,
+"Longy School of Music of Bard College - Massachusetts",,,,,,,,,,,,,,
+"Long Island Business Institute - New York",,,,,,,,,,,,,,
+"Living Arts College - North Carolina",,,,,,,,,,,,,,
+"LIU Brooklyn - New York",,,,19,,,,17,17,16,16,,,
+"Lex La-Ray Technical Center - Missouri",,,,,,,,,,,,,,
+"Laurel Technical Institute - Pennsylvania",,,,,,,,,,,,,,
+"Laurel Technical Institute - Pennsylvania",,,,,,,,,,,,,,
+"Laurel Business Institute - Pennsylvania",,,,,,,,,,,,,,
+"Lane College - Tennessee",,,,14,14,14,14,13,14,14,16,16,14,16
+"Landmark College - Vermont",,,,,,,,,18,,,,,
+"Madison Oneida BOCES-Practical Nursing Program - New York",,,,,,,,,,,,,,
+"Magdalen College - New Hampshire",,,,,,,,,,,,,,14
+"Maharishi International University - Iowa",,,,,,,,,,,,,,
+"Maine College of Art & Design - Maine",,,,,,,,,,,16,20,18,17
+"Memphis College of Art - Tennessee",,,,19,18,,19,19,19,19,19,19,21,18
+"Medical Career & Technical College - Kentucky",,,,,,,,,,,,,,
+"Med-Life Institute-Lauderdale Lakes - Florida",,,,,,,,,,,,,,
+"Med-Life Institute-Kissimmee - Florida",,,,,,,,,,,,,,
+"Mechon L'hoyroa - New York",,,,,,,,,,,,,,
+"MDT College of Health Sciences - Illinois",,,,,,,,,,,,,,
+"Mauna Loa Helicopters - Hawaii",,,,,,,,,,,,,,
+"Massachusetts College of Art and Design - Massachusetts",,,,,21,21,22,22,21,20,20,21,,
+"Mercyhurst University - Pennsylvania",,,,,,,,21,21,21,21,20,20,20
+"Marygrove College - Michigan",,,,16,15,14,14,14,14,14,15,15,15,14
+"Marist College - New York",,,,,,,,,,,23,23,22,20
+"Marion S Whelan School of Nursing of Geneva General Hospital - New York",,,,,,,,,,,,,,
+"Maria College of Albany - New York",,,,,,,,17,,,18,,,16
+"Manna University - North Carolina",,,,,,,,,,,,,,
+"Manhattanville College - New York",,,,,,,,,21,,22,21,20,20
+"Manhattan School of Music - New York",,,,,,,,,,,,,,
+"Manchester University - Indiana",,,,,18,19,19,19,19,19,19,19,19,20
+"Maine College of Health Professions - Maine",,,,,,,,,,,,,,
+"Marlboro College - Vermont",,,,,,,,,,,,,24,24
+"Greater Lowell Technical School - Massachusetts",,,,,,,,,,,,,,
+"Great Lakes Institute of Technology - Pennsylvania",,,,,,,,,,,,,,
+"Grand River Technical School - Missouri",,,,,,,,,,,,,,
+"Concorde Career College-Memphis - Tennessee",,,,,,,,,,,,,,
+"Concorde Career College-Kansas City - Missouri",,,,,,,,,,,,,,
+"Concorde Career College-Grand Prairie - Texas",,,,,,,,,,,,,,
+"Concorde Career College-Garden Grove - California",,,,,,,,,,,,,,
+"Concorde Career College-Dallas - Texas",,,,,,,,,,,,,,
+"Concorde Career College-Aurora - Colorado",,,,,,,,,,,,,,
+"Compass College of Film and Media - Michigan",,,,18,,,,,17,,,,,
+"Columbia College Hollywood - California",,,,,,,,,,,,,,
+"Columbia College Chicago - Illinois",,,,,,,,,,,,,,
+"Columbia Area Career Center - Missouri",,,,,,,,,,,,,,
+"Colorado College - Colorado",,,,,,,,27,28,,28,28,27,27
+"Colorado Academy of Veterinary Technology - Colorado",,,,,,,,,,,,,,
+"College of the Atlantic - Maine",,,,,,,,,,,,,,
+"College of St Joseph - Vermont",,,,16,,,,16,14,16,17,15,17,19
+"College of Saint Mary - Nebraska",,,,,,,,20,19,19,18,18,17,18
+"Colegio Universitario de San Juan - Puerto Rico",,,,,,,,,,,,,,
+"Colby-Sawyer College - New Hampshire",,,,,,,,,,,,,18,17
+"Concorde Career College-North Hollywood - California",,,,,,,,,,,,,,
+"Concorde Career College-Portland - Oregon",,,,,,,,,,,,,,
+"Concorde Career College-San Antonio - Texas",,,,,,,,,,,,,,
+"Concorde Career College-San Bernardino - California",,,,,,,,,,,,,,
+"Davis College - New York",,,,,,,15,15,18,20,,,,
+"Davenport University - Michigan",,,,,,,,,,,,,,
+"Daemen University - New York",,,,,,,,,,,20,20,20,19
+"Curtis Institute of Music - Pennsylvania",,,,,,,,,,,,,,
+"CUNY York College - New York",,,,,,,,,,,,,,
+"CUNY New York City College of Technology - New York",,,,,,,,,,,,,,
+"CUNY Lehman College - New York",,,,,,,,,,,,,,
+"Culinary Institute of America - New York",,,,,,,,,,,,,,
+"Clinton Technical School - Missouri",,,,,,,,,,,,,,
+"Cox College - Missouri",,,,,,,,13,,,,19,,
+"Conservatory of Music of Puerto Rico - Puerto Rico",,,,,,,,,,,,,,
+"Concordia University-Saint Paul - Minnesota",,,,,,,,18,,,18,18,18,18
+"Concorde Career Institute-Tampa - Florida",,,,,,,,,,,,,,
+"Concorde Career Institute-Orlando - Florida",,,,,,,,,,,,,,
+"Concorde Career Institute-Miramar - Florida",,,,,,,,,,,,,,
+"Concorde Career Institute-Jacksonville - Florida",,,,,,,,,,,,,,
+"Concorde Career College-Southaven - Mississippi",,,,,,,,,,,,,,
+"Concorde Career College-San Diego - California",,,,,,,,,,,,,,
+"Cornish College of the Arts - Washington",,,,,,,,,,,,,,
+"Delaware College of Art and Design - Delaware",,,,,,,,,,,,,,
+"Clinton Essex Warren Washington BOCES - New York",,,,,,,,,,,,,,
+"Cleveland Institute of Music - Ohio",,,,,,,,,,,,,,
+"Chamberlain University-Arizona - Arizona",,,,,,,,,,,,,,
+"Central Yeshiva Tomchei Tmimim Lubavitz - New York",,,,,,,,,,,,,,
+"Central Yeshiva Beth Joseph - New York",,,,,,,,,,,,,,
+"Central Susquehanna Intermediate Unit LPN Career - Pennsylvania",,,,,,,,,,,,,,
+"Central Penn College - Pennsylvania",,,,,13,,,,,,,,,
+"Central Methodist University-College of Graduate and Extended Studies - Missouri",,,,,,,,,,,,,,
+"Central Christian College of the Bible - Missouri",,,,16,18,16,,,,,17,18,,
+"Central Christian College of Kansas - Kansas",,,,17,17,,18,18,,,18,18,18,18
+"Center for Natural Wellness School of Massage Therapy - New York",,,,,,,,,,,,,,
+"Center for Instruction - Technology & Innovation - New York",,,,,,,,,,,,,,
+"Cayuga Onondaga BOCES-Practical Nursing Program - New York",,,,,,,,,,,,,,
+"Cass Career Center - Missouri",,,,,,,,,,,,,,
+"Casal Institute of Nevada - Nevada",,,,,,,,,,,,,,
+"Casa Loma College-Van Nuys - California",,,,,,,,,,,,,,
+"Carrington College-Tucson - Arizona",,,,,,,,,,,,,,
+"Carrington College-Stockton - California",,,,,,,,,,,,,,
+"Carrington College-Spokane - Washington",,,,,,,,,,,,,,
+"Chamberlain University-California - California",,,,,,,,,,,,,,
+"Chamberlain University-Florida - Florida",,,,,,,,,,,,,,
+"Chamberlain University-Georgia - Georgia",,,,,,,,,,,,,,
+"Chamberlain University-Illinois - Illinois",,,,,,,,,,,,,,
+"Clayton  State University - Georgia",,,,,,,18,18,18,18,18,,18,18
+"Clarks Summit University - Pennsylvania",,,,,,,17,20,18,20,19,17,20,19
+"Clarion County Career Center Practical Nursing Program - Pennsylvania",,,,,,,,,,,,,,
+"Citizens School of Nursing - Pennsylvania",,,,,,,,,,,,,,
+"Circle in the Square Theatre School - New York",,,,,,,,,,,,,,
+"Christian Culinary Academy - Oregon",,,,,,,,,,,,,,
+"Chicago School of Professional Psychology-College of Nursing - Texas",,,,,,,,,,,,,,
+"Chester County Intermediate Unit - Pennsylvania",,,,,,,,,,,,,,
+"Cleveland University-Kansas City - Kansas",,,,,,17,21,,,19,,,,
+"Chatham University - Pennsylvania",,,,,,,,,,,,,,
+"Chamberlain University-Texas - Texas",,,,,,,,,,,,,,
+"Chamberlain University-Ohio - Ohio",,,,,,,,,,,,,,
+"Chamberlain University-North Carolina - North Carolina",,,,,,,,,,,,,,
+"Chamberlain University-New Jersey - New Jersey",,,,,,,,,,,,,,
+"Chamberlain University-Nevada - Nevada",,,,,,,,,,,,,,
+"Chamberlain University-Missouri - Missouri",,,,,,,,,,,,,,
+"Chamberlain University-Michigan - Michigan",,,,,,,,,,,,,,
+"Chamberlain University-Indiana - Indiana",,,,,,,,,,,,,,
+"Chamberlain University-Virginia - Virginia",,,,,,,,,,,,,,
+"Delaware County Technical School-Practical Nursing Program - Pennsylvania",,,,,,,,,,,,,,
+"DePaul University - Illinois",,,,,,,,23,22,23,21,,21,22
+"Design Institute of San Diego - California",,,,,,,,,,,,,,
+"Five Towns College - New York",,,,,,,,19,18,17,18,,,
+"Finger Lakes Health College of Nursing & Health Sciences - New York",,,,,,,,,,,,,,
+"FIDM-Fashion Institute of Design & Merchandising-San Francisco - California",,,,,,,,,,,,,,
+"FIDM-Fashion Institute of Design & Merchandising-San Diego - California",,,,,,,,,,,,,,
+"FIDM-Fashion Institute of Design & Merchandising-Orange County - California",,,,,,,,,,,,,,
+"FIDM-Fashion Institute of Design & Merchandising-Los Angeles - California",,,,,,,,,,,,,,
+"Fashion Institute of Technology - New York",,,,,,,,,,,,,,
+"Family of Faith Christian University - Oklahoma",,,,,,,,,,,,,,
+"Faith Theological Seminary - Maryland",,,,,,,,,,,,,,
+"Fairleigh Dickinson University-Metropolitan Campus - New Jersey",,,,20,17,18,17,,,,,,,
+"Fairleigh Dickinson University-Florham Campus - New Jersey",,,,21,19,20,21,,,,,,,
+"Fairfax University of America - Virginia",,,,,,,,,,,,,,
+"Everglades University - Florida",,,,,,,,,,,,,,
+"Evangel University - Missouri",,,,19,20,20,20,19,18,19,20,20,20,18
+"Estelle Medical Academy - Illinois",,,,,,,,,,,,,,
+"Escuela de Artes Plasticas y Diseno de Puerto Rico - Puerto Rico",,,,,,,,,,,,,,
+"Erie 2 Chautauqua Cattaraugus BOCES-Practical Nursing Program - New York",,,,,,,,,,,,,,
+"Flashpoint Chicago A Campus of Columbia College Hollywood - Illinois",,,,,,,,,,,,,,
+"Flint Institute of Barbering Inc - Michigan",,,,,,,,,,,,,,
+"Florida International Training Institute - Florida",,,,,,,,,,,,,,
+"Florida Memorial University - Florida",,,,,,,,,,,,,,
+"Grand Canyon University - Arizona",,,,,,,,,,,,,,
+"Graham Hospital School of Nursing - Illinois",,,,,,,19,,,,,,18,18
+"Grace University - Nebraska",,,,18,17,19,20,19,18,19,20,8,19,19
+"Grace Mission University - California",,,,,,,,,,,,,,
+"Grace Christian University - Michigan",,,,,,,,,,,18,18,19,17
+"Goldey-Beacom College - Delaware",,,,,,,,,,,,,,
+"Golden Gate University - California",,,,,,,,,,,,,,
+"Goddard College - Vermont",,,,,,,,,,,,,,
+"Erie 1 BOCES - New York",,,,,,,,,,,,,,
+"Gnomon - California",,,,,,,,,,,,,,
+"Georgia State University-Perimeter College - Georgia",,,,,,,,,,,,,,
+"Gemini School of Visual Arts & Communication - Texas",,,,,,,,,,,,,,
+"Geisinger-Lewistown Hospital School of Nursing - Pennsylvania",,,,,,,,,,,,,,
+"Galaxy Medical College - California",,,,,,,,,,,,,,
+"Franklin and Marshall College - Pennsylvania",,,,,,,,,,,,,,
+"Fox College - Illinois",,,,,,,,,,,,,,
+"Fosbre Academy of Hair Design - Washington",,,,,,,,,,,,,,
+"Fort Hays State University - Kansas",,,,,,,,18,18,18,18,,19,18
+"Gettysburg College - Pennsylvania",,,,,,,,27,26,27,27,27,,27
+"Endicott College - Massachusetts",,,,,,,,21,21,23,20,21,20,20
+"Embry-Riddle Aeronautical University-Worldwide - Florida",,,,,,,,,,,,,,
+"Elizabethtown College School of Continuing and Professional Studies - Pennsylvania",,,,,,,,,,,,,,
+"DeVry University-Virginia - Virginia",,,,,,,,,,,,,,
+"DeVry University-Texas - Texas",,,,,,,,,,,,,,
+"DeVry University-Tennessee - Tennessee",,,,,,,,,,,,,,
+"DeVry University-Pennsylvania - Pennsylvania",,,,,,,,,,,,,,
+"DeVry University-Oklahoma - Oklahoma",,,,,,,,,,,,,,
+"DeVry University-Ohio - Ohio",,,,,,,,,,,,,,
+"DeVry University-North Carolina - North Carolina",,,,,,,,,,,,,,
+"DeVry University-New Jersey - New Jersey",,,,,,,,,,,,,,
+"Dickinson College - Pennsylvania",,,,,,,,27,27,27,26,26,27,26
+"DeVry University-Nevada - Nevada",,,,,,,,,,,,,,
+"DeVry University-Indiana - Indiana",,,,,,,,,,,,,,
+"DeVry University-Illinois - Illinois",,,,,,,,,,,,,,
+"DeVry University-Georgia - Georgia",,,,,,,,,,,,,,
+"DeVry University-Florida - Florida",,,,,,,,,,,,,,
+"DeVry University-Colorado - Colorado",,,,,,,,,,,,,,
+"DeVry University-California - California",,,,,,,,,,,,,,
+"DeVry University-Arizona - Arizona",,,,,,,,,,,,,,
+"DeVry College of New York - New York",,,,,,,,,,,,,,
+"DeVry University-Missouri - Missouri",,,,,,,,,,,,,,
+"Carrington College-San Jose - California",,,,,,,,,,,,,,
+"Digital Media Institute at InterTech - Louisiana",,,,,,,,,,,,,,
+"Divine Word College - Iowa",,,,,,,,,,,,,,
+"Elim Bible Institute and College - New York",,,,,,,,,,,,,,
+"EDP University of Puerto Rico Inc-San Juan - Puerto Rico",,,,,,,,,,,,,,
+"EDIC College - Puerto Rico",,,,,,,,,,,,,,
+"ECPI University - Virginia",,,,,,,,,,,,,,
+"Ecclesia College - Arkansas",,,,,6,17,,,,,,,,
+"Eastwick College-Ramsey - New Jersey",,,,,,,,,,,,,,
+"Eastwick College-Nutley - New Jersey",,,,,,,,,,,,,,
+"Eastwick College-Hackensack - New Jersey",,,,,,,,,,,,,,
+"Diman Regional Technical Institute - Massachusetts",,,,,,,,,,,,,,
+"Eastern Suffolk BOCES - New York",,,,,,,,,,,,,,
+"Eastern Center for Arts and Technology - Pennsylvania",,,,,,,,,,,,,,
+"East-West University - Illinois",,,,15,,,,,,,,,,
+"Dutchess BOCES-Practical Nursing Program - New York",,,,,,,,,,,,,,
+"Dunwoody College of Technology - Minnesota",,,,,,,,,,,,,,
+"Drew University - New Jersey",,,,,,,22,22,21,21,21,,20,24
+"Dr. Ida Rolf Institute - Colorado",,,,,,,,,,,,,,
+"Doane University - Nebraska",,,,20,21,20,21,21,21,20,20,20,20,20
+"DLP Conemaugh Memorial Medical Center - Pennsylvania",,,,,,,,,,,,2,2,2
+"Eastern Connecticut State University - Connecticut",,,,,,,,20,19,19,,,,
+"Westwood College-Denver North - Colorado",,,,,,,,,,,,,,20
+
+
+
+"Publisher:", "National Center for Education Statistics"
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
